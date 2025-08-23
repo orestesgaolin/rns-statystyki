@@ -66,7 +66,7 @@ def fetch_data(api_key):
         date_str = current_date.strftime("%Y-%m-%d")
         print(f"Fetching data for {date_str}...")
 
-        params = {"date": date_str, "page": 1, "perpage": 220}
+        params = {"date": date_str, "page": 1, "perpage": 300}
         try:
             response = requests.get(API_URL, headers=api_headers, params=params)
             response.raise_for_status()
