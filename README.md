@@ -68,6 +68,7 @@ python main.py --fetch --api-key your_custom_key
 ```
 
 
+
 ## Top 100 Artists (as of 2025-08-23)
 
 | Rank | Artist | Play Count |
@@ -77,19 +78,19 @@ python main.py --fetch --api-key your_custom_key
 | 3 | David Bowie | 1184 |
 | 4 | The Black Keys | 1028 |
 | 5 | U2 | 1008 |
-| 6 | Fisz Emade Tworzywo | 996 |
+| 6 | Fisz Emade Tworzywo | 998 |
 | 7 | The Cure | 932 |
 | 8 | Sting | 898 |
 | 9 | Depeche Mode | 868 |
-| 10 | John Mayer | 841 |
-| 11 | Lenny Kravitz | 840 |
+| 10 | Lenny Kravitz | 840 |
+| 11 | John Mayer | 840 |
 | 12 | Natalia Przybysz | 772 |
 | 13 | Red Hot Chili Peppers | 771 |
 | 14 | Bruce Springsteen | 762 |
 | 15 | Maanam | 758 |
 | 16 | Arctic Monkeys | 744 |
 | 17 | Michael Kiwanuka | 731 |
-| 18 | Jungle | 725 |
+| 18 | Jungle | 724 |
 | 19 | Nick Cave & The Bad Seeds | 722 |
 | 20 | Foo Fighters | 712 |
 | 21 | Queen | 692 |
@@ -98,17 +99,17 @@ python main.py --fetch --api-key your_custom_key
 | 24 | Iggy Pop | 665 |
 | 25 | Amy Winehouse | 664 |
 | 26 | Moby | 661 |
-| 27 | Black Pumas | 645 |
+| 27 | Black Pumas | 644 |
 | 28 | Coldplay | 641 |
 | 29 | Billie Eilish | 629 |
-| 30 | Florence + the Machine | 606 |
+| 30 | Florence + the Machine | 607 |
 | 31 | Voo Voo | 605 |
 | 32 | Chumbawamba | 604 |
 | 33 | Aretha Franklin | 604 |
 | 34 | Royal Blood | 592 |
 | 35 | Krzysztof Zalewski | 589 |
 | 36 | Metallica | 588 |
-| 37 | Kings of Leon | 588 |
+| 37 | Kings of Leon | 587 |
 | 38 | Paolo Nutini | 585 |
 | 39 | Arlo Parks | 575 |
 | 40 | Brodka | 572 |
@@ -122,7 +123,7 @@ python main.py --fetch --api-key your_custom_key
 | 48 | Little Simz | 528 |
 | 49 | Marvin Gaye | 524 |
 | 50 | Kaleo | 524 |
-| 51 | Miles Kane | 523 |
+| 51 | Miles Kane | 522 |
 | 52 | Morcheeba | 517 |
 | 53 | Jack White | 507 |
 | 54 | Norah Jones | 504 |
@@ -135,10 +136,10 @@ python main.py --fetch --api-key your_custom_key
 | 61 | Broken Bells | 489 |
 | 62 | Björk | 489 |
 | 63 | Tame Impala | 486 |
-| 64 | Stereophonics | 486 |
+| 64 | Stereophonics | 485 |
 | 65 | Organek | 482 |
 | 66 | Led Zeppelin | 482 |
-| 67 | Kaśka Sochacka | 481 |
+| 67 | Kaśka Sochacka | 482 |
 | 68 | Johnny Cash | 480 |
 | 69 | Alicia Keys | 479 |
 | 70 | Joy Crookes | 477 |
@@ -147,7 +148,7 @@ python main.py --fetch --api-key your_custom_key
 | 73 | Muse | 467 |
 | 74 | Fleetwood Mac | 459 |
 | 75 | Jessie Ware | 453 |
-| 76 | Hozier | 438 |
+| 76 | Hozier | 437 |
 | 77 | Sault | 436 |
 | 78 | The White Stripes | 434 |
 | 79 | John Lennon | 434 |
@@ -198,7 +199,7 @@ python main.py --fetch --api-key your_custom_key
 | 19 | The Pretenders | I Didn't Know When to Stop | 112 |
 | 20 | Rammstein | Zeit | 106 |
 | 21 | The Redaktors | By nie zapeszyć | 105 |
-| 22 | Dezerter | Żółć | 103 |
+| 22 | Dezerter | Żółć | 104 |
 | 23 | Fleetwood Mac | Dreams | 99 |
 | 24 | Primal Scream | Movin' on Up | 99 |
 | 25 | Sting | Rushing Water | 99 |

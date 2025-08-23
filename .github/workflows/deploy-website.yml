@@ -1,0 +1,46 @@
+name: Build and Deploy Website
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0" # Run every Sunday at midnight
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+
+      - name: Install dependencies
+        run: uv sync
+
+      # Get RNS_API_KEY from GH Secrets and save to .env:
+      - name: Create .env file
+        run: |
+          echo "RNS_API_KEY=${{ secrets.RNS_API_KEY }}" >> .env
+
+      - name: Generate database
+        run: uv run main.py
+
+      - name: Export statistics
+        run: uv run export_stats.py
+
+      - name: Commit changes to website and data folder
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add website data
+          git commit -m "Update website and data"
+          git push
