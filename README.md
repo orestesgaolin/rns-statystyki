@@ -67,6 +67,7 @@ Use a custom API key for a single run:
 python main.py --fetch --api-key your_custom_key
 ```
 
+
 ## Top 100 Artists (as of 2025-08-23)
 
 | Rank | Artist | Play Count |
@@ -93,15 +94,15 @@ python main.py --fetch --api-key your_custom_key
 | 20 | Foo Fighters | 712 |
 | 21 | Queen | 692 |
 | 22 | Pearl Jam | 692 |
-| 23 | Prince | 668 |
+| 23 | Prince | 669 |
 | 24 | Iggy Pop | 665 |
 | 25 | Amy Winehouse | 664 |
 | 26 | Moby | 661 |
 | 27 | Black Pumas | 645 |
 | 28 | Coldplay | 641 |
 | 29 | Billie Eilish | 629 |
-| 30 | Voo Voo | 605 |
-| 31 | Florence + the Machine | 604 |
+| 30 | Florence + the Machine | 606 |
+| 31 | Voo Voo | 605 |
 | 32 | Chumbawamba | 604 |
 | 33 | Aretha Franklin | 604 |
 | 34 | Royal Blood | 592 |

@@ -106,6 +106,150 @@ def export_data():
             'song_count': row['song_count']
         })
     
+    # Export top artists movement over years - focused on ranking changes
+    cursor.execute("""
+        SELECT DISTINCT strftime('%Y', date_play) as year
+        FROM songs
+        ORDER BY year
+    """)
+    all_years = [row['year'] for row in cursor.fetchall()]
+    
+    # Track the overall top artists across all years
+    cursor.execute("""
+        SELECT artist, COUNT(*) as total_play_count 
+        FROM songs 
+        GROUP BY artist 
+        ORDER BY total_play_count DESC 
+        LIMIT 40
+    """)
+    top_overall_artists = [row['artist'] for row in cursor.fetchall()]
+    
+    # Also track artists who have been in the top 10 in any year
+    cursor.execute("""
+        WITH yearly_top_artists AS (
+            SELECT 
+                strftime('%Y', date_play) as year, 
+                artist, 
+                COUNT(*) as play_count,
+                RANK() OVER (PARTITION BY strftime('%Y', date_play) ORDER BY COUNT(*) DESC) as yearly_rank
+            FROM songs
+            GROUP BY year, artist
+        )
+        SELECT DISTINCT artist
+        FROM yearly_top_artists
+        WHERE yearly_rank <= 10
+        ORDER BY artist
+    """)
+    top10_any_year_artists = [row['artist'] for row in cursor.fetchall()]
+    
+    # Combine the lists to ensure we track both overall popular artists and those who were top 10 in any year
+    artists_to_track = list(set(top_overall_artists + top10_any_year_artists))
+    
+    # Create a dictionary to track which years each artist appears in
+    artist_years = {artist: [] for artist in artists_to_track}
+    
+    # Get top 100 artists for each year
+    artist_rankings = {}
+    for year in all_years:
+        cursor.execute("""
+            SELECT artist, COUNT(*) as play_count 
+            FROM songs 
+            WHERE strftime('%Y', date_play) = ?
+            GROUP BY artist 
+            ORDER BY play_count DESC 
+            LIMIT 100
+        """, (year,))
+        results = [dict(row) for row in cursor.fetchall()]
+        
+        # Add rank information
+        for i, artist_data in enumerate(results, 1):
+            artist_data['rank'] = i
+            # Record which years each tracked artist appears in
+            if artist_data['artist'] in artists_to_track:
+                artist_years[artist_data['artist']].append(year)
+        
+        artist_rankings[year] = results
+    
+    # Prepare a timeline dataset optimized for rank visualization
+    artist_rank_timeline = {}
+    
+    # First pass: add data for artists in their ranked years
+    for artist in artists_to_track:
+        artist_rank_timeline[artist] = []
+        
+        for year in all_years:
+            year_data = artist_rankings.get(year, [])
+            artist_data = next((data for data in year_data if data['artist'] == artist), None)
+            
+            if artist_data:
+                artist_rank_timeline[artist].append({
+                    'year': year,
+                    'rank': artist_data['rank'],
+                    'play_count': artist_data['play_count']
+                })
+    
+    # Second pass: fill in missing years for artists that appear in multiple years
+    for artist in artists_to_track:
+        # Only process artists that appear in at least 2 years
+        years_appeared = artist_years[artist]
+        if len(years_appeared) >= 2:
+            # Find years where the artist is missing but should be tracked
+            years_to_add = []
+            
+            for i in range(len(all_years) - 1):
+                current_year = all_years[i]
+                next_year = all_years[i+1]
+                
+                # If artist appears in current year but not in next year, add next year
+                if current_year in years_appeared and next_year not in years_appeared:
+                    years_to_add.append(next_year)
+                
+                # If artist appears in next year but not in current year (gap filling)
+                elif current_year not in years_appeared and next_year in years_appeared:
+                    # Check if there's a previous year they appeared in
+                    if i > 0 and all_years[i-1] in years_appeared:
+                        years_to_add.append(current_year)
+            
+            # Get exact rank and play count for missing years
+            for year in years_to_add:
+                # Skip if this year was already added in the first pass
+                if any(entry['year'] == year for entry in artist_rank_timeline[artist]):
+                    continue
+                    
+                cursor.execute("""
+                    WITH ranked_artists AS (
+                        SELECT 
+                            artist, 
+                            COUNT(*) as play_count,
+                            RANK() OVER (ORDER BY COUNT(*) DESC) as rank
+                        FROM songs 
+                        WHERE strftime('%Y', date_play) = ?
+                        GROUP BY artist
+                    )
+                    SELECT artist, play_count, rank FROM ranked_artists
+                    WHERE artist = ?
+                """, (year, artist))
+                
+                extended_data = cursor.fetchone()
+                if extended_data:
+                    artist_rank_timeline[artist].append({
+                        'year': year,
+                        'rank': extended_data['rank'],
+                        'play_count': extended_data['play_count']
+                    })
+                else:
+                    # If artist has no plays in this year, add with rank 999 and play_count 0
+                    # This ensures the artist stays in the timeline but indicates absence
+                    artist_rank_timeline[artist].append({
+                        'year': year,
+                        'rank': 999,  # Special value to indicate absence
+                        'play_count': 0
+                    })
+    
+    # Sort each artist's timeline by year
+    for artist in artist_rank_timeline:
+        artist_rank_timeline[artist].sort(key=lambda x: x['year'])
+    
     # Combine all data
     export_data = {
         'metadata': metadata,
@@ -115,6 +259,8 @@ def export_data():
         'top_artists_by_year': top_artists_by_year,
         'top_songs_by_year': top_songs_by_year,
         'monthly_data_by_year': monthly_data_by_year,
+        'artist_rank_timeline': artist_rank_timeline,
+        'years_timeline': all_years
     }
     
     # Write to JSON file

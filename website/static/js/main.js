@@ -25,6 +25,7 @@ function initializeWebsite() {
     renderMonthlyData();
     renderTopArtistsData();
     renderTopSongsData();
+    renderArtistsTimeline();
     populateDataBrowser();
     setupEventListeners();
 }
@@ -410,6 +411,162 @@ function renderTopSongsTable() {
     tableElement.innerHTML = tableHTML;
 }
 
+// Render the artists timeline visualization as a bump chart (rank changes)
+function renderArtistsTimeline() {
+    const chartElement = document.getElementById('artists-timeline-chart');
+
+    // Check if we have the required data
+    if (!statisticsData.artist_rank_timeline ||
+        Object.keys(statisticsData.artist_rank_timeline).length < 2) {
+        chartElement.innerHTML = '<div class="no-data">Niewystarczająca ilość danych dla wizualizacji zmian w czasie.</div>';
+        return;
+    }
+
+    const years = statisticsData.years_timeline;
+
+    // Create a color mapping for consistent artist colors
+    const allArtists = Object.keys(statisticsData.artist_rank_timeline);
+
+    // Generate colors using a more pastel, less extreme palette
+    const colorPalette = [
+        '#e2979c', '#a7c5eb', '#b5e7a0', '#f4d06f', '#c39bd3',
+        '#aed9e0', '#fdcb6e', '#b39eb5', '#f3a683', '#7fb3d5',
+        '#c5e1a5', '#f6c3d0', '#95afc0', '#f9ca9c', '#88b0bf',
+        '#fab1a0', '#c1c8e4', '#d5e1df', '#e6b0aa', '#afd275'
+    ];
+
+    const artistColors = {};
+    let colorIndex = 0;
+    allArtists.forEach(artist => {
+        artistColors[artist] = colorPalette[colorIndex % colorPalette.length];
+        colorIndex++;
+    });
+
+    // Prepare data for the visualization
+    // Filter to focus on meaningful artists: those with multiple years of data AND at least one appearance in top 10
+    const artistsWithMultipleYears = allArtists.filter(artist => {
+        const data = statisticsData.artist_rank_timeline[artist];
+        // Check if appears in multiple years with actual plays and has been in top 10 at least once
+        return data.length > 1 && 
+               data.filter(d => d.play_count > 0).length > 1 && 
+               data.some(d => d.rank <= 10);
+    });
+
+    // Sort artists by frequency of appearance and best rank
+    artistsWithMultipleYears.sort((a, b) => {
+        const aData = statisticsData.artist_rank_timeline[a];
+        const bData = statisticsData.artist_rank_timeline[b];
+
+        // Get best rank for each artist
+        const aBestRank = Math.min(...aData.map(d => d.rank));
+        const bBestRank = Math.min(...bData.map(d => d.rank));
+        
+        // Compare best ranks first
+        if (aBestRank !== bBestRank) return aBestRank - bBestRank;
+        
+        // If same best rank, compare number of years in top 10
+        const aTopYears = aData.filter(d => d.rank <= 10).length;
+        const bTopYears = bData.filter(d => d.rank <= 10).length;
+        if (aTopYears !== bTopYears) return bTopYears - aTopYears;
+        
+        // If still tied, compare total years
+        return bData.length - aData.length;
+    });
+
+    // Take top 15 artists
+    const selectedArtists = artistsWithMultipleYears;//.slice(0, 15);
+
+    // Filter artists data to only include rankings within our display range (1-40)
+    const traces = [];
+
+    selectedArtists.forEach(artistName => {
+        const data = statisticsData.artist_rank_timeline[artistName];
+
+        // Sort by year
+        data.sort((a, b) => a.year.localeCompare(b.year));
+
+        // Filter data to only include ranks in display range or special "no data" ranks
+        const displayData = data.filter(d => d.rank <= 200 || d.rank === 999);
+        
+        // Extract years and ranks
+        const xValues = [];
+        const yValues = [];
+        const textValues = [];
+        
+        displayData.forEach(d => {
+            xValues.push(d.year);
+            
+            // Handle special "no data" rank
+            if (d.rank === 999) {
+                // Use null to create a gap in the line
+                yValues.push(null);
+                textValues.push(`${artistName}<br>Brak danych w tym roku`);
+            } else {
+                yValues.push(d.rank);
+                textValues.push(`${artistName}<br>Pozycja: ${d.rank}<br>Liczba odtworzeń: ${d.play_count}<br>Rok: ${d.year}`);
+            }
+        });
+        
+        // Skip if no valid ranks to display
+        if (yValues.every(y => y === null)) return;
+
+        traces.push({
+            x: xValues,
+            y: yValues,
+            text: textValues,
+            type: 'scatter',
+            mode: 'lines+markers',
+            name: artistName,
+            line: {
+                color: artistColors[artistName],
+                width: 2.5,
+                shape: 'linear',
+                dash: 'solid'
+            },
+            marker: {
+                size: 8,
+                line: {
+                    width: 1.5,
+                    color: 'white'
+                }
+            },
+            connectgaps: false, // Do not connect the gaps where artist has no data
+            hoverinfo: 'text'
+        });
+    });
+
+    const layout = {
+        title: 'Zmiana pozycji najpopularniejszych artystów w rankingu',
+        xaxis: {
+            title: 'Rok',
+            tickmode: 'array',
+            tickvals: years,
+            ticktext: years
+        },
+        yaxis: {
+            title: 'Pozycja w rankingu',
+            autorange: false,
+            range: [40, 1],  // Show up to rank 40 to include lower positions
+            tickmode: 'array',
+            tickvals: [1, 5, 10, 15, 20, 30, 40],
+            ticktext: ['1', '5', '10', '15', '20', '30', '40']
+        },
+        paper_bgcolor: 'rgba(0,0,0,0)',
+        plot_bgcolor: 'rgba(250,250,250,0.5)',  // Very light background to improve contrast with pastel colors
+        font: { color: '#333333' },  // Darker font for better readability
+        hovermode: 'closest',
+        legend: {
+            orientation: 'h',
+            y: -0.2
+        },
+        margin: { l: 60, r: 20, t: 50, b: 100 }
+    };
+
+    Plotly.newPlot(chartElement, traces, layout, {
+        displayModeBar: true,
+    });
+}
+
 // Populate data browser with lists of artists and songs
 function populateDataBrowser() {
     populateArtistsList();
@@ -553,6 +710,7 @@ function updateAllVisualizations() {
     renderMonthlyData();
     renderTopArtistsData();
     renderTopSongsData();
+    // Note: We don't update the timeline here as it always shows all years
     populateDataBrowser();
 }
 

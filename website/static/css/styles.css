@@ -214,6 +214,20 @@ input[type="text"] {
     background-color: rgba(230, 0, 0, 0.05);
 }
 
+/* Timeline chart */
+.chart-description {
+    text-align: center;
+    font-style: italic;
+    color: #666;
+    margin-top: 10px;
+}
+
+#artists-timeline-chart {
+    height: 500px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
 /* Footer */
 footer {
     background-color: var(--secondary-color);
@@ -230,6 +244,16 @@ footer a {
 
 footer a:hover {
     color: var(--primary-color);
+}
+
+/* Full-width stat card */
+.stat-card.full-width {
+    grid-column: 1 / -1;  /* Make the card span all columns */
+    width: 100%;
+}
+
+.full-width .chart-container {
+    height: 600px;  /* Increase height for better visibility */
 }
 
 /* Responsive design */

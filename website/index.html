@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pl">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,6 +9,7 @@
     <!-- Plotly.js -->
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
+
 <body>
     <header>
         <h1>Statystyki odtworzeń Radia Nowy Świat</h1>
@@ -22,7 +24,8 @@
 
     <main>
         <section class="stats-container">
-            
+
+
 
             <div class="stat-card">
                 <h2>Najpopularniejsi artyści</h2>
@@ -59,7 +62,13 @@
                 <div id="summary-stats" class="stat-content"></div>
             </div>
 
-            
+            <div class="stat-card full-width">
+                <h2>Zmiany w rankingu najpopularniejszych artystów</h2>
+                <div id="artists-timeline-chart" class="chart-container active-view"></div>
+                <p class="chart-description">Wykres pokazuje zmiany pozycji artystów w rankingu popularności na
+                    przestrzeni lat. Niższe wartości na osi Y oznaczają wyższą pozycję w rankingu.</p>
+            </div>
+
         </section>
 
         <section class="data-browser">
@@ -88,4 +97,5 @@
 
     <script src="static/js/main.js"></script>
 </body>
+
 </html>
