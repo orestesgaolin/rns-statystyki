@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statystyki odtworzeń Radia Nowy Świat</title>
+    <link rel="stylesheet" href="static/css/styles.css">
+    <!-- Plotly.js -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Statystyki odtworzeń Radia Nowy Świat</h1>
+        <div class="year-filter">
+            <label for="year-select">Wybierz rok:</label>
+            <select id="year-select">
+                <option value="all">Wszystkie lata</option>
+                <!-- Years will be populated dynamically -->
+            </select>
+        </div>
+    </header>
+
+    <main>
+        <section class="stats-container">
+            
+
+            <div class="stat-card">
+                <h2>Najpopularniejsi artyści</h2>
+                <div class="view-toggle">
+                    <button class="toggle-btn active" data-target="top-artists" data-view="chart">Wykres</button>
+                    <button class="toggle-btn" data-target="top-artists" data-view="table">Tabela</button>
+                </div>
+                <div id="top-artists-chart" class="chart-container active-view"></div>
+                <div id="top-artists-table" class="table-container"></div>
+            </div>
+
+            <div class="stat-card">
+                <h2>Najpopularniejsze utwory</h2>
+                <div class="view-toggle">
+                    <button class="toggle-btn active" data-target="top-songs" data-view="chart">Wykres</button>
+                    <button class="toggle-btn" data-target="top-songs" data-view="table">Tabela</button>
+                </div>
+                <div id="top-songs-chart" class="chart-container active-view"></div>
+                <div id="top-songs-table" class="table-container"></div>
+            </div>
+
+            <div class="stat-card">
+                <h2>Miesięczne odtworzenia</h2>
+                <div class="view-toggle">
+                    <button class="toggle-btn active" data-target="monthly" data-view="chart">Wykres</button>
+                    <button class="toggle-btn" data-target="monthly" data-view="table">Tabela</button>
+                </div>
+                <div id="monthly-chart" class="chart-container active-view"></div>
+                <div id="monthly-table" class="table-container"></div>
+            </div>
+
+            <div class="stat-card">
+                <h2>Podsumowanie</h2>
+                <div id="summary-stats" class="stat-content"></div>
+            </div>
+
+            
+        </section>
+
+        <section class="data-browser">
+            <h2>Przeglądaj dane</h2>
+            <div class="tabs">
+                <button class="tab-btn active" data-tab="artists">Artyści</button>
+                <button class="tab-btn" data-tab="songs">Utwory</button>
+            </div>
+            <div class="tab-content">
+                <div id="artists-tab" class="tab-pane active">
+                    <input type="text" id="artist-search" placeholder="Szukaj artysty...">
+                    <div id="artists-list" class="data-list"></div>
+                </div>
+                <div id="songs-tab" class="tab-pane">
+                    <input type="text" id="song-search" placeholder="Szukaj utworu...">
+                    <div id="songs-list" class="data-list"></div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Ostatnia aktualizacja: <span id="last-update"></span></p>
+        <p>Dane: <a href="https://github.com/dominikrys/rns" target="_blank">GitHub Repository</a></p>
+    </footer>
+
+    <script src="static/js/main.js"></script>
+</body>
+</html>

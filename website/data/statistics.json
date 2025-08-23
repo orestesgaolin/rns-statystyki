@@ -1,0 +1,2307 @@
+{
+  "metadata": {
+    "min_date": "2020-07-10 00:02:00",
+    "max_date": "2025-08-23 14:34:42",
+    "total_songs": 409478
+  },
+  "top_artists": [
+    {
+      "artist": "The Rolling Stones",
+      "play_count": 1477
+    },
+    {
+      "artist": "The Beatles",
+      "play_count": 1229
+    },
+    {
+      "artist": "David Bowie",
+      "play_count": 1184
+    },
+    {
+      "artist": "The Black Keys",
+      "play_count": 1028
+    },
+    {
+      "artist": "U2",
+      "play_count": 1008
+    },
+    {
+      "artist": "Fisz Emade Tworzywo",
+      "play_count": 996
+    },
+    {
+      "artist": "The Cure",
+      "play_count": 932
+    },
+    {
+      "artist": "Sting",
+      "play_count": 898
+    },
+    {
+      "artist": "Depeche Mode",
+      "play_count": 868
+    },
+    {
+      "artist": "John Mayer",
+      "play_count": 841
+    },
+    {
+      "artist": "Lenny Kravitz",
+      "play_count": 840
+    },
+    {
+      "artist": "Natalia Przybysz",
+      "play_count": 772
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "play_count": 771
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "play_count": 762
+    },
+    {
+      "artist": "Maanam",
+      "play_count": 758
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "play_count": 744
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "play_count": 731
+    },
+    {
+      "artist": "Jungle",
+      "play_count": 725
+    },
+    {
+      "artist": "Nick Cave & The Bad Seeds",
+      "play_count": 722
+    },
+    {
+      "artist": "Foo Fighters",
+      "play_count": 712
+    },
+    {
+      "artist": "Queen",
+      "play_count": 692
+    },
+    {
+      "artist": "Pearl Jam",
+      "play_count": 692
+    },
+    {
+      "artist": "Prince",
+      "play_count": 668
+    },
+    {
+      "artist": "Iggy Pop",
+      "play_count": 665
+    },
+    {
+      "artist": "Amy Winehouse",
+      "play_count": 664
+    },
+    {
+      "artist": "Moby",
+      "play_count": 661
+    },
+    {
+      "artist": "Black Pumas",
+      "play_count": 645
+    },
+    {
+      "artist": "Coldplay",
+      "play_count": 641
+    },
+    {
+      "artist": "Billie Eilish",
+      "play_count": 629
+    },
+    {
+      "artist": "Voo Voo",
+      "play_count": 605
+    },
+    {
+      "artist": "Florence + the Machine",
+      "play_count": 604
+    },
+    {
+      "artist": "Chumbawamba",
+      "play_count": 604
+    },
+    {
+      "artist": "Aretha Franklin",
+      "play_count": 604
+    },
+    {
+      "artist": "Royal Blood",
+      "play_count": 592
+    },
+    {
+      "artist": "Krzysztof Zalewski",
+      "play_count": 589
+    },
+    {
+      "artist": "Metallica",
+      "play_count": 588
+    },
+    {
+      "artist": "Kings of Leon",
+      "play_count": 588
+    },
+    {
+      "artist": "Paolo Nutini",
+      "play_count": 585
+    },
+    {
+      "artist": "Arlo Parks",
+      "play_count": 575
+    },
+    {
+      "artist": "Brodka",
+      "play_count": 572
+    },
+    {
+      "artist": "Elvis Presley",
+      "play_count": 565
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "play_count": 564
+    },
+    {
+      "artist": "Peter Gabriel",
+      "play_count": 557
+    },
+    {
+      "artist": "Foals",
+      "play_count": 549
+    },
+    {
+      "artist": "Nirvana",
+      "play_count": 547
+    },
+    {
+      "artist": "Stevie Wonder",
+      "play_count": 534
+    },
+    {
+      "artist": "Eric Clapton",
+      "play_count": 532
+    },
+    {
+      "artist": "Little Simz",
+      "play_count": 528
+    },
+    {
+      "artist": "Marvin Gaye",
+      "play_count": 524
+    },
+    {
+      "artist": "Kaleo",
+      "play_count": 524
+    },
+    {
+      "artist": "Miles Kane",
+      "play_count": 523
+    },
+    {
+      "artist": "Morcheeba",
+      "play_count": 517
+    },
+    {
+      "artist": "Jack White",
+      "play_count": 507
+    },
+    {
+      "artist": "Norah Jones",
+      "play_count": 504
+    },
+    {
+      "artist": "PJ Harvey",
+      "play_count": 501
+    },
+    {
+      "artist": "Massive Attack",
+      "play_count": 495
+    },
+    {
+      "artist": "Jamiroquai",
+      "play_count": 493
+    },
+    {
+      "artist": "R.E.M.",
+      "play_count": 491
+    },
+    {
+      "artist": "Kate Bush",
+      "play_count": 491
+    },
+    {
+      "artist": "Curtis Harding",
+      "play_count": 490
+    },
+    {
+      "artist": "Broken Bells",
+      "play_count": 489
+    },
+    {
+      "artist": "Björk",
+      "play_count": 489
+    },
+    {
+      "artist": "Tame Impala",
+      "play_count": 486
+    },
+    {
+      "artist": "Stereophonics",
+      "play_count": 486
+    },
+    {
+      "artist": "Organek",
+      "play_count": 482
+    },
+    {
+      "artist": "Led Zeppelin",
+      "play_count": 482
+    },
+    {
+      "artist": "Kaśka Sochacka",
+      "play_count": 481
+    },
+    {
+      "artist": "Johnny Cash",
+      "play_count": 480
+    },
+    {
+      "artist": "Alicia Keys",
+      "play_count": 479
+    },
+    {
+      "artist": "Joy Crookes",
+      "play_count": 477
+    },
+    {
+      "artist": "Bob Dylan",
+      "play_count": 475
+    },
+    {
+      "artist": "Chris Stapleton",
+      "play_count": 469
+    },
+    {
+      "artist": "Muse",
+      "play_count": 467
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "play_count": 459
+    },
+    {
+      "artist": "Jessie Ware",
+      "play_count": 453
+    },
+    {
+      "artist": "Hozier",
+      "play_count": 438
+    },
+    {
+      "artist": "Sault",
+      "play_count": 436
+    },
+    {
+      "artist": "The White Stripes",
+      "play_count": 434
+    },
+    {
+      "artist": "John Lennon",
+      "play_count": 434
+    },
+    {
+      "artist": "Cold War Kids",
+      "play_count": 434
+    },
+    {
+      "artist": "The Record Company",
+      "play_count": 431
+    },
+    {
+      "artist": "Gregory Porter",
+      "play_count": 431
+    },
+    {
+      "artist": "Dave Matthews Band",
+      "play_count": 431
+    },
+    {
+      "artist": "Adele",
+      "play_count": 430
+    },
+    {
+      "artist": "Jorja Smith",
+      "play_count": 428
+    },
+    {
+      "artist": "Lana Del Rey",
+      "play_count": 425
+    },
+    {
+      "artist": "Faith No More",
+      "play_count": 424
+    },
+    {
+      "artist": "Elton John",
+      "play_count": 423
+    },
+    {
+      "artist": "Manic Street Preachers",
+      "play_count": 418
+    },
+    {
+      "artist": "Rival Sons",
+      "play_count": 415
+    },
+    {
+      "artist": "Radiohead",
+      "play_count": 414
+    },
+    {
+      "artist": "Nina Simone",
+      "play_count": 413
+    },
+    {
+      "artist": "Pink Floyd",
+      "play_count": 411
+    },
+    {
+      "artist": "Black Pistol Fire",
+      "play_count": 410
+    },
+    {
+      "artist": "Wojciech Młynarski",
+      "play_count": 404
+    },
+    {
+      "artist": "The Heavy",
+      "play_count": 401
+    },
+    {
+      "artist": "Blur",
+      "play_count": 401
+    },
+    {
+      "artist": "INXS",
+      "play_count": 400
+    },
+    {
+      "artist": "Beth Hart",
+      "play_count": 399
+    },
+    {
+      "artist": "The National",
+      "play_count": 398
+    }
+  ],
+  "top_songs": [
+    {
+      "artist": "Chumbawamba",
+      "title": "Enough Is Enough",
+      "play_count": 521
+    },
+    {
+      "artist": "The White Stripes",
+      "title": "Fell in Love with a Girl",
+      "play_count": 237
+    },
+    {
+      "artist": "Earth",
+      "title": "Je mi fajn",
+      "play_count": 193
+    },
+    {
+      "artist": "The Alan Parsons Project",
+      "title": "Sirius",
+      "play_count": 188
+    },
+    {
+      "artist": "Voo Voo",
+      "title": "Łajba",
+      "play_count": 175
+    },
+    {
+      "artist": "Fisz Emade Tworzywo",
+      "title": "Spektrum barw",
+      "play_count": 169
+    },
+    {
+      "artist": "Monika Borzym, Kuba Badach, Wojciech Waglewski, Zbigniew Zamachowski",
+      "title": "Tango Nowy Świat",
+      "play_count": 168
+    },
+    {
+      "artist": "John Mayer",
+      "title": "Last Train Home",
+      "play_count": 164
+    },
+    {
+      "artist": "Kaśka Sochacka",
+      "title": "Niebo było różowe",
+      "play_count": 153
+    },
+    {
+      "artist": "Bruce Cockburn",
+      "title": "The Blues Got the World...",
+      "play_count": 151
+    },
+    {
+      "artist": "Arlo Parks",
+      "title": "Hope",
+      "play_count": 140
+    },
+    {
+      "artist": "Fisz Emade Tworzywo",
+      "title": "Za Mało Czasu",
+      "play_count": 139
+    },
+    {
+      "artist": "Tame Impala",
+      "title": "The Less I Know the Better",
+      "play_count": 139
+    },
+    {
+      "artist": "The Redaktors",
+      "title": "Chodź tu",
+      "play_count": 126
+    },
+    {
+      "artist": "Florence + the Machine",
+      "title": "King",
+      "play_count": 120
+    },
+    {
+      "artist": "Black Pumas",
+      "title": "Colors",
+      "play_count": 118
+    },
+    {
+      "artist": "Iggy Pop",
+      "title": "Morning Show",
+      "play_count": 116
+    },
+    {
+      "artist": "Iggy Pop",
+      "title": "Strung Out Johnny",
+      "play_count": 113
+    },
+    {
+      "artist": "The Pretenders",
+      "title": "I Didn't Know When to Stop",
+      "play_count": 112
+    },
+    {
+      "artist": "Rammstein",
+      "title": "Zeit",
+      "play_count": 106
+    },
+    {
+      "artist": "The Redaktors",
+      "title": "By nie zapeszyć",
+      "play_count": 105
+    },
+    {
+      "artist": "Dezerter",
+      "title": "Żółć",
+      "play_count": 103
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "title": "Dreams",
+      "play_count": 99
+    },
+    {
+      "artist": "Primal Scream",
+      "title": "Movin' on Up",
+      "play_count": 99
+    },
+    {
+      "artist": "Sting",
+      "title": "Rushing Water",
+      "play_count": 99
+    },
+    {
+      "artist": "Maria Peszek",
+      "title": "Lovesong",
+      "play_count": 98
+    },
+    {
+      "artist": "Natalia Przybysz",
+      "title": "Zew",
+      "play_count": 98
+    },
+    {
+      "artist": "Brodka",
+      "title": "Sadza",
+      "play_count": 97
+    },
+    {
+      "artist": "Broken Bells",
+      "title": "The Ghost Inside",
+      "play_count": 97
+    },
+    {
+      "artist": "Rival Sons",
+      "title": "Shooting Stars",
+      "play_count": 96
+    },
+    {
+      "artist": "Lianne La Havas",
+      "title": "Can't Fight",
+      "play_count": 95
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "title": "Green River",
+      "play_count": 94
+    },
+    {
+      "artist": "The Black Keys",
+      "title": "Wild Child",
+      "play_count": 92
+    },
+    {
+      "artist": "The Avalanches",
+      "title": "Since I Left You",
+      "play_count": 91
+    },
+    {
+      "artist": "Mazzy Star",
+      "title": "Fade Into You",
+      "play_count": 90
+    },
+    {
+      "artist": "Gregory Porter",
+      "title": "Revival",
+      "play_count": 89
+    },
+    {
+      "artist": "Johnny Cash",
+      "title": "Hurt",
+      "play_count": 89
+    },
+    {
+      "artist": "Fatboy Slim",
+      "title": "Praise You",
+      "play_count": 88
+    },
+    {
+      "artist": "The Black Keys",
+      "title": "Go",
+      "play_count": 88
+    },
+    {
+      "artist": "Cage The Elephant",
+      "title": "Ain't No Rest for the Wicked",
+      "play_count": 87
+    },
+    {
+      "artist": "Harry Styles",
+      "title": "Watermelon Sugar",
+      "play_count": 87
+    },
+    {
+      "artist": "Alabama Shakes",
+      "title": "Don't Wanna Fight",
+      "play_count": 86
+    },
+    {
+      "artist": "Depeche Mode",
+      "title": "Policy of Truth",
+      "play_count": 86
+    },
+    {
+      "artist": "Stone Temple Pilots",
+      "title": "Interstate Love Song",
+      "play_count": 86
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Something",
+      "play_count": 86
+    },
+    {
+      "artist": "Benjamin Booker",
+      "title": "Believe",
+      "play_count": 85
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "title": "Cold Little Heart",
+      "play_count": 85
+    },
+    {
+      "artist": "Otis Redding",
+      "title": "Hard to Handle",
+      "play_count": 85
+    },
+    {
+      "artist": "Audioslave",
+      "title": "Gasoline",
+      "play_count": 84
+    },
+    {
+      "artist": "Maanam",
+      "title": "Lipstick on the Glass",
+      "play_count": 84
+    },
+    {
+      "artist": "Mick Jagger",
+      "title": "Strange Game",
+      "play_count": 84
+    },
+    {
+      "artist": "The Redaktors",
+      "title": "Policzę do trzech",
+      "play_count": 84
+    },
+    {
+      "artist": "Travis",
+      "title": "Sing",
+      "play_count": 84
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Here Comes The Sun",
+      "play_count": 83
+    },
+    {
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "play_count": 82
+    },
+    {
+      "artist": "Black Pistol Fire",
+      "title": "Pick Your Poison",
+      "play_count": 81
+    },
+    {
+      "artist": "Peter Bjorn And John",
+      "title": "Young Folks",
+      "play_count": 81
+    },
+    {
+      "artist": "The Buena Vista Social Club",
+      "title": "Chan Chan",
+      "play_count": 81
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "title": "Stressed Out",
+      "play_count": 81
+    },
+    {
+      "artist": "Joy Crookes",
+      "title": "When You Were Mine",
+      "play_count": 80
+    },
+    {
+      "artist": "Krzysztof Zalewski",
+      "title": "Ptaki",
+      "play_count": 80
+    },
+    {
+      "artist": "Tame Impala",
+      "title": "Lost In Yesterday",
+      "play_count": 80
+    },
+    {
+      "artist": "The Record Company",
+      "title": "Never Leave You",
+      "play_count": 80
+    },
+    {
+      "artist": "Asaf Avidan",
+      "title": "Love It Or Leave It",
+      "play_count": 79
+    },
+    {
+      "artist": "Black Sabbath",
+      "title": "Paranoid",
+      "play_count": 79
+    },
+    {
+      "artist": "Eddie Vedder",
+      "title": "Brother the Cloud",
+      "play_count": 79
+    },
+    {
+      "artist": "Lou Reed",
+      "title": "Walk On The Wild Side",
+      "play_count": 79
+    },
+    {
+      "artist": "Robert Cichy",
+      "title": "Piach i wiatr",
+      "play_count": 79
+    },
+    {
+      "artist": "Spin Doctors",
+      "title": "Two Princes",
+      "play_count": 79
+    },
+    {
+      "artist": "TOTO",
+      "title": "Hold the Line",
+      "play_count": 78
+    },
+    {
+      "artist": "Temple Of The Dog",
+      "title": "Hunger Strike",
+      "play_count": 78
+    },
+    {
+      "artist": "John Lennon",
+      "title": "Imagine",
+      "play_count": 77
+    },
+    {
+      "artist": "Kaleo",
+      "title": "Break My Baby",
+      "play_count": 77
+    },
+    {
+      "artist": "Kate Bush",
+      "title": "Running Up That Hill (A Deal with God)",
+      "play_count": 77
+    },
+    {
+      "artist": "Polskie Znaki & Mark Lanegan",
+      "title": "Oh Angel",
+      "play_count": 76
+    },
+    {
+      "artist": "Sault",
+      "title": "Why Why Why Why Why",
+      "play_count": 76
+    },
+    {
+      "artist": "Grażyna Łobaszewska",
+      "title": "Czas nas uczy pogody",
+      "play_count": 75
+    },
+    {
+      "artist": "Jessie Ware",
+      "title": "Remember Where You Are",
+      "play_count": 75
+    },
+    {
+      "artist": "Counting Crows",
+      "title": "Mr. Jones",
+      "play_count": 74
+    },
+    {
+      "artist": "Fisz Emade Tworzywo",
+      "title": "Dwa ognie",
+      "play_count": 74
+    },
+    {
+      "artist": "Jeff Buckley",
+      "title": "Everybody Here Wants You",
+      "play_count": 74
+    },
+    {
+      "artist": "Morcheeba",
+      "title": "Rome Wasn't Built in a Day",
+      "play_count": 74
+    },
+    {
+      "artist": "Stone Temple Pilots",
+      "title": "Fare Thee Well",
+      "play_count": 74
+    },
+    {
+      "artist": "The Strokes",
+      "title": "Brooklyn Bridge to Chorus",
+      "play_count": 74
+    },
+    {
+      "artist": "Eva Cassidy",
+      "title": "Wade In The Water",
+      "play_count": 73
+    },
+    {
+      "artist": "Jungle",
+      "title": "All Of The Time",
+      "play_count": 73
+    },
+    {
+      "artist": "The Clash",
+      "title": "Rock the Casbah",
+      "play_count": 73
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Miss You",
+      "play_count": 73
+    },
+    {
+      "artist": "Angus & Julia Stone",
+      "title": "Grizzly Bear",
+      "play_count": 72
+    },
+    {
+      "artist": "Feist",
+      "title": "How Come You Never Go There",
+      "play_count": 72
+    },
+    {
+      "artist": "George Michael",
+      "title": "Faith",
+      "play_count": 72
+    },
+    {
+      "artist": "Guns N' Roses",
+      "title": "Welcome To The Jungle",
+      "play_count": 72
+    },
+    {
+      "artist": "Hooverphonic",
+      "title": "Summer Sun",
+      "play_count": 72
+    },
+    {
+      "artist": "Natalia Przybysz",
+      "title": "Oko cyklonu",
+      "play_count": 72
+    },
+    {
+      "artist": "Pearl Jam",
+      "title": "Jeremy",
+      "play_count": 72
+    },
+    {
+      "artist": "Charlotte Gainsbourg",
+      "title": "The Songs That We Sing",
+      "play_count": 71
+    },
+    {
+      "artist": "Edwyn Collins",
+      "title": "A Girl Like You",
+      "play_count": 71
+    },
+    {
+      "artist": "Faith No More",
+      "title": "Midlife Crisis",
+      "play_count": 71
+    },
+    {
+      "artist": "Fisz Emade Tworzywo",
+      "title": "Wolne Dni",
+      "play_count": 71
+    },
+    {
+      "artist": "Iggy Pop",
+      "title": "James Bond",
+      "play_count": 71
+    }
+  ],
+  "years_data": [
+    {
+      "year": "2020",
+      "song_count": 37918
+    },
+    {
+      "year": "2021",
+      "song_count": 80232
+    },
+    {
+      "year": "2022",
+      "song_count": 79940
+    },
+    {
+      "year": "2023",
+      "song_count": 79399
+    },
+    {
+      "year": "2024",
+      "song_count": 80400
+    },
+    {
+      "year": "2025",
+      "song_count": 51589
+    }
+  ],
+  "top_artists_by_year": {
+    "2020": [
+      {
+        "artist": "Bruce Springsteen",
+        "play_count": 164
+      },
+      {
+        "artist": "Queen",
+        "play_count": 155
+      },
+      {
+        "artist": "The Beatles",
+        "play_count": 150
+      },
+      {
+        "artist": "The Rolling Stones",
+        "play_count": 148
+      },
+      {
+        "artist": "U2",
+        "play_count": 143
+      },
+      {
+        "artist": "Maanam",
+        "play_count": 140
+      },
+      {
+        "artist": "Daria Zawiałow",
+        "play_count": 108
+      },
+      {
+        "artist": "Chumbawamba",
+        "play_count": 108
+      },
+      {
+        "artist": "Krzysztof Zalewski",
+        "play_count": 102
+      },
+      {
+        "artist": "Elvis Presley",
+        "play_count": 101
+      },
+      {
+        "artist": "Andrzej Zaucha",
+        "play_count": 100
+      },
+      {
+        "artist": "Sting",
+        "play_count": 98
+      },
+      {
+        "artist": "David Bowie",
+        "play_count": 98
+      },
+      {
+        "artist": "Pearl Jam",
+        "play_count": 96
+      },
+      {
+        "artist": "Eric Clapton",
+        "play_count": 92
+      },
+      {
+        "artist": "Edyta Bartosiewicz",
+        "play_count": 92
+      },
+      {
+        "artist": "Diana Krall",
+        "play_count": 91
+      },
+      {
+        "artist": "The Cure",
+        "play_count": 89
+      },
+      {
+        "artist": "Prince",
+        "play_count": 88
+      },
+      {
+        "artist": "Kazik",
+        "play_count": 87
+      }
+    ],
+    "2021": [
+      {
+        "artist": "David Bowie",
+        "play_count": 333
+      },
+      {
+        "artist": "The Rolling Stones",
+        "play_count": 301
+      },
+      {
+        "artist": "Sting",
+        "play_count": 300
+      },
+      {
+        "artist": "The Beatles",
+        "play_count": 280
+      },
+      {
+        "artist": "John Mayer",
+        "play_count": 252
+      },
+      {
+        "artist": "Fisz Emade Tworzywo",
+        "play_count": 252
+      },
+      {
+        "artist": "The Black Keys",
+        "play_count": 246
+      },
+      {
+        "artist": "Lenny Kravitz",
+        "play_count": 243
+      },
+      {
+        "artist": "U2",
+        "play_count": 242
+      },
+      {
+        "artist": "Depeche Mode",
+        "play_count": 228
+      },
+      {
+        "artist": "Michael Kiwanuka",
+        "play_count": 216
+      },
+      {
+        "artist": "Maanam",
+        "play_count": 209
+      },
+      {
+        "artist": "Chumbawamba",
+        "play_count": 202
+      },
+      {
+        "artist": "The Cure",
+        "play_count": 199
+      },
+      {
+        "artist": "Foo Fighters",
+        "play_count": 199
+      },
+      {
+        "artist": "Prince",
+        "play_count": 195
+      },
+      {
+        "artist": "Amy Winehouse",
+        "play_count": 186
+      },
+      {
+        "artist": "Arlo Parks",
+        "play_count": 184
+      },
+      {
+        "artist": "Pearl Jam",
+        "play_count": 183
+      },
+      {
+        "artist": "Stevie Wonder",
+        "play_count": 182
+      }
+    ],
+    "2022": [
+      {
+        "artist": "The Beatles",
+        "play_count": 320
+      },
+      {
+        "artist": "The Rolling Stones",
+        "play_count": 298
+      },
+      {
+        "artist": "David Bowie",
+        "play_count": 292
+      },
+      {
+        "artist": "Red Hot Chili Peppers",
+        "play_count": 286
+      },
+      {
+        "artist": "The Black Keys",
+        "play_count": 232
+      },
+      {
+        "artist": "Fisz Emade Tworzywo",
+        "play_count": 231
+      },
+      {
+        "artist": "Sting",
+        "play_count": 214
+      },
+      {
+        "artist": "Florence + the Machine",
+        "play_count": 213
+      },
+      {
+        "artist": "The Cure",
+        "play_count": 212
+      },
+      {
+        "artist": "Voo Voo",
+        "play_count": 202
+      },
+      {
+        "artist": "U2",
+        "play_count": 197
+      },
+      {
+        "artist": "John Mayer",
+        "play_count": 186
+      },
+      {
+        "artist": "Paolo Nutini",
+        "play_count": 168
+      },
+      {
+        "artist": "Arctic Monkeys",
+        "play_count": 166
+      },
+      {
+        "artist": "Natalia Przybysz",
+        "play_count": 165
+      },
+      {
+        "artist": "Jack White",
+        "play_count": 161
+      },
+      {
+        "artist": "Amy Winehouse",
+        "play_count": 159
+      },
+      {
+        "artist": "Lenny Kravitz",
+        "play_count": 154
+      },
+      {
+        "artist": "Aretha Franklin",
+        "play_count": 154
+      },
+      {
+        "artist": "Depeche Mode",
+        "play_count": 150
+      }
+    ],
+    "2023": [
+      {
+        "artist": "The Rolling Stones",
+        "play_count": 353
+      },
+      {
+        "artist": "U2",
+        "play_count": 245
+      },
+      {
+        "artist": "Depeche Mode",
+        "play_count": 239
+      },
+      {
+        "artist": "The Beatles",
+        "play_count": 237
+      },
+      {
+        "artist": "Iggy Pop",
+        "play_count": 219
+      },
+      {
+        "artist": "Peter Gabriel",
+        "play_count": 195
+      },
+      {
+        "artist": "Arctic Monkeys",
+        "play_count": 193
+      },
+      {
+        "artist": "The Black Keys",
+        "play_count": 192
+      },
+      {
+        "artist": "David Bowie",
+        "play_count": 190
+      },
+      {
+        "artist": "Natalia Przybysz",
+        "play_count": 187
+      },
+      {
+        "artist": "Black Pumas",
+        "play_count": 187
+      },
+      {
+        "artist": "Moby",
+        "play_count": 184
+      },
+      {
+        "artist": "Jungle",
+        "play_count": 174
+      },
+      {
+        "artist": "John Mayer",
+        "play_count": 172
+      },
+      {
+        "artist": "Fisz Emade Tworzywo",
+        "play_count": 169
+      },
+      {
+        "artist": "Royal Blood",
+        "play_count": 163
+      },
+      {
+        "artist": "Metallica",
+        "play_count": 156
+      },
+      {
+        "artist": "Greta Van Fleet",
+        "play_count": 155
+      },
+      {
+        "artist": "Foo Fighters",
+        "play_count": 152
+      },
+      {
+        "artist": "Foals",
+        "play_count": 152
+      }
+    ],
+    "2024": [
+      {
+        "artist": "The Rolling Stones",
+        "play_count": 265
+      },
+      {
+        "artist": "Nick Cave & The Bad Seeds",
+        "play_count": 223
+      },
+      {
+        "artist": "The Black Keys",
+        "play_count": 207
+      },
+      {
+        "artist": "The Cure",
+        "play_count": 187
+      },
+      {
+        "artist": "Kings of Leon",
+        "play_count": 183
+      },
+      {
+        "artist": "David Bowie",
+        "play_count": 183
+      },
+      {
+        "artist": "Krzysztof Zalewski",
+        "play_count": 169
+      },
+      {
+        "artist": "Jungle",
+        "play_count": 168
+      },
+      {
+        "artist": "The Beatles",
+        "play_count": 165
+      },
+      {
+        "artist": "Lenny Kravitz",
+        "play_count": 162
+      },
+      {
+        "artist": "Matylda/Łukasiewicz",
+        "play_count": 152
+      },
+      {
+        "artist": "U2",
+        "play_count": 150
+      },
+      {
+        "artist": "Norah Jones",
+        "play_count": 144
+      },
+      {
+        "artist": "Michael Kiwanuka",
+        "play_count": 142
+      },
+      {
+        "artist": "Iggy Pop",
+        "play_count": 142
+      },
+      {
+        "artist": "PJ Harvey",
+        "play_count": 137
+      },
+      {
+        "artist": "Kaśka Sochacka",
+        "play_count": 134
+      },
+      {
+        "artist": "Fontaines D.C.",
+        "play_count": 134
+      },
+      {
+        "artist": "Black Pumas",
+        "play_count": 134
+      },
+      {
+        "artist": "John Mayer",
+        "play_count": 133
+      }
+    ],
+    "2025": [
+      {
+        "artist": "Fisz Emade Tworzywo",
+        "play_count": 143
+      },
+      {
+        "artist": "Little Simz",
+        "play_count": 118
+      },
+      {
+        "artist": "The Rolling Stones",
+        "play_count": 112
+      },
+      {
+        "artist": "The Cure",
+        "play_count": 104
+      },
+      {
+        "artist": "Jungle",
+        "play_count": 97
+      },
+      {
+        "artist": "Miles Kane",
+        "play_count": 90
+      },
+      {
+        "artist": "David Bowie",
+        "play_count": 88
+      },
+      {
+        "artist": "Foals",
+        "play_count": 87
+      },
+      {
+        "artist": "Bruce Springsteen",
+        "play_count": 86
+      },
+      {
+        "artist": "Fontaines D.C.",
+        "play_count": 84
+      },
+      {
+        "artist": "Joy Crookes",
+        "play_count": 80
+      },
+      {
+        "artist": "Kings of Leon",
+        "play_count": 79
+      },
+      {
+        "artist": "Foo Fighters",
+        "play_count": 78
+      },
+      {
+        "artist": "The Beatles",
+        "play_count": 77
+      },
+      {
+        "artist": "Antony Szmierek",
+        "play_count": 77
+      },
+      {
+        "artist": "Natalia Przybysz",
+        "play_count": 76
+      },
+      {
+        "artist": "Sting",
+        "play_count": 75
+      },
+      {
+        "artist": "The Black Keys",
+        "play_count": 74
+      },
+      {
+        "artist": "Pablopavo i Ludziki",
+        "play_count": 74
+      },
+      {
+        "artist": "Black Pumas",
+        "play_count": 74
+      }
+    ]
+  },
+  "top_songs_by_year": {
+    "2020": [
+      {
+        "artist": "Chumbawamba",
+        "title": "Enough Is Enough",
+        "play_count": 102
+      },
+      {
+        "artist": "Robert Cichy",
+        "title": "Piach i wiatr",
+        "play_count": 59
+      },
+      {
+        "artist": "The Pretenders",
+        "title": "I Didn't Know When to Stop",
+        "play_count": 50
+      },
+      {
+        "artist": "Albo Inaczej",
+        "title": "Chwile ulotne (feat. Monika Borzym, Natalia Nykiel, Daria Zawiałow, Fismoll, Igo, Ralph Kaminski, Piotr Zioła, Paktofonika)",
+        "play_count": 46
+      },
+      {
+        "artist": "Michelle",
+        "title": "Sunrise",
+        "play_count": 44
+      },
+      {
+        "artist": "Damien Jurado",
+        "title": "Birds Tricked Into the Trees",
+        "play_count": 41
+      },
+      {
+        "artist": "Gregory Porter",
+        "title": "Revival",
+        "play_count": 38
+      },
+      {
+        "artist": "Męskie Granie Orkiestra 2020",
+        "title": "Świt",
+        "play_count": 38
+      },
+      {
+        "artist": "green day",
+        "title": "Oh Yeah!",
+        "play_count": 38
+      },
+      {
+        "artist": "Kortez",
+        "title": "Doskonały dzień",
+        "play_count": 36
+      },
+      {
+        "artist": "Lianne La Havas",
+        "title": "Can't Fight",
+        "play_count": 36
+      },
+      {
+        "artist": "Ray LaMontagne",
+        "title": "Strong Enough",
+        "play_count": 36
+      },
+      {
+        "artist": "Smith & Burrows",
+        "title": "All the Best Moves",
+        "play_count": 36
+      },
+      {
+        "artist": "Travis",
+        "title": "A Ghost",
+        "play_count": 36
+      },
+      {
+        "artist": "Five Finger Death Punch",
+        "title": "A Little Bit Off",
+        "play_count": 35
+      },
+      {
+        "artist": "The Black Keys",
+        "title": "Go",
+        "play_count": 35
+      },
+      {
+        "artist": "Black Pumas",
+        "title": "Colors",
+        "play_count": 34
+      },
+      {
+        "artist": "Dion",
+        "title": "Uptown Number 7",
+        "play_count": 34
+      },
+      {
+        "artist": "Monika Borzym",
+        "title": "Takie ciało",
+        "play_count": 33
+      },
+      {
+        "artist": "The Killers",
+        "title": "Caution",
+        "play_count": 33
+      }
+    ],
+    "2021": [
+      {
+        "artist": "Chumbawamba",
+        "title": "Enough Is Enough",
+        "play_count": 194
+      },
+      {
+        "artist": "Earth",
+        "title": "Je mi fajn",
+        "play_count": 130
+      },
+      {
+        "artist": "Arlo Parks",
+        "title": "Hope",
+        "play_count": 94
+      },
+      {
+        "artist": "John Mayer",
+        "title": "Last Train Home",
+        "play_count": 72
+      },
+      {
+        "artist": "The Redaktors",
+        "title": "Chodź tu",
+        "play_count": 64
+      },
+      {
+        "artist": "Monika Borzym, Kuba Badach, Wojciech Waglewski, Zbigniew Zamachowski",
+        "title": "Tango Nowy Świat",
+        "play_count": 54
+      },
+      {
+        "artist": "The Avalanches",
+        "title": "Since I Left You",
+        "play_count": 52
+      },
+      {
+        "artist": "Broken Bells",
+        "title": "The Ghost Inside",
+        "play_count": 50
+      },
+      {
+        "artist": "Joy Crookes",
+        "title": "When You Were Mine",
+        "play_count": 50
+      },
+      {
+        "artist": "Fisz Emade Tworzywo",
+        "title": "Za Mało Czasu",
+        "play_count": 48
+      },
+      {
+        "artist": "Primal Scream",
+        "title": "Movin' on Up",
+        "play_count": 48
+      },
+      {
+        "artist": "Tame Impala",
+        "title": "The Less I Know the Better",
+        "play_count": 46
+      },
+      {
+        "artist": "Michael Kiwanuka",
+        "title": "Cold Little Heart",
+        "play_count": 44
+      },
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Under the Bridge",
+        "play_count": 43
+      },
+      {
+        "artist": "The Pretenders",
+        "title": "I Didn't Know When to Stop",
+        "play_count": 43
+      },
+      {
+        "artist": "George Michael",
+        "title": "Faith",
+        "play_count": 42
+      },
+      {
+        "artist": "Tkay Maidza",
+        "title": "Where Is My Mind?",
+        "play_count": 40
+      },
+      {
+        "artist": "Black Pistol Fire",
+        "title": "Pick Your Poison",
+        "play_count": 39
+      },
+      {
+        "artist": "Måneskin",
+        "title": "ZITTI E BUONI",
+        "play_count": 39
+      },
+      {
+        "artist": "The Beatles",
+        "title": "Something",
+        "play_count": 39
+      }
+    ],
+    "2022": [
+      {
+        "artist": "Chumbawamba",
+        "title": "Enough Is Enough",
+        "play_count": 136
+      },
+      {
+        "artist": "Voo Voo",
+        "title": "Łajba",
+        "play_count": 128
+      },
+      {
+        "artist": "Florence + the Machine",
+        "title": "King",
+        "play_count": 85
+      },
+      {
+        "artist": "Natalia Przybysz",
+        "title": "Zew",
+        "play_count": 68
+      },
+      {
+        "artist": "The White Stripes",
+        "title": "Fell in Love with a Girl",
+        "play_count": 66
+      },
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Black Summer",
+        "play_count": 65
+      },
+      {
+        "artist": "Fisz Emade Tworzywo",
+        "title": "Spektrum barw",
+        "play_count": 64
+      },
+      {
+        "artist": "Fisz Emade Tworzywo",
+        "title": "Za Mało Czasu",
+        "play_count": 62
+      },
+      {
+        "artist": "Rammstein",
+        "title": "Zeit",
+        "play_count": 60
+      },
+      {
+        "artist": "Kaśka Sochacka",
+        "title": "Niebo było różowe",
+        "play_count": 59
+      },
+      {
+        "artist": "Piotr Machalica",
+        "title": "Wciąż jednak pamiętam",
+        "play_count": 59
+      },
+      {
+        "artist": "John Mayer",
+        "title": "Last Train Home",
+        "play_count": 54
+      },
+      {
+        "artist": "Maria Peszek",
+        "title": "Lovesong",
+        "play_count": 54
+      },
+      {
+        "artist": "Mick Jagger",
+        "title": "Strange Game",
+        "play_count": 54
+      },
+      {
+        "artist": "Eddie Vedder",
+        "title": "Brother the Cloud",
+        "play_count": 52
+      },
+      {
+        "artist": "Pink Floyd",
+        "title": "Hey Hey Rise Up (feat. Andriy Khlyvnyuk of Boombox)",
+        "play_count": 52
+      },
+      {
+        "artist": "The Black Keys",
+        "title": "Wild Child",
+        "play_count": 49
+      },
+      {
+        "artist": "The Redaktors",
+        "title": "Policzę do trzech",
+        "play_count": 49
+      },
+      {
+        "artist": "Dezerter",
+        "title": "Idi",
+        "play_count": 48
+      },
+      {
+        "artist": "Kate Bush",
+        "title": "Running Up That Hill (A Deal with God)",
+        "play_count": 46
+      }
+    ],
+    "2023": [
+      {
+        "artist": "Iggy Pop",
+        "title": "Strung Out Johnny",
+        "play_count": 81
+      },
+      {
+        "artist": "Chumbawamba",
+        "title": "Enough Is Enough",
+        "play_count": 79
+      },
+      {
+        "artist": "The Redaktors",
+        "title": "By nie zapeszyć",
+        "play_count": 76
+      },
+      {
+        "artist": "Monika Borzym, Kuba Badach, Wojciech Waglewski, Zbigniew Zamachowski",
+        "title": "Tango Nowy Świat",
+        "play_count": 64
+      },
+      {
+        "artist": "The Alan Parsons Project",
+        "title": "Sirius",
+        "play_count": 62
+      },
+      {
+        "artist": "Fisz Emade Tworzywo",
+        "title": "Spektrum barw",
+        "play_count": 57
+      },
+      {
+        "artist": "Depeche Mode",
+        "title": "Ghosts Again",
+        "play_count": 56
+      },
+      {
+        "artist": "Peter Gabriel",
+        "title": "Panopticom (Bright Side Mix)",
+        "play_count": 53
+      },
+      {
+        "artist": "The White Stripes",
+        "title": "Fell in Love with a Girl",
+        "play_count": 52
+      },
+      {
+        "artist": "Brodka",
+        "title": "Sadza",
+        "play_count": 51
+      },
+      {
+        "artist": "Kaśka Sochacka",
+        "title": "Niebo było różowe",
+        "play_count": 48
+      },
+      {
+        "artist": "Rammstein",
+        "title": "Zeit",
+        "play_count": 46
+      },
+      {
+        "artist": "Nosowska",
+        "title": "Przytomna",
+        "play_count": 45
+      },
+      {
+        "artist": "Eric Clapton, Jeff Beck",
+        "title": "Moon River",
+        "play_count": 38
+      },
+      {
+        "artist": "Dr Misio",
+        "title": "Chory na Polskę",
+        "play_count": 37
+      },
+      {
+        "artist": "Anita Lipnicka",
+        "title": "Amsterdam",
+        "play_count": 35
+      },
+      {
+        "artist": "Black Pumas",
+        "title": "More Than a Love Song",
+        "play_count": 35
+      },
+      {
+        "artist": "Kacperczyk, Artur Rojek",
+        "title": "Syn okiennika",
+        "play_count": 34
+      },
+      {
+        "artist": "Nosowska",
+        "title": "Ledwie wczoraj",
+        "play_count": 34
+      },
+      {
+        "artist": "The Rolling Stones",
+        "title": "Angry",
+        "play_count": 34
+      }
+    ],
+    "2024": [
+      {
+        "artist": "Iggy Pop",
+        "title": "Morning Show",
+        "play_count": 78
+      },
+      {
+        "artist": "Dezerter",
+        "title": "Żółć",
+        "play_count": 57
+      },
+      {
+        "artist": "The Alan Parsons Project",
+        "title": "Sirius",
+        "play_count": 52
+      },
+      {
+        "artist": "The White Stripes",
+        "title": "Fell in Love with a Girl",
+        "play_count": 52
+      },
+      {
+        "artist": "Bruce Cockburn",
+        "title": "The Blues Got the World...",
+        "play_count": 50
+      },
+      {
+        "artist": "Kaśka Sochacka",
+        "title": "Szum",
+        "play_count": 49
+      },
+      {
+        "artist": "Monika Borzym, Kuba Badach, Wojciech Waglewski, Zbigniew Zamachowski",
+        "title": "Tango Nowy Świat",
+        "play_count": 46
+      },
+      {
+        "artist": "Matylda/Łukasiewicz",
+        "title": "Trzymaj moją głowę nad wodą",
+        "play_count": 44
+      },
+      {
+        "artist": "Spięty",
+        "title": "Uproszczony Rachunek Sumienia",
+        "play_count": 43
+      },
+      {
+        "artist": "Krzysztof Zalewski",
+        "title": "ZGŁOWY",
+        "play_count": 42
+      },
+      {
+        "artist": "Vera Lynn",
+        "title": "We'll Meet Again",
+        "play_count": 41
+      },
+      {
+        "artist": "The Redaktors",
+        "title": "Chodź tu",
+        "play_count": 40
+      },
+      {
+        "artist": "Matylda/Łukasiewicz",
+        "title": "Nudny rok",
+        "play_count": 38
+      },
+      {
+        "artist": "Nick Cave & The Bad Seeds",
+        "title": "Wild God",
+        "play_count": 37
+      },
+      {
+        "artist": "Peter Gabriel",
+        "title": "Live and Let Live (Bright-Side Mix)",
+        "play_count": 35
+      },
+      {
+        "artist": "Organek",
+        "title": "Wiosna",
+        "play_count": 32
+      },
+      {
+        "artist": "Oxford Drama",
+        "title": "The Leader",
+        "play_count": 32
+      },
+      {
+        "artist": "Daria ze Śląska, Czarny HIFI",
+        "title": "Mainstream",
+        "play_count": 30
+      },
+      {
+        "artist": "Nosowska",
+        "title": "Ledwie wczoraj",
+        "play_count": 30
+      },
+      {
+        "artist": "Suki Waterhouse",
+        "title": "My Fun",
+        "play_count": 29
+      }
+    ],
+    "2025": [
+      {
+        "artist": "Eddie Chacon",
+        "title": "Empire (feat. John Carroll Kirby)",
+        "play_count": 37
+      },
+      {
+        "artist": "Fisz Emade Tworzywo",
+        "title": "Zaćmienie (Radio Edit)",
+        "play_count": 36
+      },
+      {
+        "artist": "Nosowska, Błażej Król",
+        "title": "Błyszcz",
+        "play_count": 36
+      },
+      {
+        "artist": "Pablopavo i Ludziki",
+        "title": "Styl warszawski",
+        "play_count": 35
+      },
+      {
+        "artist": "Dezerter",
+        "title": "Żółć",
+        "play_count": 34
+      },
+      {
+        "artist": "The Alan Parsons Project",
+        "title": "Sirius",
+        "play_count": 34
+      },
+      {
+        "artist": "Bruce Cockburn",
+        "title": "The Blues Got the World...",
+        "play_count": 33
+      },
+      {
+        "artist": "Kaśka Sochacka",
+        "title": "Komary",
+        "play_count": 31
+      },
+      {
+        "artist": "Sagarias Tsam",
+        "title": "Nâma He Ta Ge Hâ",
+        "play_count": 31
+      },
+      {
+        "artist": "The White Stripes",
+        "title": "Fell in Love with a Girl",
+        "play_count": 31
+      },
+      {
+        "artist": "Daria ze Śląska",
+        "title": "Trudno jest być sobą",
+        "play_count": 29
+      },
+      {
+        "artist": "Sophia Kennedy",
+        "title": "Rodeo",
+        "play_count": 28
+      },
+      {
+        "artist": "Billy Idol",
+        "title": "Still Dancing",
+        "play_count": 27
+      },
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Blind Spot",
+        "play_count": 23
+      },
+      {
+        "artist": "Ezra Collective",
+        "title": "Body Language (feat. Sasha Keable)",
+        "play_count": 23
+      },
+      {
+        "artist": "Hey",
+        "title": "Bezruch",
+        "play_count": 23
+      },
+      {
+        "artist": "Skunk Anansie",
+        "title": "An Artist Is An Artist",
+        "play_count": 23
+      },
+      {
+        "artist": "The Cure",
+        "title": "A Fragile Thing",
+        "play_count": 23
+      },
+      {
+        "artist": "Derya Yıldırım & Grup Şimşek",
+        "title": "Cool Hand",
+        "play_count": 22
+      },
+      {
+        "artist": "Fisz Emade Tworzywo",
+        "title": "Masz to we krwi",
+        "play_count": 22
+      }
+    ]
+  },
+  "monthly_data_by_year": {
+    "2020": [
+      {
+        "month": "07",
+        "song_count": 4707
+      },
+      {
+        "month": "08",
+        "song_count": 6819
+      },
+      {
+        "month": "09",
+        "song_count": 6481
+      },
+      {
+        "month": "10",
+        "song_count": 6582
+      },
+      {
+        "month": "11",
+        "song_count": 6582
+      },
+      {
+        "month": "12",
+        "song_count": 6747
+      }
+    ],
+    "2021": [
+      {
+        "month": "01",
+        "song_count": 6820
+      },
+      {
+        "month": "02",
+        "song_count": 6160
+      },
+      {
+        "month": "03",
+        "song_count": 6820
+      },
+      {
+        "month": "04",
+        "song_count": 6583
+      },
+      {
+        "month": "05",
+        "song_count": 6801
+      },
+      {
+        "month": "06",
+        "song_count": 6590
+      },
+      {
+        "month": "07",
+        "song_count": 6798
+      },
+      {
+        "month": "08",
+        "song_count": 6820
+      },
+      {
+        "month": "09",
+        "song_count": 6600
+      },
+      {
+        "month": "10",
+        "song_count": 6820
+      },
+      {
+        "month": "11",
+        "song_count": 6600
+      },
+      {
+        "month": "12",
+        "song_count": 6820
+      }
+    ],
+    "2022": [
+      {
+        "month": "01",
+        "song_count": 6820
+      },
+      {
+        "month": "02",
+        "song_count": 6160
+      },
+      {
+        "month": "03",
+        "song_count": 6820
+      },
+      {
+        "month": "04",
+        "song_count": 6459
+      },
+      {
+        "month": "05",
+        "song_count": 6682
+      },
+      {
+        "month": "06",
+        "song_count": 6596
+      },
+      {
+        "month": "07",
+        "song_count": 6805
+      },
+      {
+        "month": "08",
+        "song_count": 6818
+      },
+      {
+        "month": "09",
+        "song_count": 6597
+      },
+      {
+        "month": "10",
+        "song_count": 6801
+      },
+      {
+        "month": "11",
+        "song_count": 6578
+      },
+      {
+        "month": "12",
+        "song_count": 6804
+      }
+    ],
+    "2023": [
+      {
+        "month": "01",
+        "song_count": 6784
+      },
+      {
+        "month": "02",
+        "song_count": 6155
+      },
+      {
+        "month": "03",
+        "song_count": 6812
+      },
+      {
+        "month": "04",
+        "song_count": 5810
+      },
+      {
+        "month": "05",
+        "song_count": 6799
+      },
+      {
+        "month": "06",
+        "song_count": 6597
+      },
+      {
+        "month": "07",
+        "song_count": 6817
+      },
+      {
+        "month": "08",
+        "song_count": 6815
+      },
+      {
+        "month": "09",
+        "song_count": 6597
+      },
+      {
+        "month": "10",
+        "song_count": 6800
+      },
+      {
+        "month": "11",
+        "song_count": 6598
+      },
+      {
+        "month": "12",
+        "song_count": 6815
+      }
+    ],
+    "2024": [
+      {
+        "month": "01",
+        "song_count": 6817
+      },
+      {
+        "month": "02",
+        "song_count": 6375
+      },
+      {
+        "month": "03",
+        "song_count": 6809
+      },
+      {
+        "month": "04",
+        "song_count": 6584
+      },
+      {
+        "month": "05",
+        "song_count": 6809
+      },
+      {
+        "month": "06",
+        "song_count": 6586
+      },
+      {
+        "month": "07",
+        "song_count": 6817
+      },
+      {
+        "month": "08",
+        "song_count": 6817
+      },
+      {
+        "month": "09",
+        "song_count": 6589
+      },
+      {
+        "month": "10",
+        "song_count": 6813
+      },
+      {
+        "month": "11",
+        "song_count": 6569
+      },
+      {
+        "month": "12",
+        "song_count": 6815
+      }
+    ],
+    "2025": [
+      {
+        "month": "01",
+        "song_count": 6814
+      },
+      {
+        "month": "02",
+        "song_count": 6157
+      },
+      {
+        "month": "03",
+        "song_count": 6811
+      },
+      {
+        "month": "04",
+        "song_count": 6595
+      },
+      {
+        "month": "05",
+        "song_count": 6809
+      },
+      {
+        "month": "06",
+        "song_count": 6589
+      },
+      {
+        "month": "07",
+        "song_count": 6816
+      },
+      {
+        "month": "08",
+        "song_count": 4998
+      }
+    ]
+  }
+}
