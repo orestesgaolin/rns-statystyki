@@ -55,8 +55,8 @@ def export_data():
         # Make sure year is included properly
         years_data.append(year_data)
     
-    # Export top artists by year (last 6 years)
-    years = [row['year'] for row in years_data][-6:]
+    # Export top artists by year starting from 2020
+    years = [row['year'] for row in years_data if row['year'] >= '2020']
     top_artists_by_year = {}
     
     for year in years:
@@ -70,7 +70,7 @@ def export_data():
         """, (year,))
         top_artists_by_year[year] = [dict(row) for row in cursor.fetchall()]
     
-    # Export top songs by year (last 6 years)
+    # Export top songs by year
     top_songs_by_year = {}
     
     for year in years:
