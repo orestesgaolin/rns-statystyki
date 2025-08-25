@@ -3,10 +3,12 @@ name: Update and commit data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 0" # Run every Sunday at midnight
+    - cron: "0 2 * * *"
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   build-and-deploy:
