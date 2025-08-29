@@ -1,6 +1,13 @@
 {
     "playlist": [
         {
+            "id": 206877,
+            "date_play": "2025-08-29 20:48:48",
+            "artist": "Cult of Luna",
+            "title": "The Silent Man",
+            "img": "https://nowyswiat.online/playlists/4aca88e575edd3d741623f0c6da5b6cc_206877rns_thumb_100x100.jpg?ts=1756493330"
+        },
+        {
             "id": 188736,
             "date_play": "2025-08-29 20:42:43",
             "artist": "Orange Goblin",
@@ -1530,6 +1537,6 @@
     "current_page": 1,
     "last_page": 1,
     "perpage": 300,
-    "total_elements": 218,
+    "total_elements": 219,
     "status": "OK"
 }
