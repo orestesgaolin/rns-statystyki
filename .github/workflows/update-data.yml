@@ -33,6 +33,15 @@ jobs:
         run: |
           echo "RNS_API_KEY=${{ secrets.RNS_API_KEY }}" >> .env
 
+      - name: Check if db file exists
+        run: |
+          if [ ! -f playlist.db ]; then
+            echo "Database file not found!"
+            exit 1
+          fi
+          # size of the file
+          echo "Database file size: $(du -h playlist.db | cut -f1)"
+
       - name: Generate database
         run: uv run main.py --fetch --save-to-db
 
