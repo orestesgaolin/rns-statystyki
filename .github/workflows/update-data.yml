@@ -20,6 +20,9 @@ jobs:
         with:
           lfs: true
 
+      - name: Pull LFS
+        run: git lfs pull
+
       - name: Install the latest version of uv
         uses: astral-sh/setup-uv@v6
         with:
