@@ -1,6 +1,41 @@
 {
     "playlist": [
         {
+            "id": 188736,
+            "date_play": "2025-08-29 20:42:43",
+            "artist": "Orange Goblin",
+            "title": "(Not) Rocket Science",
+            "img": "https://nowyswiat.online/playlists/44effea93b22df7768ffcca69b78d1e9_188736rns_thumb_100x100.jpg?ts=1735470573"
+        },
+        {
+            "id": 206876,
+            "date_play": "2025-08-29 20:38:08",
+            "artist": "Grave",
+            "title": "Into the Grave",
+            "img": "https://nowyswiat.online/playlists/b33edf3337dba0597974f3f6017f17ad_206876rns_thumb_100x100.jpg?ts=1756492690"
+        },
+        {
+            "id": 206875,
+            "date_play": "2025-08-29 20:34:40",
+            "artist": "Samael",
+            "title": "Celebration of the Fourth",
+            "img": "https://nowyswiat.online/playlists/f6a2af6c6b23ec6f811194428050539f_206875rns_thumb_100x100.jpg?ts=1756492481"
+        },
+        {
+            "id": 115819,
+            "date_play": "2025-08-29 20:29:06",
+            "artist": "Cave In",
+            "title": "New Reality",
+            "img": "https://nowyswiat.online/playlists/315a18be24480ff00380054c5d347a41_115819rns_thumb_100x100.jpg?ts=1756492147"
+        },
+        {
+            "id": 206874,
+            "date_play": "2025-08-29 20:23:54",
+            "artist": "Carcass",
+            "title": "Tomorrow Belongs to Nobody",
+            "img": "https://nowyswiat.online/playlists/b19dfa1f8a2366c97c6240e50e49b571_206874rns_thumb_100x100.jpg?ts=1756491835"
+        },
+        {
             "id": 202646,
             "date_play": "2025-08-29 20:19:16",
             "artist": "The Rolling Stones & Steve Riley",
@@ -1495,6 +1530,6 @@
     "current_page": 1,
     "last_page": 1,
     "perpage": 300,
-    "total_elements": 213,
+    "total_elements": 218,
     "status": "OK"
 }
