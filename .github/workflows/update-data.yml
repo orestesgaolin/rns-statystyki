@@ -45,8 +45,11 @@ jobs:
           # size of the file
           echo "Database file size: $(du -h playlist.db | cut -f1)"
 
-      - name: Generate database
-        run: uv run main.py --fetch --save-to-db
+      - name: Fetch data
+        run: uv run main.py --fetch
+
+      - name: Fill database
+        run: uv run main.py --save-to-db
 
       - name: Export statistics
         run: uv run export_stats.py
