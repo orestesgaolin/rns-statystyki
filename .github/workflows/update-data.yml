@@ -3,7 +3,7 @@ name: Update and commit data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "30 0 * * 0"
 
 permissions:
   contents: write
@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          lfs: true
 
       - name: Install the latest version of uv
         uses: astral-sh/setup-uv@v6
