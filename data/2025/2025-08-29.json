@@ -1,6 +1,181 @@
 {
     "playlist": [
         {
+            "id": 206901,
+            "date_play": "2025-08-29 23:56:09",
+            "artist": "Anne Paceo",
+            "title": "The Diver",
+            "img": "https://nowyswiat.online/playlists/0df3ec906878377a0f4b661919528048_206901rns_thumb_100x100.jpg?ts=1756504570"
+        },
+        {
+            "id": 206900,
+            "date_play": "2025-08-29 23:52:26",
+            "artist": "Anne Paceo",
+            "title": "Au large",
+            "img": "https://nowyswiat.online/playlists/61610080bcc9d048538fec661ae3288a_206900rns_thumb_100x100.jpg?ts=1756504347"
+        },
+        {
+            "id": 206899,
+            "date_play": "2025-08-29 23:47:27",
+            "artist": "Anne Paceo",
+            "title": "Sur une île",
+            "img": "https://nowyswiat.online/playlists/3bd5e885034a173365c193a5bc924af1_206899rns_thumb_100x100.jpg?ts=1756504048"
+        },
+        {
+            "id": 206898,
+            "date_play": "2025-08-29 23:42:40",
+            "artist": "Anne Paceo",
+            "title": "Mantha",
+            "img": "https://nowyswiat.online/playlists/a1163ad0e42cee17c852baac4107df0f_206898rns_thumb_100x100.jpg?ts=1756503761"
+        },
+        {
+            "id": 206897,
+            "date_play": "2025-08-29 23:40:01",
+            "artist": "Anne Paceo & Laura Cahen",
+            "title": "Tant qu'il y a de l'eau",
+            "img": "https://nowyswiat.online/playlists/3c68de73362d1b32c678c5962815443c_206897rns_thumb_100x100.jpg?ts=1756503602"
+        },
+        {
+            "id": 206896,
+            "date_play": "2025-08-29 23:35:31",
+            "artist": "Ludovico Einaudi & Leo Einaudi",
+            "title": "To Be Sun (Reworked by Leo Einaudi)",
+            "img": "https://nowyswiat.online/playlists/016a8ce2364f966aaec8abfbb9fce606_206896rns_thumb_100x100.jpg?ts=1756503332"
+        },
+        {
+            "id": 206895,
+            "date_play": "2025-08-29 23:28:43",
+            "artist": "Bill Callahan & Smog",
+            "title": "Beautiful Child",
+            "img": "https://nowyswiat.online/playlists/d1daa672de2bc06204ec4b3f6f051ebf_206895rns_thumb_100x100.jpg?ts=1756502925"
+        },
+        {
+            "id": 197463,
+            "date_play": "2025-08-29 23:23:33",
+            "artist": "Bartek Wąsik",
+            "title": "Take My Hand",
+            "img": "https://nowyswiat.online/playlists/18969a0906b96bdec6290bfc370069cf_197463rns_thumb_100x100.jpg?ts=1745613698"
+        },
+        {
+            "id": 192830,
+            "date_play": "2025-08-29 23:13:04",
+            "artist": "Bartek Wąsik",
+            "title": "Song Without Words",
+            "img": "https://nowyswiat.online/playlists/84539138fb59750970e873259591ea1f_192830rns_thumb_100x100.jpg?ts=1740242991"
+        },
+        {
+            "id": 196435,
+            "date_play": "2025-08-29 23:04:33",
+            "artist": "Bartek Wąsik",
+            "title": "Calling You",
+            "img": "https://nowyswiat.online/playlists/04f66add4c2b1be7d4e85dfd0f13b5b0_196435rns_thumb_100x100.jpg?ts=1744370186"
+        },
+        {
+            "id": 131505,
+            "date_play": "2025-08-29 22:53:38",
+            "artist": "Bartek Wąsik",
+            "title": "Creep",
+            "img": "https://nowyswiat.online/playlists/02fb5ea8114e66c3277373a161ff7c8e_131505rns_thumb_100x100.jpg?ts=1667823648"
+        },
+        {
+            "id": 157379,
+            "date_play": "2025-08-29 22:41:40",
+            "artist": "Mela Koteluk & Kwadrofonik",
+            "title": "Niebo",
+            "img": "https://nowyswiat.online/playlists/bc66db720864a5e2eabb7208292b5429_157379rns_thumb_100x100.jpg?ts=1699710981"
+        },
+        {
+            "id": 206894,
+            "date_play": "2025-08-29 22:28:49",
+            "artist": "Adam Strug & Kwadrofonik",
+            "title": "Czemu tak rychło, Panie",
+            "img": ""
+        },
+        {
+            "id": 206893,
+            "date_play": "2025-08-29 22:18:27",
+            "artist": "Lutosławski Piano Duo",
+            "title": "George Crumb. Beta Cygni from Makrokosmos IV",
+            "img": ""
+        },
+        {
+            "id": 206892,
+            "date_play": "2025-08-29 22:03:05",
+            "artist": "Stanisława Celińska, Bartek Wąsik & Royal String Quartet",
+            "title": "Warszawa",
+            "img": "https://nowyswiat.online/playlists/0f23931b765338b3e783c578d99afc95_206892rns_thumb_100x100.jpg?ts=1756497786"
+        },
+        {
+            "id": 191674,
+            "date_play": "2025-08-29 21:50:34",
+            "artist": "TOŃ",
+            "title": "Wszyscy Toniemy",
+            "img": "https://nowyswiat.online/playlists/d5a11e733dd5112086c44e1c3947297c_191674rns_thumb_100x100.jpg?ts=1738961457"
+        },
+        {
+            "id": 160865,
+            "date_play": "2025-08-29 21:40:54",
+            "artist": "Dom Zły",
+            "title": "Ku pogrzebaniu serc",
+            "img": "https://nowyswiat.online/playlists/62139362572a6e3339f268537c960e80_160865rns_thumb_100x100.jpg?ts=1703883169"
+        },
+        {
+            "id": 196203,
+            "date_play": "2025-08-29 21:38:48",
+            "artist": "Jad",
+            "title": "Bez znaczenia",
+            "img": "https://nowyswiat.online/playlists/c518c1b748542bb23d79ab1409400384_196203rns_thumb_100x100.jpg?ts=1756496329"
+        },
+        {
+            "id": 206882,
+            "date_play": "2025-08-29 21:29:28",
+            "artist": "WAZ",
+            "title": "Impulse",
+            "img": "https://nowyswiat.online/playlists/c466dc42f91bc496f84241d7d5a91e82_206882rns_thumb_100x100.jpg?ts=1756495770"
+        },
+        {
+            "id": 161860,
+            "date_play": "2025-08-29 21:22:50",
+            "artist": "Sznur",
+            "title": "Dwóch",
+            "img": "https://nowyswiat.online/playlists/cdbd4a98ff21876ed6e7e3cffa4657be_161860rns_thumb_100x100.jpg?ts=1705092440"
+        },
+        {
+            "id": 206881,
+            "date_play": "2025-08-29 21:17:25",
+            "artist": "TARABAN",
+            "title": "Roxxxane",
+            "img": "https://nowyswiat.online/playlists/84431b5d8994a6bae9cab2af03e4d9d1_206881rns_thumb_100x100.jpg?ts=1756495048"
+        },
+        {
+            "id": 206880,
+            "date_play": "2025-08-29 21:13:20",
+            "artist": "Totenmesse",
+            "title": "Impact Resistance Ego",
+            "img": "https://nowyswiat.online/playlists/54260a76852ea72c30800ab7968a7778_206880rns_thumb_100x100.jpg?ts=1756494803"
+        },
+        {
+            "id": 206879,
+            "date_play": "2025-08-29 21:11:40",
+            "artist": "Scrüda",
+            "title": "Swords",
+            "img": "https://nowyswiat.online/playlists/28abb4ea71d5ca9c55b41a9e367a288d_206879rns_thumb_100x100.jpg?ts=1756494701"
+        },
+        {
+            "id": 81640,
+            "date_play": "2025-08-29 21:08:14",
+            "artist": "Terrorizer",
+            "title": "Fear of Napalm",
+            "img": "https://nowyswiat.online/playlists/17c7f6cff510c96e33c2b1acb98a9339_81640rns_thumb_100x100.jpg?ts=1756494496"
+        },
+        {
+            "id": 206878,
+            "date_play": "2025-08-29 21:03:08",
+            "artist": "Venom",
+            "title": "In League with Satan (7\" Version)",
+            "img": "https://nowyswiat.online/playlists/edd297011e442dbf3282a3bff8f2c28a_206878rns_thumb_100x100.jpg?ts=1756494189"
+        },
+        {
             "id": 206877,
             "date_play": "2025-08-29 20:48:48",
             "artist": "Cult of Luna",
@@ -1537,6 +1712,6 @@
     "current_page": 1,
     "last_page": 1,
     "perpage": 300,
-    "total_elements": 219,
+    "total_elements": 244,
     "status": "OK"
 }
