@@ -47,8 +47,9 @@ function populateYearSelector() {
 // Update the last update date
 function updateLastUpdateDate() {
     const lastUpdateElement = document.getElementById('last-update');
-    const currentDate = new Date();
-    lastUpdateElement.textContent = currentDate.toLocaleDateString('pl-PL');
+    // Use the max_date from metadata as the last update date
+    const lastUpdateDate = new Date(statisticsData.metadata.max_date);
+    lastUpdateElement.textContent = lastUpdateDate.toLocaleDateString('pl-PL');
 }
 
 // Render summary statistics
