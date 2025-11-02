@@ -1,0 +1,65 @@
+{
+    "playlist": [
+        {
+            "id": 130521,
+            "date_play": "2025-11-02 01:47:26",
+            "artist": "Daytime TV",
+            "title": "communication",
+            "img": "https://nowyswiat.online/playlists/048a2647447610597532b48ec0438af4_130521rns_thumb_100x100.jpg?ts=1666923561"
+        },
+        {
+            "id": 89896,
+            "date_play": "2025-11-02 01:41:47",
+            "artist": "Kings of Leon",
+            "title": "Over",
+            "img": "https://nowyswiat.online/playlists/7fd4427fca3b2f374ccb020a928bb8aa_89896rns_thumb_100x100.jpg?ts=1658480004"
+        },
+        {
+            "id": 60548,
+            "date_play": "2025-11-02 01:38:13",
+            "artist": "George Ezra",
+            "title": "Shotgun",
+            "img": "https://nowyswiat.online/playlists/a4aa8f7cd783c4fc66cc12e2f2642a8b_60548rns_thumb_100x100.jpg?ts=1651364488"
+        },
+        {
+            "id": 137684,
+            "date_play": "2025-11-02 01:34:43",
+            "artist": "WILSN",
+            "title": "Those Days Are Over",
+            "img": "https://nowyswiat.online/playlists/5e0810e3c6503d48785f0f0acfe8d142_137684rns_thumb_100x100.jpg?ts=1674922344"
+        },
+        {
+            "id": 144933,
+            "date_play": "2025-11-02 01:31:16",
+            "artist": "Brandi Carlile",
+            "title": "Home",
+            "img": "https://nowyswiat.online/playlists/a399920ce98bc9676c4f731ce9eba420_144933rns_thumb_100x100.jpg?ts=1685102176"
+        },
+        {
+            "id": 145284,
+            "date_play": "2025-11-02 01:28:47",
+            "artist": "The Budos Band",
+            "title": "Frontier's Edge",
+            "img": "https://nowyswiat.online/playlists/46937becf88bf7b6cd4ce01f100ca349_145284rns_thumb_100x100.jpg?ts=1685482429"
+        },
+        {
+            "id": 158303,
+            "date_play": "2025-11-02 01:24:32",
+            "artist": "Judas Priest",
+            "title": "Trial By Fire",
+            "img": "https://nowyswiat.online/playlists/38e3cc9a8c1a0e0a193d1809bcbe6c62_158303rns_thumb_100x100.jpg?ts=1700837704"
+        },
+        {
+            "id": 211747,
+            "date_play": "2025-11-02 00:03:08",
+            "artist": "Domik Wania & Piotr Damasiewicz",
+            "title": "Jazz po polsku w Jassmine",
+            "img": ""
+        }
+    ],
+    "current_page": 1,
+    "last_page": 1,
+    "perpage": 300,
+    "total_elements": 8,
+    "status": "OK"
+}
