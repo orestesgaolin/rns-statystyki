@@ -1,0 +1,51 @@
+{
+    "playlist": [
+        {
+            "id": 148273,
+            "date_play": "2025-11-30 01:48:41",
+            "artist": "Ida Mae",
+            "title": "Lost On Your Time",
+            "img": "https://nowyswiat.online/playlists/e3d329ea7ae3078c60890040b72231ce_148273rns_thumb_100x100.jpg?ts=1689070535"
+        },
+        {
+            "id": 72878,
+            "date_play": "2025-11-30 01:46:19",
+            "artist": "The Beatles",
+            "title": "Drive My Car",
+            "img": "https://nowyswiat.online/playlists/690086fd7035f1deb72b3ca8291d8b6a_72878rns_thumb_100x100.jpg?ts=1651119908"
+        },
+        {
+            "id": 157790,
+            "date_play": "2025-11-30 01:43:57",
+            "artist": "Tomek Zietek",
+            "title": "Some Old Gum",
+            "img": "https://nowyswiat.online/playlists/f9b54ef809f48d0f2377825df984fce0_157790rns_thumb_100x100.jpg?ts=1700224700"
+        },
+        {
+            "id": 88743,
+            "date_play": "2025-11-30 01:40:22",
+            "artist": "Lady Gaga",
+            "title": "Million Reasons",
+            "img": "https://nowyswiat.online/playlists/c8d3d241bb9c740427b70bcb20f5edc6_88743rns_thumb_100x100.jpg?ts=1654124595"
+        },
+        {
+            "id": 65101,
+            "date_play": "2025-11-30 01:36:07",
+            "artist": "Crosby, Stills, Nash & Young",
+            "title": "Almost Cut My Hair",
+            "img": "https://nowyswiat.online/playlists/762a3a0c03f538d94d4bde46e53de19b_65101rns_thumb_100x100.jpg?ts=1656601934"
+        },
+        {
+            "id": 213887,
+            "date_play": "2025-11-30 00:02:21",
+            "artist": "Kosmos",
+            "title": "Jazz po polsku w Jassmine",
+            "img": ""
+        }
+    ],
+    "current_page": 1,
+    "last_page": 1,
+    "perpage": 300,
+    "total_elements": 6,
+    "status": "OK"
+}
