@@ -1,0 +1,79 @@
+{
+    "playlist": [
+        {
+            "id": 129003,
+            "date_play": "2025-12-14 01:48:00",
+            "artist": "Cat Burns",
+            "title": "people pleaser",
+            "img": "https://nowyswiat.online/playlists/3e8dfa337467f9b653e62200b8e1b11a_129003rns_thumb_100x100.jpg?ts=1665210019"
+        },
+        {
+            "id": 130646,
+            "date_play": "2025-12-14 01:45:15",
+            "artist": "SZA",
+            "title": "Shirt",
+            "img": "https://nowyswiat.online/playlists/cd146a0ed4ed0e19cd4f401e293a66a8_130646rns_thumb_100x100.jpg?ts=1667046200"
+        },
+        {
+            "id": 139641,
+            "date_play": "2025-12-14 01:41:28",
+            "artist": "Parker Millsap",
+            "title": "What You've Shown Me",
+            "img": "https://nowyswiat.online/playlists/4a8d25384cdb5ec1a76b4e4f3a0ffa11_139641rns_thumb_100x100.jpg?ts=1677235213"
+        },
+        {
+            "id": 139750,
+            "date_play": "2025-12-14 01:37:48",
+            "artist": "Amber Run",
+            "title": "How To Be Human",
+            "img": "https://nowyswiat.online/playlists/6f3eb0859bd72ea6d652ebbeb4cfde67_139750rns_thumb_100x100.jpg?ts=1677344009"
+        },
+        {
+            "id": 149366,
+            "date_play": "2025-12-14 01:34:23",
+            "artist": "Sorry Boys",
+            "title": "Dzień dobry (feat. Robert Gawliński)",
+            "img": "https://nowyswiat.online/playlists/451c2093002beb1f1befdf1ad55e081a_149366rns_thumb_100x100.jpg?ts=1690436662"
+        },
+        {
+            "id": 152417,
+            "date_play": "2025-12-14 01:30:18",
+            "artist": "77:78",
+            "title": "Shepherd's Song",
+            "img": "https://nowyswiat.online/playlists/82b7782abb1c351d85644f93373b5f79_152417rns_thumb_100x100.jpg?ts=1693918204"
+        },
+        {
+            "id": 159267,
+            "date_play": "2025-12-14 01:26:10",
+            "artist": "Karaś/Rogucki",
+            "title": "Houston (feat. Ofelia)",
+            "img": "https://nowyswiat.online/playlists/8becd0cd94302d22c1cfe2671badcdc5_159267rns_thumb_100x100.jpg?ts=1702034392"
+        },
+        {
+            "id": 214940,
+            "date_play": "2025-12-14 00:08:44",
+            "artist": "Piotr Lemańczyk Trio & Randy Brecker",
+            "title": "Jazz po polsku w Jassmine",
+            "img": ""
+        },
+        {
+            "id": 166612,
+            "date_play": "2025-12-14 00:05:42",
+            "artist": "RY X",
+            "title": "Mallorca",
+            "img": "https://nowyswiat.online/playlists/f9e644b0da72a31d53136baf60553511_166612rns_thumb_100x100.jpg?ts=1710623573"
+        },
+        {
+            "id": 161954,
+            "date_play": "2025-12-14 00:01:51",
+            "artist": "Omar Apollo",
+            "title": "Useless",
+            "img": "https://nowyswiat.online/playlists/5328926525ffe1c798ccab553330b4b9_161954rns_thumb_100x100.jpg?ts=1705182083"
+        }
+    ],
+    "current_page": 1,
+    "last_page": 1,
+    "perpage": 300,
+    "total_elements": 10,
+    "status": "OK"
+}
