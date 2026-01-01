@@ -133,6 +133,32 @@ def export_data():
             'month': row['month'],
             'song_count': row['song_count']
         })
+
+    # Export monthly counts of new songs (first time played)
+    cursor.execute("""
+        WITH first_plays AS (
+            SELECT song_id, MIN(date_play) AS first_play_date
+            FROM playlists
+            GROUP BY song_id
+        )
+        SELECT strftime('%Y', first_play_date) AS year,
+               strftime('%m', first_play_date) AS month,
+               COUNT(*) AS new_song_count
+        FROM first_plays
+        GROUP BY year, month
+        ORDER BY year, month
+    """)
+    new_song_rows = [dict(row) for row in cursor.fetchall()]
+
+    new_songs_by_year = {}
+    for row in new_song_rows:
+        year = row['year']
+        if year not in new_songs_by_year:
+            new_songs_by_year[year] = []
+        new_songs_by_year[year].append({
+            'month': row['month'],
+            'new_song_count': row['new_song_count']
+        })
     
     # Export top artists movement over years - focused on ranking changes
     cursor.execute("""
@@ -321,6 +347,7 @@ def export_data():
         'top_artists_by_year': top_artists_by_year,
         'top_songs_by_year': top_songs_by_year,
         'monthly_data_by_year': monthly_data_by_year,
+        'new_songs_by_year': new_songs_by_year,
         'artist_rank_timeline': artist_rank_timeline,
         'years_timeline': all_years,
         'song_metadata': song_metadata,

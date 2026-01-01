@@ -139,6 +139,12 @@ main {
     background-color: rgba(230, 0, 0, 0.05);
 }
 
+.no-data {
+    padding: 1rem;
+    text-align: center;
+    color: #666666;
+}
+
 /* Data browser */
 .data-browser {
     background-color: var(--background-color);

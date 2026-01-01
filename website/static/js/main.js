@@ -23,6 +23,7 @@ function initializeWebsite() {
     updateLastUpdateDate();
     renderSummaryStats();
     renderMonthlyData();
+    renderNewSongsData();
     renderTopArtistsData();
     renderTopSongsData();
     renderArtistsTimeline();
@@ -85,6 +86,12 @@ function renderSummaryStats() {
 function renderMonthlyData() {
     renderMonthlyChart();
     renderMonthlyTable();
+}
+
+// Render new songs data (both chart and table)
+function renderNewSongsData() {
+    renderNewSongsChart();
+    renderNewSongsTable();
 }
 
 // Render monthly chart
@@ -192,6 +199,122 @@ function renderMonthlyTable() {
             <tr>
                 <td>${monthName}</td>
                 <td>${data.song_count.toLocaleString('pl-PL')}</td>
+            </tr>
+        `;
+    });
+
+    tableHTML += `
+            </tbody>
+        </table>
+    `;
+
+    tableElement.innerHTML = tableHTML;
+}
+
+// Render new songs chart
+function renderNewSongsChart() {
+    const chartElement = document.getElementById('new-songs-chart');
+
+    let newSongsData;
+    if (currentYearFilter === 'all') {
+        const aggregated = {};
+        Object.values(statisticsData.new_songs_by_year || {}).forEach(monthsData => {
+            monthsData.forEach(monthData => {
+                if (!aggregated[monthData.month]) {
+                    aggregated[monthData.month] = 0;
+                }
+                aggregated[monthData.month] += monthData.new_song_count;
+            });
+        });
+
+        newSongsData = Object.entries(aggregated)
+            .map(([month, new_song_count]) => ({ month, new_song_count }))
+            .sort((a, b) => Number(a.month) - Number(b.month));
+    } else {
+        newSongsData = statisticsData.new_songs_by_year?.[currentYearFilter] || [];
+    }
+
+    if (!newSongsData.length) {
+        chartElement.innerHTML = '<div class="no-data">Brak danych dla wybranego zakresu.</div>';
+        return;
+    }
+
+    const months = ['Styczeń', 'Luty', 'Marzec', 'Kwiecień', 'Maj', 'Czerwiec',
+        'Lipiec', 'Sierpień', 'Wrzesień', 'Październik', 'Listopad', 'Grudzień'];
+
+    const monthNames = newSongsData.map(d => months[Number(d.month) - 1]);
+    const counts = newSongsData.map(d => d.new_song_count);
+
+    const data = [{
+        x: monthNames,
+        y: counts,
+        type: 'bar',
+        marker: {
+            color: '#c0392b'
+        }
+    }];
+
+    const layout = {
+        title: currentYearFilter === 'all' ? 'Nowe utwory per miesiąc (wszystkie lata)' : `Nowe utwory per miesiąc (${currentYearFilter})`,
+        xaxis: { title: 'Miesiąc' },
+        yaxis: { title: 'Liczba nowych utworów' },
+        paper_bgcolor: 'rgba(0,0,0,0)',
+        plot_bgcolor: 'rgba(0,0,0,0)',
+        font: { color: '#000000' },
+        margin: { l: 60, r: 30, t: 50, b: 80 }
+    };
+
+    Plotly.newPlot(chartElement, data, layout);
+}
+
+// Render new songs table
+function renderNewSongsTable() {
+    const tableElement = document.getElementById('new-songs-table');
+
+    let newSongsData;
+    if (currentYearFilter === 'all') {
+        const aggregated = {};
+        Object.values(statisticsData.new_songs_by_year || {}).forEach(monthsData => {
+            monthsData.forEach(monthData => {
+                if (!aggregated[monthData.month]) {
+                    aggregated[monthData.month] = 0;
+                }
+                aggregated[monthData.month] += monthData.new_song_count;
+            });
+        });
+
+        newSongsData = Object.entries(aggregated)
+            .map(([month, new_song_count]) => ({ month, new_song_count }))
+            .sort((a, b) => Number(a.month) - Number(b.month));
+    } else {
+        newSongsData = statisticsData.new_songs_by_year?.[currentYearFilter] || [];
+    }
+
+    if (!newSongsData.length) {
+        tableElement.innerHTML = '<div class="no-data">Brak danych dla wybranego zakresu.</div>';
+        return;
+    }
+
+    const months = ['Styczeń', 'Luty', 'Marzec', 'Kwiecień', 'Maj', 'Czerwiec',
+        'Lipiec', 'Sierpień', 'Wrzesień', 'Październik', 'Listopad', 'Grudzień'];
+
+    let tableHTML = `
+        <table class="data-table">
+            <thead>
+                <tr>
+                    <th>Miesiąc</th>
+                    <th>Nowe utwory</th>
+                </tr>
+            </thead>
+            <tbody>
+    `;
+
+    newSongsData.forEach(row => {
+        const monthName = months[Number(row.month) - 1];
+        tableHTML += `
+            <tr>
+                <td>${monthName}</td>
+                <td>${row.new_song_count.toLocaleString('pl-PL')}</td>
             </tr>
         `;
     });
@@ -709,6 +832,7 @@ function filterList(listId, searchTerm) {
 function updateAllVisualizations() {
     renderSummaryStats();
     renderMonthlyData();
+    renderNewSongsData();
     renderTopArtistsData();
     renderTopSongsData();
     // Note: We don't update the timeline here as it always shows all years

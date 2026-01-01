@@ -58,6 +58,16 @@
             </div>
 
             <div class="stat-card">
+                <h2>Nowe utwory w miesiącu</h2>
+                <div class="view-toggle">
+                    <button class="toggle-btn active" data-target="new-songs" data-view="chart">Wykres</button>
+                    <button class="toggle-btn" data-target="new-songs" data-view="table">Tabela</button>
+                </div>
+                <div id="new-songs-chart" class="chart-container active-view"></div>
+                <div id="new-songs-table" class="table-container"></div>
+            </div>
+
+            <div class="stat-card">
                 <h2>Podsumowanie</h2>
                 <div id="summary-stats" class="stat-content"></div>
             </div>
