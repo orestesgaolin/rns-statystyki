@@ -1,6 +1,1392 @@
 {
     "playlist": [
         {
+            "id": 226165,
+            "date_play": "2026-05-17 23:57:18",
+            "artist": "Made In 1983",
+            "title": "Trance Culture",
+            "img": "https://nowyswiat.online/playlists/ab80e9235b89cac02989603c3bce62ba_226165rns_thumb_100x100.jpg?ts=1779055039"
+        },
+        {
+            "id": 226164,
+            "date_play": "2026-05-17 23:50:53",
+            "artist": "Overmono",
+            "title": "Lockup",
+            "img": "https://nowyswiat.online/playlists/47fef5f7a32971553c6a36ca3357c5df_226164rns_thumb_100x100.jpg?ts=1779054654"
+        },
+        {
+            "id": 226163,
+            "date_play": "2026-05-17 23:45:12",
+            "artist": "not even noticed",
+            "title": "diras",
+            "img": "https://nowyswiat.online/playlists/d3c3207cfd4655fb258359d908ab8f1c_226163rns_thumb_100x100.jpg?ts=1779054314"
+        },
+        {
+            "id": 226162,
+            "date_play": "2026-05-17 23:41:34",
+            "artist": "Hyas & Tactic 24 & Astro 90",
+            "title": "Jazzmania",
+            "img": "https://nowyswiat.online/playlists/05f2c72d4e10f7a4abd4ab51445a6cdf_226162rns_thumb_100x100.jpg?ts=1779054096"
+        },
+        {
+            "id": 226161,
+            "date_play": "2026-05-17 23:34:57",
+            "artist": "Martyn",
+            "title": "Hypnotoxic Laser",
+            "img": "https://nowyswiat.online/playlists/2592310ef093ec7b1b1c6a6aa39c2118_226161rns_thumb_100x100.jpg?ts=1779053698"
+        },
+        {
+            "id": 226160,
+            "date_play": "2026-05-17 23:28:32",
+            "artist": "Instra:mental",
+            "title": "Watching You",
+            "img": "https://nowyswiat.online/playlists/28136c38910fa9e9ee1f859faf9daac3_226160rns_thumb_100x100.jpg?ts=1779053314"
+        },
+        {
+            "id": 226159,
+            "date_play": "2026-05-17 23:22:44",
+            "artist": "Lutsu",
+            "title": "Sweetest Dreams",
+            "img": "https://nowyswiat.online/playlists/d1d4da96440301c38080d18601a526fc_226159rns_thumb_100x100.jpg?ts=1779052965"
+        },
+        {
+            "id": 226158,
+            "date_play": "2026-05-17 23:14:16",
+            "artist": "Objekt",
+            "title": "Bad Apples",
+            "img": "https://nowyswiat.online/playlists/907bc8cf7e273c70519015bef29b7274_226158rns_thumb_100x100.jpg?ts=1779052457"
+        },
+        {
+            "id": 226157,
+            "date_play": "2026-05-17 22:54:58",
+            "artist": "Malibu",
+            "title": "So Sweet & Willing",
+            "img": "https://nowyswiat.online/playlists/456ab0abf33b78c2f7fbdf88d052fff6_226157rns_thumb_100x100.jpg?ts=1779051299"
+        },
+        {
+            "id": 226156,
+            "date_play": "2026-05-17 22:26:10",
+            "artist": "Mike Parker",
+            "title": "Subterranean Liquid",
+            "img": "https://nowyswiat.online/playlists/13a939dd83d20fcba7f305d636e437b3_226156rns_thumb_100x100.jpg?ts=1779049572"
+        },
+        {
+            "id": 153299,
+            "date_play": "2026-05-17 22:07:22",
+            "artist": "Plump DJs",
+            "title": "System Addict (RePlumped)",
+            "img": "https://nowyswiat.online/playlists/fa70be2d3ab50c1a20041a4dfff5bd94_153299rns_thumb_100x100.jpg?ts=1694986465"
+        },
+        {
+            "id": 68331,
+            "date_play": "2026-05-17 21:55:50",
+            "artist": "Simple Minds",
+            "title": "Don't You (Forget About Me)",
+            "img": "https://nowyswiat.online/playlists/d4bb423c02d32abca7a6135ef8f5f99a_68331rns_thumb_100x100.jpg?ts=1701177935"
+        },
+        {
+            "id": 64225,
+            "date_play": "2026-05-17 21:48:00",
+            "artist": "Zbigniew Wodecki",
+            "title": "Pszczółka Maja",
+            "img": "https://nowyswiat.online/playlists/f3dee02a6bc9c0e6a1288197997da322_64225rns_thumb_100x100.jpg?ts=1653852429"
+        },
+        {
+            "id": 171194,
+            "date_play": "2026-05-17 21:37:42",
+            "artist": "Maanam",
+            "title": "Cykady na Cykladach (2011 Remaster)",
+            "img": "https://nowyswiat.online/playlists/3be210e06042a8c2a3562b91797b6225_171194rns_thumb_100x100.jpg?ts=1715861892"
+        },
+        {
+            "id": 226155,
+            "date_play": "2026-05-17 21:18:35",
+            "artist": "Laki Lan & Bartek Królik",
+            "title": "Mucha nie siada",
+            "img": ""
+        },
+        {
+            "id": 71431,
+            "date_play": "2026-05-17 21:02:24",
+            "artist": "Irena Jarocka",
+            "title": "Motylem jestem",
+            "img": "https://nowyswiat.online/playlists/b94067b86cbe83a07bca1d389c6a00bf_71431rns_thumb_100x100.jpg?ts=1663613439"
+        },
+        {
+            "id": 62640,
+            "date_play": "2026-05-17 20:56:07",
+            "artist": "Ofelia",
+            "title": "Ćma",
+            "img": "https://nowyswiat.online/playlists/0a6af9f91af58f5a3b2ce35b1acdfc71_62640rns_thumb_100x100.jpg?ts=1779044173"
+        },
+        {
+            "id": 226154,
+            "date_play": "2026-05-17 20:43:21",
+            "artist": "Ewa Konstancja Bułhak",
+            "title": "Dżdżownica jazz",
+            "img": "https://nowyswiat.online/playlists/6632fa477581618d1b686495abcc9458_226154rns_thumb_100x100.jpg?ts=1779043417"
+        },
+        {
+            "id": 226153,
+            "date_play": "2026-05-17 20:22:27",
+            "artist": "Maanam",
+            "title": "Owady Podniosły Skrzydła Do Lotu (2011 Remaster)",
+            "img": "https://nowyswiat.online/playlists/16aa7b892f58a07ead5c0cdbfc02e7da_226153rns_thumb_100x100.jpg?ts=1779042148"
+        },
+        {
+            "id": 226152,
+            "date_play": "2026-05-17 20:03:50",
+            "artist": "Ptaszkowie Śpiewali",
+            "title": "Chrząszcze Chrabąszcze",
+            "img": "https://nowyswiat.online/playlists/8cf0b91357ad1a19f1908d4db21c048b_226152rns_thumb_100x100.jpg?ts=1779041032"
+        },
+        {
+            "id": 226151,
+            "date_play": "2026-05-17 19:58:39",
+            "artist": "Phat Phunktion",
+            "title": "Chunky But Funky",
+            "img": "https://nowyswiat.online/playlists/05c2b6473e417cd3cdd53f9a95b814a7_226151rns_thumb_100x100.jpg?ts=1779040720"
+        },
+        {
+            "id": 226150,
+            "date_play": "2026-05-17 19:39:52",
+            "artist": "Juna Serita",
+            "title": "The Princess of Funk ",
+            "img": "https://nowyswiat.online/playlists/5e26dcc9dd38b273b2eabbf59bf912e6_226150rns_thumb_100x100.jpg?ts=1779039594"
+        },
+        {
+            "id": 226149,
+            "date_play": "2026-05-17 19:20:06",
+            "artist": "Cymande",
+            "title": "The Message",
+            "img": "https://nowyswiat.online/playlists/a8e2a90385c53af7a07bfcec3aadc901_226149rns_thumb_100x100.jpg?ts=1779038407"
+        },
+        {
+            "id": 206961,
+            "date_play": "2026-05-17 18:55:58",
+            "artist": "Blood Orange",
+            "title": "Vivid Light",
+            "img": "https://nowyswiat.online/playlists/3de76fbc7dac4ee2a668c6f6f0101843_206961rns_thumb_100x100.jpg?ts=1756576153"
+        },
+        {
+            "id": 226148,
+            "date_play": "2026-05-17 18:52:39",
+            "artist": "Samba Jean-Baptiste",
+            "title": "Swan Song (feat. Alana Markel)",
+            "img": "https://nowyswiat.online/playlists/b436fb37d7591c9d4cd4e37eed1b482d_226148rns_thumb_100x100.jpg?ts=1779036759"
+        },
+        {
+            "id": 226147,
+            "date_play": "2026-05-17 18:48:25",
+            "artist": "Samba Jean-Baptiste",
+            "title": "Forced Perspective",
+            "img": "https://nowyswiat.online/playlists/389af8fd165e60fe1d4d02a7affaee67_226147rns_thumb_100x100.jpg?ts=1779036506"
+        },
+        {
+            "id": 168110,
+            "date_play": "2026-05-17 18:45:58",
+            "artist": "Dominic Fike",
+            "title": "Babydoll",
+            "img": "https://nowyswiat.online/playlists/f52729699a94254244351d8590e48383_168110rns_thumb_100x100.jpg?ts=1712392100"
+        },
+        {
+            "id": 226146,
+            "date_play": "2026-05-17 18:41:36",
+            "artist": "Deb Never",
+            "title": "How to Forget",
+            "img": "https://nowyswiat.online/playlists/a20844fbbddc936356283742dee64823_226146rns_thumb_100x100.jpg?ts=1779036097"
+        },
+        {
+            "id": 226145,
+            "date_play": "2026-05-17 18:38:11",
+            "artist": "Deb Never",
+            "title": "ARCADE",
+            "img": "https://nowyswiat.online/playlists/44a1a6718f4444cce055cf13688818b6_226145rns_thumb_100x100.jpg?ts=1779035892"
+        },
+        {
+            "id": 226144,
+            "date_play": "2026-05-17 18:35:19",
+            "artist": "Travis Scott",
+            "title": "The Plan (From the Motion Picture \"TENET\")",
+            "img": "https://nowyswiat.online/playlists/abddf8eabeceddc8863a1bad2273edd8_226144rns_thumb_100x100.jpg?ts=1779035720"
+        },
+        {
+            "id": 219191,
+            "date_play": "2026-05-17 18:31:04",
+            "artist": "Puma Blue",
+            "title": "Silently",
+            "img": "https://nowyswiat.online/playlists/9ce297842be22b84d5e83eff25439775_219191rns_thumb_100x100.jpg?ts=1770889159"
+        },
+        {
+            "id": 226143,
+            "date_play": "2026-05-17 18:25:29",
+            "artist": "Miho Hatori",
+            "title": "19 Years Old",
+            "img": "https://nowyswiat.online/playlists/a07041387a0636d3f1600eee462e5a32_226143rns_thumb_100x100.jpg?ts=1779035131"
+        },
+        {
+            "id": 226142,
+            "date_play": "2026-05-17 18:21:17",
+            "artist": "Loraine James",
+            "title": "Score (feat. Anysia Kym)",
+            "img": "https://nowyswiat.online/playlists/df34b4fb5df99c9665ea36fa0acd3c57_226142rns_thumb_100x100.jpg?ts=1779034878"
+        },
+        {
+            "id": 226141,
+            "date_play": "2026-05-17 18:17:17",
+            "artist": "Tshegue",
+            "title": "6 Years",
+            "img": "https://nowyswiat.online/playlists/82be9e5d593b553511fa36302038e7bd_226141rns_thumb_100x100.jpg?ts=1779034639"
+        },
+        {
+            "id": 226140,
+            "date_play": "2026-05-17 18:13:47",
+            "artist": "SAILORR & Eem Triplin",
+            "title": "COCONUT (feat. Eem Triplin)",
+            "img": "https://nowyswiat.online/playlists/398a281c015288754dc16eabe9a33306_226140rns_thumb_100x100.jpg?ts=1779034428"
+        },
+        {
+            "id": 226139,
+            "date_play": "2026-05-17 18:10:11",
+            "artist": "Jenevieve & Lous and The Yakuza",
+            "title": "Fleur-De-Lis",
+            "img": "https://nowyswiat.online/playlists/03f7a958f35e9f5e7b964697306c516c_226139rns_thumb_100x100.jpg?ts=1779034212"
+        },
+        {
+            "id": 226138,
+            "date_play": "2026-05-17 18:06:54",
+            "artist": "Jenevieve & Jihyo",
+            "title": "Hvnly",
+            "img": "https://nowyswiat.online/playlists/cbf63acedff4ff9d075a66381082e4b0_226138rns_thumb_100x100.jpg?ts=1779034017"
+        },
+        {
+            "id": 226137,
+            "date_play": "2026-05-17 18:02:53",
+            "artist": "Brother Wallace",
+            "title": "You're The Man",
+            "img": "https://nowyswiat.online/playlists/38ddb5cf6f6f2730fdbf4c2c7daa799e_226137rns_thumb_100x100.jpg?ts=1779033774"
+        },
+        {
+            "id": 161314,
+            "date_play": "2026-05-17 17:56:10",
+            "artist": "Kula Shaker",
+            "title": "Natural Magick",
+            "img": "https://nowyswiat.online/playlists/9872342085bde19bfadda27537f30ff4_161314rns_thumb_100x100.jpg?ts=1704475254"
+        },
+        {
+            "id": 226136,
+            "date_play": "2026-05-17 17:51:39",
+            "artist": "Peter Cat Recording Co.",
+            "title": "Suddenly",
+            "img": "https://nowyswiat.online/playlists/b34d8609d912048cd3fe734f24e7d0b9_226136rns_thumb_100x100.jpg?ts=1779033099"
+        },
+        {
+            "id": 223211,
+            "date_play": "2026-05-17 17:48:02",
+            "artist": "Jahnavi Harrison",
+            "title": "Into The Forest (feat. Ganavya)",
+            "img": "https://nowyswiat.online/playlists/3edc40ea69e643217a0a440f57493375_223211rns_thumb_100x100.jpg?ts=1775587072"
+        },
+        {
+            "id": 226135,
+            "date_play": "2026-05-17 17:43:18",
+            "artist": "Atomic Forest",
+            "title": "Disco Queen",
+            "img": "https://nowyswiat.online/playlists/84817aa31387509cfee3855448aa8018_226135rns_thumb_100x100.jpg?ts=1779032600"
+        },
+        {
+            "id": 226134,
+            "date_play": "2026-05-17 17:35:35",
+            "artist": "Swarathma",
+            "title": "Bolo Kya Hai",
+            "img": "https://nowyswiat.online/playlists/9e3b71164b35bbe84dcc484f119120c6_226134rns_thumb_100x100.jpg?ts=1779032137"
+        },
+        {
+            "id": 226133,
+            "date_play": "2026-05-17 17:26:00",
+            "artist": "Nitin Sawhney",
+            "title": "Faceless Enemies (feat. Yva)",
+            "img": ""
+        },
+        {
+            "id": 220399,
+            "date_play": "2026-05-17 17:18:46",
+            "artist": "Gorillaz",
+            "title": "The Moon Cave (feat. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought)",
+            "img": "https://nowyswiat.online/playlists/77770be7e52e2fe4c890236fd14c9cf2_220399rns_thumb_100x100.jpg?ts=1772280898"
+        },
+        {
+            "id": 226132,
+            "date_play": "2026-05-17 17:12:35",
+            "artist": "Angélique Kidjo & Nile Rodgers & IZA",
+            "title": "Oyaya",
+            "img": "https://nowyswiat.online/playlists/a2e23626737dc0d860479dfae5b9c337_226132rns_thumb_100x100.jpg?ts=1779030756"
+        },
+        {
+            "id": 196665,
+            "date_play": "2026-05-17 17:03:19",
+            "artist": "KOKOROKO",
+            "title": "Sweetie",
+            "img": "https://nowyswiat.online/playlists/cf1d1075e5ee5005d889f5f42cccdeee_196665rns_thumb_100x100.jpg?ts=1744631478"
+        },
+        {
+            "id": 159952,
+            "date_play": "2026-05-17 16:53:54",
+            "artist": "Miles Davis",
+            "title": "I Fall In Love Too Easily",
+            "img": "https://nowyswiat.online/playlists/72b87308792a0bdbb7db57a5fe3a73df_159952rns_thumb_100x100.jpg?ts=1702824331"
+        },
+        {
+            "id": 216918,
+            "date_play": "2026-05-17 16:50:41",
+            "artist": "Johnny Hartman",
+            "title": "I Fall In Love Too Easily",
+            "img": "https://nowyswiat.online/playlists/d15fc221da327499d72327c0497f2ee4_216918rns_thumb_100x100.jpg?ts=1768146139"
+        },
+        {
+            "id": 102459,
+            "date_play": "2026-05-17 16:45:45",
+            "artist": "Tony Bennett",
+            "title": "Mood Indigo",
+            "img": "https://nowyswiat.online/playlists/049b73a171eba7bd7545d664c7127a24_102459rns_thumb_100x100.jpg?ts=1761489546"
+        },
+        {
+            "id": 226131,
+            "date_play": "2026-05-17 16:42:03",
+            "artist": "Frank Sinatra",
+            "title": "Serenade In Blue",
+            "img": "https://nowyswiat.online/playlists/f41b8e13beefe1d2a5eef7305710bb8d_226131rns_thumb_100x100.jpg?ts=1779028925"
+        },
+        {
+            "id": 223080,
+            "date_play": "2026-05-17 16:38:14",
+            "artist": "Anthony Strong",
+            "title": "As Time Goes By",
+            "img": "https://nowyswiat.online/playlists/0da88a0ed93724516659daadd1014f6d_223080rns_thumb_100x100.jpg?ts=1775397901"
+        },
+        {
+            "id": 123269,
+            "date_play": "2026-05-17 16:33:35",
+            "artist": "Charlie Haden & Pat Metheny",
+            "title": "The Moon Is A Harsh Mistress",
+            "img": "https://nowyswiat.online/playlists/59f1ee8ee9c3a0928732f54c7b4a1042_123269rns_thumb_100x100.jpg?ts=1658671541"
+        },
+        {
+            "id": 222395,
+            "date_play": "2026-05-17 16:29:21",
+            "artist": "Flea",
+            "title": "Wichita Lineman (feat. Nick Cave)",
+            "img": "https://nowyswiat.online/playlists/9bfcb077aab6037f5929dbdccf9d5118_222395rns_thumb_100x100.jpg?ts=1774642964"
+        },
+        {
+            "id": 134620,
+            "date_play": "2026-05-17 16:24:47",
+            "artist": "Glen Campbell",
+            "title": "By the Time I Get to Phoenix",
+            "img": "https://nowyswiat.online/playlists/6022f19f98c0956e2e723eb0120b3a1f_134620rns_thumb_100x100.jpg?ts=1671269719"
+        },
+        {
+            "id": 226130,
+            "date_play": "2026-05-17 16:20:49",
+            "artist": "Ashley Campbell & Vince Gill",
+            "title": "If I Wasn't (feat. Vince Gill)",
+            "img": "https://nowyswiat.online/playlists/f9e5e562189f0cdaeddc15069d4f06c7_226130rns_thumb_100x100.jpg?ts=1779027651"
+        },
+        {
+            "id": 226129,
+            "date_play": "2026-05-17 16:17:01",
+            "artist": "ERNEST & Lukas Nelson",
+            "title": "Time Is A Thief",
+            "img": "https://nowyswiat.online/playlists/5c36eec77fb73d9b4c863938411b29dd_226129rns_thumb_100x100.jpg?ts=1779027422"
+        },
+        {
+            "id": 1945,
+            "date_play": "2026-05-17 16:11:44",
+            "artist": "Santana & Chris Stapleton",
+            "title": "Joy",
+            "img": "https://nowyswiat.online/playlists/d7fd87726b4b751c55649a78bcf56d94_1945rns_thumb_100x100.jpg?ts=1643126128"
+        },
+        {
+            "id": 226128,
+            "date_play": "2026-05-17 16:07:28",
+            "artist": "Lila Downs & Alex Cuba",
+            "title": "El Jardín del Placer",
+            "img": "https://nowyswiat.online/playlists/32da632040d6c3cea010ad706d85fd49_226128rns_thumb_100x100.jpg?ts=1779026849"
+        },
+        {
+            "id": 163582,
+            "date_play": "2026-05-17 16:03:56",
+            "artist": "Alex Cuba & Lila Downs",
+            "title": "Mundo Nuevo",
+            "img": "https://nowyswiat.online/playlists/c62f1910b312c2bb4c3674f576110d6c_163582rns_thumb_100x100.jpg?ts=1707057042"
+        },
+        {
+            "id": 225083,
+            "date_play": "2026-05-17 15:56:54",
+            "artist": "Laufey",
+            "title": "Madwoman",
+            "img": "https://nowyswiat.online/playlists/ab731860e52ed7af11e25b245a9554e7_225083rns_thumb_100x100.jpg?ts=1777814208"
+        },
+        {
+            "id": 187305,
+            "date_play": "2026-05-17 15:52:14",
+            "artist": "Mariana Froes",
+            "title": "Gabriela - A COLORS SHOW",
+            "img": "https://nowyswiat.online/playlists/817a536fed001e5145c91e1b5bf8e50e_187305rns_thumb_100x100.jpg?ts=1733821703"
+        },
+        {
+            "id": 226127,
+            "date_play": "2026-05-17 15:47:10",
+            "artist": "Rita Payés",
+            "title": "El Cervatillo",
+            "img": "https://nowyswiat.online/playlists/5bf2eefad2891a745b33011c72fdf6ad_226127rns_thumb_100x100.jpg?ts=1779025631"
+        },
+        {
+            "id": 226126,
+            "date_play": "2026-05-17 15:40:56",
+            "artist": "Alejandro Falcón & Enrique Pla",
+            "title": "El Güajiro de Cunagua (feat. Haydée Milanés)",
+            "img": "https://nowyswiat.online/playlists/bfcc1edcdbf296f858c15baf6b357359_226126rns_thumb_100x100.jpg?ts=1779025257"
+        },
+        {
+            "id": 226125,
+            "date_play": "2026-05-17 15:34:01",
+            "artist": "Aymee Nuviola",
+            "title": "El Manisero (feat. Gonzalo Rubalcaba)",
+            "img": "https://nowyswiat.online/playlists/ef9abac263fdc2597fa1f5d8f698cdf4_226125rns_thumb_100x100.jpg?ts=1779024842"
+        },
+        {
+            "id": 226124,
+            "date_play": "2026-05-17 15:27:20",
+            "artist": "Fatoumata Diawara & Roberto Fonseca",
+            "title": "Sowa (Live In Marciac)",
+            "img": "https://nowyswiat.online/playlists/90ff9af853c661ed0a0b8aefa0979bd1_226124rns_thumb_100x100.jpg?ts=1779024442"
+        },
+        {
+            "id": 226123,
+            "date_play": "2026-05-17 15:21:40",
+            "artist": "Gigi",
+            "title": "Ande Ethiopia (One Ethiopia)",
+            "img": "https://nowyswiat.online/playlists/ed65f598d98603847fc8d3cb2e15cbe9_226123rns_thumb_100x100.jpg?ts=1779024101"
+        },
+        {
+            "id": 223087,
+            "date_play": "2026-05-17 15:17:07",
+            "artist": "Kenya Eugene",
+            "title": "I And I",
+            "img": "https://nowyswiat.online/playlists/91093d55df3abf8dcf4d541401066bfc_223087rns_thumb_100x100.jpg?ts=1775400151"
+        },
+        {
+            "id": 226122,
+            "date_play": "2026-05-17 15:13:30",
+            "artist": "Anitta & Ponto de Equilíbrio",
+            "title": "Deus Existe",
+            "img": "https://nowyswiat.online/playlists/dbeb3964340aa7cb4ca4e8fbeb1d0bd9_226122rns_thumb_100x100.jpg?ts=1779023611"
+        },
+        {
+            "id": 226121,
+            "date_play": "2026-05-17 15:08:36",
+            "artist": "Stephen Marley",
+            "title": "Hills Of St. Ann",
+            "img": "https://nowyswiat.online/playlists/6a175de35c7b41eba37cfc8ca47ffd52_226121rns_thumb_100x100.jpg?ts=1779023319"
+        },
+        {
+            "id": 128323,
+            "date_play": "2026-05-17 15:03:51",
+            "artist": "Miles Davis",
+            "title": "Springsville",
+            "img": "https://nowyswiat.online/playlists/c2967cde364aaf3f2882bc68c7edeed9_128323rns_thumb_100x100.jpg?ts=1779023032"
+        },
+        {
+            "id": 226120,
+            "date_play": "2026-05-17 14:57:23",
+            "artist": "Louis Armstrong",
+            "title": "Mm-Mm (Take 10)",
+            "img": "https://nowyswiat.online/playlists/de1b552f19a78dcd4ad38dd7c5adba46_226120rns_thumb_100x100.jpg?ts=1779022644"
+        },
+        {
+            "id": 226119,
+            "date_play": "2026-05-17 14:53:54",
+            "artist": "Patsy Cline",
+            "title": "She's Got You (Single Version)",
+            "img": "https://nowyswiat.online/playlists/74446c3d63068e6cb7b0d39a9a805db9_226119rns_thumb_100x100.jpg?ts=1779022435"
+        },
+        {
+            "id": 226118,
+            "date_play": "2026-05-17 14:50:25",
+            "artist": "Willie Nelson",
+            "title": "Crazy",
+            "img": "https://nowyswiat.online/playlists/44db30fe441b01a8cc1c45eec55952c4_226118rns_thumb_100x100.jpg?ts=1779022227"
+        },
+        {
+            "id": 226117,
+            "date_play": "2026-05-17 14:45:02",
+            "artist": "Willie Nelson",
+            "title": "Milk Cow Blues (feat. Francine Reed)",
+            "img": "https://nowyswiat.online/playlists/30c0c1f672eb1bfabcf0660c33805506_226117rns_thumb_100x100.jpg?ts=1779021904"
+        },
+        {
+            "id": 226116,
+            "date_play": "2026-05-17 14:38:01",
+            "artist": "Willie Nelson & Wynton Marsalis",
+            "title": "Rainy Day Blues (Live At Lincoln Center, New York/2007)",
+            "img": "https://nowyswiat.online/playlists/9ac7a29915eea458391aa4b92240cb0d_226116rns_thumb_100x100.jpg?ts=1779021482"
+        },
+        {
+            "id": 226115,
+            "date_play": "2026-05-17 14:31:39",
+            "artist": "Willie Nelson & Wynton Marsalis",
+            "title": "Bright Lights Big City (Live At Lincoln Center, New York/2007)",
+            "img": "https://nowyswiat.online/playlists/1988cb400d25f4e84b81d7b64a25ba52_226115rns_thumb_100x100.jpg?ts=1779021100"
+        },
+        {
+            "id": 226114,
+            "date_play": "2026-05-17 14:27:42",
+            "artist": "Eels",
+            "title": "Grace Kelly Blues",
+            "img": "https://nowyswiat.online/playlists/9366efcc9b57c57d716494747eed1ebc_226114rns_thumb_100x100.jpg?ts=1779020863"
+        },
+        {
+            "id": 226113,
+            "date_play": "2026-05-17 14:23:39",
+            "artist": "Deborah Harry & Iggy Pop",
+            "title": "Well Did You Evah!",
+            "img": "https://nowyswiat.online/playlists/0865ffe88c8da2ca1b75ed749f15d944_226113rns_thumb_100x100.jpg?ts=1779020620"
+        },
+        {
+            "id": 226112,
+            "date_play": "2026-05-17 14:17:25",
+            "artist": "Bing Crosby with Louis Armstrong & His All-Stars",
+            "title": "Now You Has Jazz",
+            "img": "https://nowyswiat.online/playlists/1ae89576877990a0f264f57d546c7529_226112rns_thumb_100x100.jpg?ts=1779020247"
+        },
+        {
+            "id": 127316,
+            "date_play": "2026-05-17 14:13:48",
+            "artist": "Bix Beiderbecke",
+            "title": "Singin' the Blues",
+            "img": "https://nowyswiat.online/playlists/71ad58ac14b8156c64863a94af87dcfc_127316rns_thumb_100x100.jpg?ts=1663301705"
+        },
+        {
+            "id": 226111,
+            "date_play": "2026-05-17 14:09:18",
+            "artist": "Louis Armstrong Hot Five",
+            "title": "I'm Not Rough",
+            "img": "https://nowyswiat.online/playlists/2c98628d16e985045189e786739663e2_226111rns_thumb_100x100.jpg?ts=1779019759"
+        },
+        {
+            "id": 226110,
+            "date_play": "2026-05-17 14:04:36",
+            "artist": "Lonnie Johnson",
+            "title": "Summertime",
+            "img": "https://nowyswiat.online/playlists/84364dd77f3f5d4a1c5f402887b419a5_226110rns_thumb_100x100.jpg?ts=1779019478"
+        },
+        {
+            "id": 226109,
+            "date_play": "2026-05-17 13:57:22",
+            "artist": "Soundwall & Amelia McLean",
+            "title": "Final Countdown (From \"Paradise: Season 2\")",
+            "img": "https://nowyswiat.online/playlists/d5e8bad0e2518eeeb1a9ab6276e1e0f4_226109rns_thumb_100x100.jpg?ts=1779019043"
+        },
+        {
+            "id": 226108,
+            "date_play": "2026-05-17 13:50:57",
+            "artist": "Adam Lambert",
+            "title": "EAT U ALIVE",
+            "img": "https://nowyswiat.online/playlists/0a7baa3951179586115d7106455126b3_226108rns_thumb_100x100.jpg?ts=1779018658"
+        },
+        {
+            "id": 226107,
+            "date_play": "2026-05-17 13:42:30",
+            "artist": "Alex Wurman",
+            "title": "The Arrest",
+            "img": "https://nowyswiat.online/playlists/7a99c1c81c7cb4bd4e2088a25c89605a_226107rns_thumb_100x100.jpg?ts=1779018151"
+        },
+        {
+            "id": 226106,
+            "date_play": "2026-05-17 13:34:31",
+            "artist": "Barry White",
+            "title": "I'm Gonna Love You Just A Little",
+            "img": "https://nowyswiat.online/playlists/eb783c312b099543c1ce75c887061874_226106rns_thumb_100x100.jpg?ts=1779017673"
+        },
+        {
+            "id": 226105,
+            "date_play": "2026-05-17 13:24:34",
+            "artist": "Alex Wurman",
+            "title": "Swings",
+            "img": "https://nowyswiat.online/playlists/ff63a77fc5ba06bf4b08d9fa0296a670_226105rns_thumb_100x100.jpg?ts=1779017075"
+        },
+        {
+            "id": 124205,
+            "date_play": "2026-05-17 13:13:39",
+            "artist": "The 5th Dimension",
+            "title": "Aquarius/Let The Sunshine In (The Flesh Failures) (From the Musical \"Hair\")",
+            "img": "https://nowyswiat.online/playlists/cb449b4ff414867364599d9cc4b1944e_124205rns_thumb_100x100.jpg?ts=1659731566"
+        },
+        {
+            "id": 226104,
+            "date_play": "2026-05-17 13:03:45",
+            "artist": "Stanisława Celińska",
+            "title": "Weź psa",
+            "img": "https://nowyswiat.online/playlists/d926142f9b012e7e5ce00f0a7019c65a_226104rns_thumb_100x100.jpg?ts=1779015827"
+        },
+        {
+            "id": 226103,
+            "date_play": "2026-05-17 12:55:48",
+            "artist": "Primitive Ring",
+            "title": "Rolling Greed",
+            "img": "https://nowyswiat.online/playlists/a8f075275a2bda15bf724ea73b970427_226103rns_thumb_100x100.jpg?ts=1779015349"
+        },
+        {
+            "id": 226102,
+            "date_play": "2026-05-17 12:48:51",
+            "artist": "Primitive Ring",
+            "title": "Heads Will Roll",
+            "img": "https://nowyswiat.online/playlists/53e3e724055d1036567f1235486b9964_226102rns_thumb_100x100.jpg?ts=1779014931"
+        },
+        {
+            "id": 226101,
+            "date_play": "2026-05-17 12:45:06",
+            "artist": "Primitive Ring",
+            "title": "Lies From The Other Side",
+            "img": "https://nowyswiat.online/playlists/90262a06c9e0fd54815e1e644f2d6469_226101rns_thumb_100x100.jpg?ts=1779014708"
+        },
+        {
+            "id": 226100,
+            "date_play": "2026-05-17 12:38:28",
+            "artist": "Kraków Street Band",
+            "title": "Dobrze mi tu",
+            "img": "https://nowyswiat.online/playlists/28aac2515af478ce3e2336e29ce349bc_226100rns_thumb_100x100.jpg?ts=1779014309"
+        },
+        {
+            "id": 226099,
+            "date_play": "2026-05-17 12:33:52",
+            "artist": "Kraków Street Band",
+            "title": "Będę bredził",
+            "img": "https://nowyswiat.online/playlists/943e32b42a8784c1b5007fba95b6c6c9_226099rns_thumb_100x100.jpg?ts=1779014033"
+        },
+        {
+            "id": 226098,
+            "date_play": "2026-05-17 12:28:33",
+            "artist": "Kraków Street Band",
+            "title": "Spotkanie",
+            "img": "https://nowyswiat.online/playlists/27f186fc0b9b01535d94c791b3781bc1_226098rns_thumb_100x100.jpg?ts=1779013713"
+        },
+        {
+            "id": 226097,
+            "date_play": "2026-05-17 12:24:22",
+            "artist": "Robert Gordon & Chris Spedding",
+            "title": "Have I the Right",
+            "img": "https://nowyswiat.online/playlists/cc5fdb1fe7095f806d84908996e128ce_226097rns_thumb_100x100.jpg?ts=1779013464"
+        },
+        {
+            "id": 226096,
+            "date_play": "2026-05-17 12:20:56",
+            "artist": "Honeycombs, The",
+            "title": "Have I The Right",
+            "img": "https://nowyswiat.online/playlists/3927f2c3e32273813680e74f4bbb0693_226096rns_thumb_100x100.jpg?ts=1779013258"
+        },
+        {
+            "id": 226095,
+            "date_play": "2026-05-17 12:18:12",
+            "artist": "Honeycombs, The",
+            "title": "Is It Because",
+            "img": "https://nowyswiat.online/playlists/15f6a467ba8ec7b9f8d9dc1efe149a92_226095rns_thumb_100x100.jpg?ts=1779013093"
+        },
+        {
+            "id": 226094,
+            "date_play": "2026-05-17 12:14:54",
+            "artist": "Honeycombs, The",
+            "title": "That's The Way",
+            "img": "https://nowyswiat.online/playlists/820e3587f2e705108b0a1608a638b3af_226094rns_thumb_100x100.jpg?ts=1779012895"
+        },
+        {
+            "id": 226093,
+            "date_play": "2026-05-17 12:11:51",
+            "artist": "Honeycombs, The",
+            "title": "Something Better Beginning",
+            "img": "https://nowyswiat.online/playlists/642641dfe126ddad3708632392666f12_226093rns_thumb_100x100.jpg?ts=1779012712"
+        },
+        {
+            "id": 226092,
+            "date_play": "2026-05-17 12:06:53",
+            "artist": "Szałapak & Zabłocki",
+            "title": "SOKRATES",
+            "img": "https://nowyswiat.online/playlists/0af505806e96712636977a3422a51ad9_226092rns_thumb_100x100.jpg?ts=1779012414"
+        },
+        {
+            "id": 141219,
+            "date_play": "2026-05-17 11:56:11",
+            "artist": "Hookfoot",
+            "title": "Bluebird Revisited",
+            "img": "https://nowyswiat.online/playlists/2081db41f970f70d9373b6ffb0293921_141219rns_thumb_100x100.jpg?ts=1679043276"
+        },
+        {
+            "id": 226091,
+            "date_play": "2026-05-17 11:50:29",
+            "artist": "Hookfoot",
+            "title": "Sweet Sweet Funky Music",
+            "img": "https://nowyswiat.online/playlists/e2b979782f01cb4169c07812c84ca009_226091rns_thumb_100x100.jpg?ts=1779011430"
+        },
+        {
+            "id": 226090,
+            "date_play": "2026-05-17 11:43:04",
+            "artist": "Omar Coleman & Igor Prado",
+            "title": "Blue Line Train In Chicago",
+            "img": "https://nowyswiat.online/playlists/d59a1e05f250672822f2314c5cd8b67a_226090rns_thumb_100x100.jpg?ts=1779010985"
+        },
+        {
+            "id": 226089,
+            "date_play": "2026-05-17 11:36:51",
+            "artist": "Omar Coleman & Igor Prado",
+            "title": "Moving on to Better Days",
+            "img": "https://nowyswiat.online/playlists/378eb84bc8ed075a86ffb02e080e196e_226089rns_thumb_100x100.jpg?ts=1779010613"
+        },
+        {
+            "id": 226088,
+            "date_play": "2026-05-17 11:29:50",
+            "artist": "Omar Coleman, Igor Prado",
+            "title": "I'm Leaving My No Good Woman",
+            "img": "https://nowyswiat.online/playlists/2f065b5255a839a7414071a860c4ec24_226088rns_thumb_100x100.jpg?ts=1779010191"
+        },
+        {
+            "id": 225805,
+            "date_play": "2026-05-17 11:25:34",
+            "artist": "Paul McCartney & Ringo Starr",
+            "title": "Home to Us",
+            "img": "https://nowyswiat.online/playlists/776cb014bce0c438f23cf3d836d1610d_225805rns_thumb_100x100.jpg?ts=1778627179"
+        },
+        {
+            "id": 226087,
+            "date_play": "2026-05-17 11:18:02",
+            "artist": "American Football",
+            "title": "Blood On My Blood (feat. Caithlin De Marrais)",
+            "img": "https://nowyswiat.online/playlists/34d54376a93c8d5a0e8d7bb814486ad3_226087rns_thumb_100x100.jpg?ts=1779009485"
+        },
+        {
+            "id": 226086,
+            "date_play": "2026-05-17 11:10:25",
+            "artist": "American Football",
+            "title": "The Summer Ends",
+            "img": "https://nowyswiat.online/playlists/cf233449b99d7aeda57d26ffd5e20d47_226086rns_thumb_100x100.jpg?ts=1779009026"
+        },
+        {
+            "id": 185790,
+            "date_play": "2026-05-17 11:04:19",
+            "artist": "American Football",
+            "title": "Never Meant",
+            "img": "https://nowyswiat.online/playlists/896edeaf89fca1583139145b7f4ebe64_185790rns_thumb_100x100.jpg?ts=1732205085"
+        },
+        {
+            "id": 65892,
+            "date_play": "2026-05-17 10:53:16",
+            "artist": "Dido",
+            "title": "Take My Hand",
+            "img": "https://nowyswiat.online/playlists/0fcdeb68cba122effd1bec9b64dc7955_65892rns_thumb_100x100.jpg?ts=1779007998"
+        },
+        {
+            "id": 122265,
+            "date_play": "2026-05-17 10:49:01",
+            "artist": "Will Smith",
+            "title": "Gettin' Jiggy Wit It",
+            "img": "https://nowyswiat.online/playlists/4faa04dfde391618e8bd19c61472d33c_122265rns_thumb_100x100.jpg?ts=1657540209"
+        },
+        {
+            "id": 226085,
+            "date_play": "2026-05-17 10:43:44",
+            "artist": "US3",
+            "title": "Tukka Yoot's Riddim",
+            "img": "https://nowyswiat.online/playlists/473bebd553fa15a4982633894518a345_226085rns_thumb_100x100.jpg?ts=1779007425"
+        },
+        {
+            "id": 128966,
+            "date_play": "2026-05-17 10:38:45",
+            "artist": "Massive Attack",
+            "title": "Risingson",
+            "img": "https://nowyswiat.online/playlists/9ec8425154a519da7e8b8b15e1aba6a2_128966rns_thumb_100x100.jpg?ts=1665175220"
+        },
+        {
+            "id": 105985,
+            "date_play": "2026-05-17 10:32:14",
+            "artist": "D'Angelo",
+            "title": "Jonz In My Bonz",
+            "img": "https://nowyswiat.online/playlists/0647ba3b6e5ddc4cb083c32832d72488_105985rns_thumb_100x100.jpg?ts=1779006735"
+        },
+        {
+            "id": 226084,
+            "date_play": "2026-05-17 10:25:51",
+            "artist": "Soul II Soul",
+            "title": "Happiness (Dub) (feat. Do'Reen)",
+            "img": ""
+        },
+        {
+            "id": 226083,
+            "date_play": "2026-05-17 10:21:14",
+            "artist": "Gala & Molella & Phil Jay",
+            "title": "Freed From Desire (Slow Version)",
+            "img": "https://nowyswiat.online/playlists/b9abf89897f019997bca99a72cb9a975_226083rns_thumb_100x100.jpg?ts=1779006075"
+        },
+        {
+            "id": 226082,
+            "date_play": "2026-05-17 10:14:22",
+            "artist": "Tricky & Martina Topley-Bird",
+            "title": "Black Steel",
+            "img": "https://nowyswiat.online/playlists/4ffaed372adfdc28e7212d8e4db48c86_226082rns_thumb_100x100.jpg?ts=1779005663"
+        },
+        {
+            "id": 147812,
+            "date_play": "2026-05-17 10:08:33",
+            "artist": "Björk",
+            "title": "Crying",
+            "img": "https://nowyswiat.online/playlists/10ce4695d68335ec229a3dd865f019bb_147812rns_thumb_100x100.jpg?ts=1688501021"
+        },
+        {
+            "id": 94407,
+            "date_play": "2026-05-17 10:03:30",
+            "artist": "Skee-Lo",
+            "title": "I Wish",
+            "img": "https://nowyswiat.online/playlists/1671a7f1471fd653a878a6ae8518dcf7_94407rns_thumb_100x100.jpg?ts=1713009353"
+        },
+        {
+            "id": 169987,
+            "date_play": "2026-05-17 07:56:34",
+            "artist": "St. Vincent",
+            "title": "Hell Is Near",
+            "img": "https://nowyswiat.online/playlists/4781e75f8ece92420bc6465da456e735_169987rns_thumb_100x100.jpg?ts=1714454673"
+        },
+        {
+            "id": 142705,
+            "date_play": "2026-05-17 07:53:26",
+            "artist": "O.S.T.R.",
+            "title": "LEMON (feat. Gibbs)",
+            "img": "https://nowyswiat.online/playlists/f3d8904114a40db8060032106625a670_142705rns_thumb_100x100.jpg?ts=1759631286"
+        },
+        {
+            "id": 143995,
+            "date_play": "2026-05-17 07:49:55",
+            "artist": "Tash Sultana",
+            "title": "New York",
+            "img": "https://nowyswiat.online/playlists/7df13672f7ae4b20f34141d07f359917_143995rns_thumb_100x100.jpg?ts=1683986240"
+        },
+        {
+            "id": 132562,
+            "date_play": "2026-05-17 07:45:29",
+            "artist": "Neal Francis",
+            "title": "Strawberry Letter 23",
+            "img": "https://nowyswiat.online/playlists/72990a96e8d58c6f0c23edb34ad65a5d_132562rns_thumb_100x100.jpg?ts=1669015379"
+        },
+        {
+            "id": 133630,
+            "date_play": "2026-05-17 07:42:14",
+            "artist": "Taylor Swift",
+            "title": "Anti-Hero (Acoustic Version)",
+            "img": "https://nowyswiat.online/playlists/ba5864d3439c26409186b6eb9b4e5944_133630rns_thumb_100x100.jpg?ts=1670184235"
+        },
+        {
+            "id": 98276,
+            "date_play": "2026-05-17 07:36:49",
+            "artist": "Bass Astral x Igo",
+            "title": "Satellite",
+            "img": "https://nowyswiat.online/playlists/5fa0add84e0eb7499fc4081b0fd728f9_98276rns_thumb_100x100.jpg?ts=1655588645"
+        },
+        {
+            "id": 164549,
+            "date_play": "2026-05-17 07:33:01",
+            "artist": "SKUBAS",
+            "title": "Nie chce mi się więcej",
+            "img": "https://nowyswiat.online/playlists/8d272b5e7ec39e7088bd979c6c13ade8_164549rns_thumb_100x100.jpg?ts=1708190136"
+        },
+        {
+            "id": 153618,
+            "date_play": "2026-05-17 07:29:09",
+            "artist": "Robert Jon & The Wreck",
+            "title": "Stone Cold Killer",
+            "img": "https://nowyswiat.online/playlists/56b9247a49fde58039b756ca6fa7a843_153618rns_thumb_100x100.jpg?ts=1695396767"
+        },
+        {
+            "id": 81325,
+            "date_play": "2026-05-17 07:25:14",
+            "artist": "H.E.R.",
+            "title": "Fight For You",
+            "img": "https://nowyswiat.online/playlists/7b1ea3f837c154356311eaa613435dfb_81325rns_thumb_100x100.jpg?ts=1651036929"
+        },
+        {
+            "id": 63584,
+            "date_play": "2026-05-17 07:22:41",
+            "artist": "Bill Withers",
+            "title": "Ain't No Sunshine",
+            "img": "https://nowyswiat.online/playlists/2eb09daf6b85541226d1f00dc1834e6d_63584rns_thumb_100x100.jpg?ts=1652717363"
+        },
+        {
+            "id": 171911,
+            "date_play": "2026-05-17 07:19:38",
+            "artist": "Jakub Skorupa",
+            "title": "Składam się",
+            "img": "https://nowyswiat.online/playlists/7ef326ab6514dc3df895935a94999678_171911rns_thumb_100x100.jpg?ts=1716653133"
+        },
+        {
+            "id": 172437,
+            "date_play": "2026-05-17 07:17:37",
+            "artist": "Stephen Day",
+            "title": "Gold Mine",
+            "img": "https://nowyswiat.online/playlists/2d10d05cb30368d696684b90453e8ed2_172437rns_thumb_100x100.jpg?ts=1717245287"
+        },
+        {
+            "id": 116496,
+            "date_play": "2026-05-17 07:13:22",
+            "artist": "Warpaint",
+            "title": "Stevie",
+            "img": "https://nowyswiat.online/playlists/2d5fe7392564deb2dca32930354339bb_116496rns_thumb_100x100.jpg?ts=1650880380"
+        },
+        {
+            "id": 174432,
+            "date_play": "2026-05-17 07:09:08",
+            "artist": "Eddie Vedder",
+            "title": "Save It For Later",
+            "img": "https://nowyswiat.online/playlists/7871140e7981d3f19f94db4d20bbdff1_174432rns_thumb_100x100.jpg?ts=1719499643"
+        },
+        {
+            "id": 225458,
+            "date_play": "2026-05-17 07:06:03",
+            "artist": "Barbara Wrońska",
+            "title": "Tylko z Tobą",
+            "img": "https://nowyswiat.online/playlists/32e10ecf23b97a902cc409420ef32b90_225458rns_thumb_100x100.jpg?ts=1778239166"
+        },
+        {
+            "id": 133918,
+            "date_play": "2026-05-17 07:01:07",
+            "artist": "Thin Lizzy",
+            "title": "The Boys Are Back In Town (Live At The Hammersmith Odeon, London / 14th Nov 1976)",
+            "img": ""
+        },
+        {
+            "id": 127207,
+            "date_play": "2026-05-17 06:57:36",
+            "artist": "Lor",
+            "title": "Romantyczność",
+            "img": "https://nowyswiat.online/playlists/29a86cbd4604309663c74c2073e2dc27_127207rns_thumb_100x100.jpg?ts=1663152972"
+        },
+        {
+            "id": 132871,
+            "date_play": "2026-05-17 06:54:03",
+            "artist": "Błażej Król",
+            "title": "10 lat",
+            "img": "https://nowyswiat.online/playlists/14afaee300c9db23e54d490b5f746828_132871rns_thumb_100x100.jpg?ts=1669379881"
+        },
+        {
+            "id": 139435,
+            "date_play": "2026-05-17 06:51:17",
+            "artist": "Jessie Murph",
+            "title": "Where Do You Go",
+            "img": "https://nowyswiat.online/playlists/860a8973f77f979c4e9dc83c42da4500_139435rns_thumb_100x100.jpg?ts=1676950314"
+        },
+        {
+            "id": 143996,
+            "date_play": "2026-05-17 06:50:02",
+            "artist": "Moby",
+            "title": "Second Cool Hive (Resound NYC Version) (feat. Oum & Sarah Willis)",
+            "img": "https://nowyswiat.online/playlists/575fd6f9dba15e01e63d9bfe858d897b_143996rns_thumb_100x100.jpg?ts=1683986616"
+        },
+        {
+            "id": 175022,
+            "date_play": "2026-05-17 06:46:43",
+            "artist": "Kasabian",
+            "title": "Italian Horror",
+            "img": "https://nowyswiat.online/playlists/2f8b66dfa9bfcc6982e9f2393fdfab90_175022rns_thumb_100x100.jpg?ts=1720177705"
+        },
+        {
+            "id": 140961,
+            "date_play": "2026-05-17 06:43:05",
+            "artist": "Fever Ray",
+            "title": "Looking For A Ghost",
+            "img": "https://nowyswiat.online/playlists/70bdf015f8b938e8d8eacedc7310cbb6_140961rns_thumb_100x100.jpg?ts=1678707510"
+        },
+        {
+            "id": 64093,
+            "date_play": "2026-05-17 06:39:46",
+            "artist": "Mick Jagger",
+            "title": "God Gave Me Everything",
+            "img": "https://nowyswiat.online/playlists/ec8035f0736357bcfbe4fc4f5930086c_64093rns_thumb_100x100.jpg?ts=1658808950"
+        },
+        {
+            "id": 152869,
+            "date_play": "2026-05-17 06:36:19",
+            "artist": "Blondshell",
+            "title": "Street Rat",
+            "img": "https://nowyswiat.online/playlists/7ce3e01f18f79b9b8543db2641aa1340_152869rns_thumb_100x100.jpg?ts=1694463869"
+        },
+        {
+            "id": 157545,
+            "date_play": "2026-05-17 06:32:16",
+            "artist": "Gracie Abrams",
+            "title": "Cedar",
+            "img": "https://nowyswiat.online/playlists/7c6b7f16167e400717ff3e06ee42dbae_157545rns_thumb_100x100.jpg?ts=1699881382"
+        },
+        {
+            "id": 146210,
+            "date_play": "2026-05-17 06:28:32",
+            "artist": "Christine and the Queens",
+            "title": "A day in the water",
+            "img": "https://nowyswiat.online/playlists/e9ed430c255f58a5c32d9278b0842882_146210rns_thumb_100x100.jpg?ts=1686599354"
+        },
+        {
+            "id": 136350,
+            "date_play": "2026-05-17 06:25:20",
+            "artist": "Charlotte Dos Santos",
+            "title": "Just Sayin'",
+            "img": "https://nowyswiat.online/playlists/65a96a91b3f546e8b8bef882cb100dd0_136350rns_thumb_100x100.jpg?ts=1673354504"
+        },
+        {
+            "id": 128397,
+            "date_play": "2026-05-17 06:21:58",
+            "artist": "WILSN",
+            "title": "If You Wanna Love Me",
+            "img": "https://nowyswiat.online/playlists/d778acffd9d66af5e13f4d189e9f1f73_128397rns_thumb_100x100.jpg?ts=1664555108"
+        },
+        {
+            "id": 145800,
+            "date_play": "2026-05-17 06:17:57",
+            "artist": "Jane's Addiction",
+            "title": "Ocean Size",
+            "img": "https://nowyswiat.online/playlists/ec5d9f6162699c80e4921cf030955f77_145800rns_thumb_100x100.jpg?ts=1686125622"
+        },
+        {
+            "id": 128853,
+            "date_play": "2026-05-17 06:14:14",
+            "artist": "Dropkick Murphys",
+            "title": "The Last One (feat. Evan Felker of Turnpike Troubadours)",
+            "img": "https://nowyswiat.online/playlists/f132b9216d97f7ac9c2282a38ae79d41_128853rns_thumb_100x100.jpg?ts=1669254429"
+        },
+        {
+            "id": 85335,
+            "date_play": "2026-05-17 06:09:13",
+            "artist": "Lana Del Rey",
+            "title": "Yosemite",
+            "img": "https://nowyswiat.online/playlists/408635eedf384c10826888b9e43383e3_85335rns_thumb_100x100.jpg?ts=1652270171"
+        },
+        {
+            "id": 225525,
+            "date_play": "2026-05-17 06:06:27",
+            "artist": "Brk",
+            "title": "Obłok",
+            "img": "https://nowyswiat.online/playlists/dad0d4ba57da61dd4c87090b94ef478b_225525rns_thumb_100x100.jpg?ts=1778303578"
+        },
+        {
+            "id": 153130,
+            "date_play": "2026-05-17 06:02:43",
+            "artist": "Cinnamon Gum",
+            "title": "Let Us Fly",
+            "img": "https://nowyswiat.online/playlists/b7d3b523828408e11660d390ef5b6289_153130rns_thumb_100x100.jpg?ts=1694847420"
+        },
+        {
+            "id": 134350,
+            "date_play": "2026-05-17 05:58:16",
+            "artist": "Natalia Kukulska",
+            "title": "Decymy (Live \"Artyści dla Akademii Teatralnej\", 24.11.2022)",
+            "img": "https://nowyswiat.online/playlists/cdfc394ae1098953effd65f4727b94dc_134350rns_thumb_100x100.jpg?ts=1759369156"
+        },
+        {
+            "id": 176636,
+            "date_play": "2026-05-17 05:55:01",
+            "artist": "Jorja Smith",
+            "title": "High",
+            "img": "https://nowyswiat.online/playlists/379a49ece4ea84c7a8f6343a46391c0d_176636rns_thumb_100x100.jpg?ts=1722059121"
+        },
+        {
+            "id": 156086,
+            "date_play": "2026-05-17 05:51:12",
+            "artist": "Mrozu",
+            "title": "Za daleko (MTV Unplugged)",
+            "img": "https://nowyswiat.online/playlists/23dcf0ea2a87599a93935978eaf46221_156086rns_thumb_100x100.jpg?ts=1698209331"
+        },
+        {
+            "id": 133231,
+            "date_play": "2026-05-17 05:46:53",
+            "artist": "Jan Emil Młynarski",
+            "title": "Antek (Live \"Artyści dla Akademii Teatralnej\", 24.11.2022)",
+            "img": ""
+        },
+        {
+            "id": 153888,
+            "date_play": "2026-05-17 05:43:17",
+            "artist": "Bush",
+            "title": "Nowhere To Go But Everywhere",
+            "img": "https://nowyswiat.online/playlists/1c0ddcfc5a5ec207d275afab242df8a0_153888rns_thumb_100x100.jpg?ts=1695644914"
+        },
+        {
+            "id": 157202,
+            "date_play": "2026-05-17 05:39:49",
+            "artist": "blink-182",
+            "title": "BLINK WAVE",
+            "img": "https://nowyswiat.online/playlists/fb070fcc77d3fb0760c1eede3baa1c2a_157202rns_thumb_100x100.jpg?ts=1699491726"
+        },
+        {
+            "id": 129693,
+            "date_play": "2026-05-17 05:36:32",
+            "artist": "Robert Glasper",
+            "title": "Therapy pt. 2 (feat. MAC MILLER)",
+            "img": "https://nowyswiat.online/playlists/0a18ff3d3cbfec8db4e30ce51f6ce0ac_129693rns_thumb_100x100.jpg?ts=1665938474"
+        },
+        {
+            "id": 61995,
+            "date_play": "2026-05-17 05:32:26",
+            "artist": "Paul Weller",
+            "title": "Sunflower",
+            "img": "https://nowyswiat.online/playlists/c3b8aba534837cf56dac5899612f1e90_61995rns_thumb_100x100.jpg?ts=1663816806"
+        },
+        {
+            "id": 147966,
+            "date_play": "2026-05-17 05:29:35",
+            "artist": "Bishop Briggs",
+            "title": "Cherry on Top",
+            "img": "https://nowyswiat.online/playlists/95e2648194a9e7a969387058f65a9df8_147966rns_thumb_100x100.jpg?ts=1688724463"
+        },
+        {
+            "id": 91152,
+            "date_play": "2026-05-17 05:27:15",
+            "artist": "Jake Bugg",
+            "title": "Lightning Bolt",
+            "img": "https://nowyswiat.online/playlists/5915c6f91973bed10254b485824a4fbe_91152rns_thumb_100x100.jpg?ts=1655390730"
+        },
+        {
+            "id": 67057,
+            "date_play": "2026-05-17 05:25:00",
+            "artist": "Etta James",
+            "title": "I'd Rather Go Blind",
+            "img": "https://nowyswiat.online/playlists/51cbfed52be970e4e9928363bb636ab1_67057rns_thumb_100x100.jpg?ts=1655096940"
+        },
+        {
+            "id": 98588,
+            "date_play": "2026-05-17 05:20:31",
+            "artist": "Nirvana",
+            "title": "In Bloom",
+            "img": "https://nowyswiat.online/playlists/e03d4e9546da3e4738a59495ecb6027f_98588rns_thumb_100x100.jpg?ts=1651644238"
+        },
+        {
+            "id": 166007,
+            "date_play": "2026-05-17 05:17:04",
+            "artist": "Gary Clark Jr.",
+            "title": "Habits",
+            "img": "https://nowyswiat.online/playlists/0e7c327930c10161a6ccadebb04b5061_166007rns_thumb_100x100.jpg?ts=1709902408"
+        },
+        {
+            "id": 134943,
+            "date_play": "2026-05-17 05:12:31",
+            "artist": "Bovska",
+            "title": "Dzika (Live \"Artyści dla Akademii Teatralnej\", 24.11.2022)",
+            "img": "https://nowyswiat.online/playlists/7652fb14ebc5278799247de4f3edfa26_134943rns_thumb_100x100.jpg?ts=1759028366"
+        },
+        {
+            "id": 174070,
+            "date_play": "2026-05-17 05:08:33",
+            "artist": "Ezra Collective, Yazmin Lacey",
+            "title": "God Gave Me Feet For Dancing",
+            "img": "https://nowyswiat.online/playlists/22b9f53fd432c42dda02185b4b71a1d8_174070rns_thumb_100x100.jpg?ts=1719085351"
+        },
+        {
+            "id": 83417,
+            "date_play": "2026-05-17 05:05:06",
+            "artist": "Dusty Springfield",
+            "title": "The Look of Love",
+            "img": "https://nowyswiat.online/playlists/26c722b504b9998a10612974650bee44_83417rns_thumb_100x100.jpg?ts=1665569542"
+        },
+        {
+            "id": 220940,
+            "date_play": "2026-05-17 05:01:47",
+            "artist": "Aldous Harding",
+            "title": "One Stop",
+            "img": "https://nowyswiat.online/playlists/4a0ea207f02ed86fe2d9f8b68e004c61_220940rns_thumb_100x100.jpg?ts=1772909010"
+        },
+        {
+            "id": 153617,
+            "date_play": "2026-05-17 04:57:19",
+            "artist": "Steaming Satellites",
+            "title": "Dear My Emotions",
+            "img": "https://nowyswiat.online/playlists/419d2a282bf9e3a7ea4da57ea6a245c8_153617rns_thumb_100x100.jpg?ts=1695393613"
+        },
+        {
+            "id": 81025,
+            "date_play": "2026-05-17 04:53:21",
+            "artist": "Celeste",
+            "title": "Tonight Tonight",
+            "img": "https://nowyswiat.online/playlists/f60b8ec7ecf835950fde30515bf06751_81025rns_thumb_100x100.jpg?ts=1655380219"
+        },
+        {
+            "id": 60127,
+            "date_play": "2026-05-17 04:49:42",
+            "artist": "James Bay",
+            "title": "Hold Back the River",
+            "img": "https://nowyswiat.online/playlists/49bb2512989126170220c258dc2866e2_60127rns_thumb_100x100.jpg?ts=1650371809"
+        },
+        {
+            "id": 145451,
+            "date_play": "2026-05-17 04:45:47",
+            "artist": "Queens of the Stone Age",
+            "title": "Carnavoyeur",
+            "img": "https://nowyswiat.online/playlists/050acd087daa1a19006a1231fe8f8a75_145451rns_thumb_100x100.jpg?ts=1685813635"
+        },
+        {
+            "id": 77863,
+            "date_play": "2026-05-17 04:43:30",
+            "artist": "The Coral",
+            "title": "Dreaming of You",
+            "img": "https://nowyswiat.online/playlists/738c03019dfa25ceb41d7ca815c1fe90_77863rns_thumb_100x100.jpg?ts=1653057125"
+        },
+        {
+            "id": 129894,
+            "date_play": "2026-05-17 04:40:32",
+            "artist": "Nothing But Thieves",
+            "title": "Get Better",
+            "img": "https://nowyswiat.online/playlists/0f99e7e4ea4bd237a75b580b7bb3adca_129894rns_thumb_100x100.jpg?ts=1681367244"
+        },
+        {
+            "id": 161292,
+            "date_play": "2026-05-17 04:36:29",
+            "artist": "Alice Merton",
+            "title": "run away girl",
+            "img": "https://nowyswiat.online/playlists/639293ab5eaac7ddad5798ad2298a04b_161292rns_thumb_100x100.jpg?ts=1704456945"
+        },
+        {
+            "id": 84631,
+            "date_play": "2026-05-17 04:33:24",
+            "artist": "Lorde",
+            "title": "Homemade Dynamite",
+            "img": "https://nowyswiat.online/playlists/5972eba99a897a498999c2e3693c75f1_84631rns_thumb_100x100.jpg?ts=1652196302"
+        },
+        {
+            "id": 161621,
+            "date_play": "2026-05-17 04:30:16",
+            "artist": "Greyhounds",
+            "title": "Nobody's Judging (feat. Jay Mumford)",
+            "img": "https://nowyswiat.online/playlists/d5fc915548cc1a72894602ad4c5430ff_161621rns_thumb_100x100.jpg?ts=1704798831"
+        },
+        {
+            "id": 156255,
+            "date_play": "2026-05-17 04:26:09",
+            "artist": "Jordan Rakei",
+            "title": "Flowers",
+            "img": "https://nowyswiat.online/playlists/9c182779369baadca1d5848d7b4f3ada_156255rns_thumb_100x100.jpg?ts=1698403652"
+        },
+        {
+            "id": 126269,
+            "date_play": "2026-05-17 04:22:56",
+            "artist": "Tyler Bryant & the Shakedown",
+            "title": "Ghostrider",
+            "img": "https://nowyswiat.online/playlists/786bf1299336fd008d391b65e0ece877_126269rns_thumb_100x100.jpg?ts=1662189556"
+        },
+        {
+            "id": 132659,
+            "date_play": "2026-05-17 04:19:39",
+            "artist": "Shuko, Nia Wyn, Pete Philly",
+            "title": "How Long (feat. Keymer)",
+            "img": "https://nowyswiat.online/playlists/c2202352f1d4150bbe797370edb5a49b_132659rns_thumb_100x100.jpg?ts=1669115580"
+        },
+        {
+            "id": 88439,
+            "date_play": "2026-05-17 04:15:45",
+            "artist": "ZZ Top",
+            "title": "Just Got Paid",
+            "img": "https://nowyswiat.online/playlists/8bec1b3d0b32fc7feac122bdf28143c6_88439rns_thumb_100x100.jpg?ts=1658298110"
+        },
+        {
+            "id": 128225,
+            "date_play": "2026-05-17 04:12:49",
+            "artist": "Dom, Natalia Przybysz",
+            "title": "Dom",
+            "img": "https://nowyswiat.online/playlists/36d147a6e3545ef2aefae4e078968383_128225rns_thumb_100x100.jpg?ts=1664361396"
+        },
+        {
+            "id": 145068,
+            "date_play": "2026-05-17 04:08:21",
+            "artist": "Jazz Against The Machine",
+            "title": "Unsung",
+            "img": "https://nowyswiat.online/playlists/308a2b369937211015aa2e09c3c4b5f2_145068rns_thumb_100x100.jpg?ts=1685208334"
+        },
+        {
+            "id": 65260,
+            "date_play": "2026-05-17 04:03:46",
+            "artist": "Lionel Richie",
+            "title": "Dancing On The Ceiling",
+            "img": "https://nowyswiat.online/playlists/e191110f0f59e0292a5323e6ff8a2450_65260rns_thumb_100x100.jpg?ts=1666412194"
+        },
+        {
+            "id": 96288,
+            "date_play": "2026-05-17 04:00:10",
+            "artist": "Cold Blood",
+            "title": "Valdez in the Country",
+            "img": "https://nowyswiat.online/playlists/fa13750fa2b0aa6a002801afb4c02ed0_96288rns_thumb_100x100.jpg?ts=1661858236"
+        },
+        {
+            "id": 164971,
+            "date_play": "2026-05-17 03:54:28",
+            "artist": "MGMT",
+            "title": "People In The Streets",
+            "img": "https://nowyswiat.online/playlists/2e120d04c687a3d4bf84ed09f33fb414_164971rns_thumb_100x100.jpg?ts=1708687508"
+        },
+        {
+            "id": 143141,
+            "date_play": "2026-05-17 03:51:42",
+            "artist": "Kathia",
+            "title": "ciało",
+            "img": "https://nowyswiat.online/playlists/a24c4b63d375a3f753b33865207f8de4_143141rns_thumb_100x100.jpg?ts=1682788332"
+        },
+        {
+            "id": 113470,
+            "date_play": "2026-05-17 03:48:35",
+            "artist": "Lenny Kravitz",
+            "title": "Superlove",
+            "img": "https://nowyswiat.online/playlists/13a40855cf694dda01ce3be2a396f80d_113470rns_thumb_100x100.jpg?ts=1654905615"
+        },
+        {
+            "id": 65101,
+            "date_play": "2026-05-17 03:44:02",
+            "artist": "Crosby, Stills, Nash & Young",
+            "title": "Almost Cut My Hair",
+            "img": "https://nowyswiat.online/playlists/762a3a0c03f538d94d4bde46e53de19b_65101rns_thumb_100x100.jpg?ts=1656601934"
+        },
+        {
+            "id": 117058,
+            "date_play": "2026-05-17 03:40:01",
+            "artist": "White Lies",
+            "title": "Am I Really Going To Die",
+            "img": "https://nowyswiat.online/playlists/47904307515ba24187ded9f360bd06eb_117058rns_thumb_100x100.jpg?ts=1651483765"
+        },
+        {
+            "id": 132154,
+            "date_play": "2026-05-17 03:35:27",
+            "artist": "The Flaming Lips",
+            "title": "Turn It On",
+            "img": "https://nowyswiat.online/playlists/9568d2d2b1b0b88ad3d59eb121c267e5_132154rns_thumb_100x100.jpg?ts=1668580153"
+        },
+        {
+            "id": 104501,
+            "date_play": "2026-05-17 03:33:04",
+            "artist": "Wilson Pickett",
+            "title": "Mercy, Mercy",
+            "img": "https://nowyswiat.online/playlists/7b7e600d8294966414284421d2b46aae_104501rns_thumb_100x100.jpg?ts=1655388635"
+        },
+        {
+            "id": 168543,
+            "date_play": "2026-05-17 03:28:56",
+            "artist": "Beth Gibbons",
+            "title": "Reaching Out",
+            "img": "https://nowyswiat.online/playlists/bf67a638e8812a5a82f05be3dfa40fff_168543rns_thumb_100x100.jpg?ts=1712867702"
+        },
+        {
+            "id": 150433,
+            "date_play": "2026-05-17 03:26:13",
+            "artist": "Hannah Jadagu",
+            "title": "Dreaming",
+            "img": "https://nowyswiat.online/playlists/9b87d25b9a700fbad85f95dc9a05485a_150433rns_thumb_100x100.jpg?ts=1691679136"
+        },
+        {
+            "id": 115181,
+            "date_play": "2026-05-17 03:23:46",
+            "artist": "Kate Bollinger",
+            "title": "Yards / Gardens",
+            "img": "https://nowyswiat.online/playlists/133ee4836fa4170034dc2477fa80b302_115181rns_thumb_100x100.jpg?ts=1650536002"
+        },
+        {
             "id": 169405,
             "date_play": "2026-05-17 03:20:03",
             "artist": "Lucy Rose",
@@ -249,6 +1635,6 @@
     "current_page": 1,
     "last_page": 1,
     "perpage": 300,
-    "total_elements": 35,
+    "total_elements": 233,
     "status": "OK"
 }
