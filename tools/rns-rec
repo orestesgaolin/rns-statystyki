@@ -1,0 +1,143 @@
+#!/usr/bin/env bash
+# rns-rec — record the Radio Nowy Świat live stream and play it back later.
+#
+# Usage:
+#   rns-rec start [name]   Start recording (optional label appended to filename)
+#   rns-rec stop           Stop the current recording
+#   rns-rec status         Show whether a recording is running, its duration and size
+#   rns-rec list           List saved recordings
+#   rns-rec play [file]    Play a recording (default: the most recent one)
+#   rns-rec dir            Print the recordings directory
+#
+# Recordings are saved as timestamped MP3s (stream copy, no re-encode) in
+# ~/Music/RNS-Recordings. The stream auto-reconnects on network hiccups.
+
+set -euo pipefail
+
+STREAM_URL="https://stream.nowyswiat.online/mp3"
+REC_DIR="${RNS_REC_DIR:-$HOME/Music/RNS-Recordings}"
+PID_FILE="$REC_DIR/.rns-rec.pid"
+CUR_FILE="$REC_DIR/.rns-rec.current"
+LOG_FILE="$REC_DIR/.rns-rec.log"
+
+mkdir -p "$REC_DIR"
+
+running_pid() {
+    if [[ -f "$PID_FILE" ]]; then
+        local pid
+        pid=$(cat "$PID_FILE")
+        if kill -0 "$pid" 2>/dev/null; then
+            echo "$pid"
+            return 0
+        fi
+        rm -f "$PID_FILE" "$CUR_FILE"
+    fi
+    return 1
+}
+
+human_size() {
+    du -h "$1" 2>/dev/null | cut -f1
+}
+
+file_duration() {
+    ffprobe -v error -show_entries format=duration -of csv=p=0 "$1" 2>/dev/null \
+        | awk '{printf "%dh %02dm %02ds", $1/3600, ($1%3600)/60, $1%60}'
+}
+
+cmd_start() {
+    if pid=$(running_pid); then
+        echo "Already recording (pid $pid) → $(cat "$CUR_FILE")"
+        exit 1
+    fi
+    local label="${1:-}"
+    local stamp
+    stamp=$(date +%Y-%m-%d_%H-%M-%S)
+    local out="$REC_DIR/RNS_${stamp}${label:+_$label}.mp3"
+
+    nohup ffmpeg -nostdin -hide_banner -loglevel warning \
+        -reconnect 1 -reconnect_streamed 1 -reconnect_on_network_error 1 \
+        -reconnect_delay_max 30 \
+        -i "$STREAM_URL" -c copy -f mp3 "$out" >>"$LOG_FILE" 2>&1 &
+
+    local pid=$!
+    echo "$pid" >"$PID_FILE"
+    echo "$out" >"$CUR_FILE"
+
+    sleep 3
+    if ! kill -0 "$pid" 2>/dev/null; then
+        rm -f "$PID_FILE" "$CUR_FILE"
+        echo "Failed to start — last log lines:" >&2
+        tail -5 "$LOG_FILE" >&2
+        exit 1
+    fi
+    echo "Recording started (pid $pid)"
+    echo "  → $out"
+}
+
+cmd_stop() {
+    if ! pid=$(running_pid); then
+        echo "Not recording."
+        exit 1
+    fi
+    local out
+    out=$(cat "$CUR_FILE")
+    kill -INT "$pid"
+    for _ in $(seq 1 20); do
+        kill -0 "$pid" 2>/dev/null || break
+        sleep 0.5
+    done
+    kill -0 "$pid" 2>/dev/null && kill -KILL "$pid"
+    rm -f "$PID_FILE" "$CUR_FILE"
+    echo "Recording stopped."
+    echo "  → $out ($(human_size "$out"), $(file_duration "$out"))"
+}
+
+cmd_status() {
+    if pid=$(running_pid); then
+        local out
+        out=$(cat "$CUR_FILE")
+        echo "● RECORDING (pid $pid)"
+        echo "  file:     $out"
+        echo "  size:     $(human_size "$out")"
+        echo "  duration: $(file_duration "$out")"
+    else
+        echo "○ Not recording."
+    fi
+}
+
+cmd_list() {
+    local found=0
+    for f in "$REC_DIR"/RNS_*.mp3; do
+        [[ -e "$f" ]] || continue
+        found=1
+        local mark=" "
+        [[ -f "$CUR_FILE" && "$f" == "$(cat "$CUR_FILE")" ]] && mark="●"
+        printf "%s %s  %6s  %s\n" "$mark" "$(basename "$f")" "$(human_size "$f")" "$(file_duration "$f")"
+    done
+    if [[ $found -eq 0 ]]; then
+        echo "No recordings yet in $REC_DIR"
+    fi
+}
+
+cmd_play() {
+    local f="${1:-}"
+    if [[ -z "$f" ]]; then
+        f=$(ls -t "$REC_DIR"/RNS_*.mp3 2>/dev/null | head -1)
+        [[ -n "$f" ]] || { echo "No recordings found."; exit 1; }
+    elif [[ ! -f "$f" ]]; then
+        f="$REC_DIR/$f"
+        [[ -f "$f" ]] || { echo "File not found: ${1}"; exit 1; }
+    fi
+    echo "Playing $(basename "$f") ($(file_duration "$f")) — Ctrl-C to stop"
+    afplay "$f"
+}
+
+case "${1:-}" in
+    start)  shift; cmd_start "$@" ;;
+    stop)   cmd_stop ;;
+    status) cmd_status ;;
+    list)   cmd_list ;;
+    play)   shift; cmd_play "${1:-}" ;;
+    dir)    echo "$REC_DIR" ;;
+    *)      sed -n '2,13p' "$0" | sed 's/^# \{0,1\}//'; exit 1 ;;
+esac
