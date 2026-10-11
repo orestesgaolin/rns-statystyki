@@ -1,11 +1,11 @@
 {
   "metadata": {
     "min_date": "2020-07-10 00:02:00",
-    "max_date": "2026-10-04 03:37:59",
-    "total_plays": 515517,
-    "total_songs": 168080,
+    "max_date": "2026-10-11 03:18:16",
+    "total_plays": 517313,
+    "total_songs": 168569,
     "songs_with_metadata": 138341,
-    "metadata_coverage_percent": 82.31,
+    "metadata_coverage_percent": 82.07,
     "languages": {
       "en-US": 41593,
       "en-GB": 20996,
@@ -48,51 +48,51 @@
   "top_artists": [
     {
       "artist": "The Rolling Stones",
-      "play_count": 1853
+      "play_count": 1861
     },
     {
       "artist": "The Beatles",
-      "play_count": 1399
+      "play_count": 1401
     },
     {
       "artist": "David Bowie",
-      "play_count": 1365
+      "play_count": 1366
     },
     {
       "artist": "The Black Keys",
-      "play_count": 1147
+      "play_count": 1148
     },
     {
       "artist": "U2",
-      "play_count": 1136
+      "play_count": 1145
     },
     {
       "artist": "Fisz Emade Tworzywo",
-      "play_count": 1120
+      "play_count": 1123
     },
     {
       "artist": "The Cure",
-      "play_count": 1048
+      "play_count": 1049
     },
     {
       "artist": "Depeche Mode",
-      "play_count": 1015
+      "play_count": 1019
     },
     {
       "artist": "Sting",
-      "play_count": 996
+      "play_count": 1008
     },
     {
       "artist": "Jungle",
-      "play_count": 978
+      "play_count": 981
     },
     {
       "artist": "Lenny Kravitz",
-      "play_count": 955
+      "play_count": 958
     },
     {
       "artist": "Natalia Przybysz",
-      "play_count": 954
+      "play_count": 957
     },
     {
       "artist": "Bruce Springsteen",
@@ -100,39 +100,39 @@
     },
     {
       "artist": "John Mayer",
-      "play_count": 918
+      "play_count": 919
     },
     {
       "artist": "Foo Fighters",
-      "play_count": 896
+      "play_count": 898
     },
     {
       "artist": "Maanam",
-      "play_count": 896
+      "play_count": 898
     },
     {
       "artist": "Nick Cave & The Bad Seeds",
-      "play_count": 886
+      "play_count": 888
     },
     {
       "artist": "Queen",
-      "play_count": 868
+      "play_count": 870
     },
     {
       "artist": "Red Hot Chili Peppers",
-      "play_count": 855
+      "play_count": 856
     },
     {
       "artist": "Florence + the Machine",
-      "play_count": 839
+      "play_count": 840
     },
     {
       "artist": "Moby",
-      "play_count": 816
+      "play_count": 818
     },
     {
       "artist": "Voo Voo",
-      "play_count": 815
+      "play_count": 818
     },
     {
       "artist": "Arctic Monkeys",
@@ -140,7 +140,7 @@
     },
     {
       "artist": "Peter Gabriel",
-      "play_count": 795
+      "play_count": 799
     },
     {
       "artist": "Iggy Pop",
@@ -148,7 +148,7 @@
     },
     {
       "artist": "Arlo Parks",
-      "play_count": 782
+      "play_count": 783
     },
     {
       "artist": "Black Pumas",
@@ -156,31 +156,31 @@
     },
     {
       "artist": "Prince",
-      "play_count": 772
+      "play_count": 774
     },
     {
       "artist": "Michael Kiwanuka",
-      "play_count": 753
+      "play_count": 755
     },
     {
       "artist": "Kings of Leon",
-      "play_count": 743
+      "play_count": 748
     },
     {
       "artist": "Coldplay",
-      "play_count": 740
+      "play_count": 742
     },
     {
       "artist": "Pearl Jam",
-      "play_count": 733
+      "play_count": 734
     },
     {
       "artist": "Metallica",
-      "play_count": 726
+      "play_count": 728
     },
     {
       "artist": "Royal Blood",
-      "play_count": 705
+      "play_count": 708
     },
     {
       "artist": "Amy Winehouse",
@@ -188,31 +188,31 @@
     },
     {
       "artist": "Foals",
-      "play_count": 694
+      "play_count": 697
     },
     {
       "artist": "Miles Kane",
-      "play_count": 686
+      "play_count": 687
     },
     {
       "artist": "Billie Eilish",
-      "play_count": 685
+      "play_count": 686
     },
     {
       "artist": "Brodka",
-      "play_count": 676
+      "play_count": 677
     },
     {
       "artist": "Elvis Presley",
-      "play_count": 673
+      "play_count": 675
     },
     {
       "artist": "Jessie Ware",
-      "play_count": 658
+      "play_count": 660
     },
     {
       "artist": "Nirvana",
-      "play_count": 656
+      "play_count": 657
     },
     {
       "artist": "Aretha Franklin",
@@ -220,27 +220,27 @@
     },
     {
       "artist": "Little Simz",
-      "play_count": 646
-    },
-    {
-      "artist": "Greta Van Fleet",
-      "play_count": 641
+      "play_count": 648
     },
     {
       "artist": "Krzysztof Zalewski",
-      "play_count": 641
+      "play_count": 644
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "play_count": 643
     },
     {
       "artist": "Stevie Wonder",
-      "play_count": 638
+      "play_count": 639
     },
     {
       "artist": "PJ Harvey",
-      "play_count": 635
+      "play_count": 637
     },
     {
       "artist": "Jack White",
-      "play_count": 632
+      "play_count": 634
     },
     {
       "artist": "Chumbawamba",
@@ -248,11 +248,11 @@
     },
     {
       "artist": "Kaleo",
-      "play_count": 625
+      "play_count": 627
     },
     {
       "artist": "Eric Clapton",
-      "play_count": 617
+      "play_count": 620
     },
     {
       "artist": "Paolo Nutini",
@@ -260,15 +260,15 @@
     },
     {
       "artist": "Marvin Gaye",
-      "play_count": 593
+      "play_count": 594
     },
     {
       "artist": "Led Zeppelin",
-      "play_count": 591
+      "play_count": 593
     },
     {
       "artist": "Norah Jones",
-      "play_count": 591
+      "play_count": 592
     },
     {
       "artist": "Bob Dylan",
@@ -280,27 +280,27 @@
     },
     {
       "artist": "Queens of the Stone Age",
-      "play_count": 580
+      "play_count": 583
     },
     {
       "artist": "Tame Impala",
-      "play_count": 580
+      "play_count": 581
     },
     {
       "artist": "R.E.M.",
-      "play_count": 579
+      "play_count": 580
     },
     {
       "artist": "Kate Bush",
-      "play_count": 576
+      "play_count": 577
     },
     {
       "artist": "Joy Crookes",
-      "play_count": 575
+      "play_count": 576
     },
     {
       "artist": "Broken Bells",
-      "play_count": 572
+      "play_count": 573
     },
     {
       "artist": "Björk",
@@ -308,43 +308,43 @@
     },
     {
       "artist": "Muse",
-      "play_count": 565
+      "play_count": 566
     },
     {
       "artist": "Cold War Kids",
-      "play_count": 564
+      "play_count": 565
     },
     {
       "artist": "Jamiroquai",
-      "play_count": 564
+      "play_count": 565
     },
     {
       "artist": "Fleetwood Mac",
-      "play_count": 562
+      "play_count": 563
     },
     {
       "artist": "Morcheeba",
-      "play_count": 560
+      "play_count": 561
     },
     {
       "artist": "Jorja Smith",
-      "play_count": 559
+      "play_count": 560
+    },
+    {
+      "artist": "Alicia Keys",
+      "play_count": 557
     },
     {
       "artist": "Massive Attack",
       "play_count": 556
     },
     {
-      "artist": "Alicia Keys",
-      "play_count": 555
-    },
-    {
       "artist": "Stereophonics",
-      "play_count": 552
+      "play_count": 553
     },
     {
       "artist": "Dave Matthews Band",
-      "play_count": 551
+      "play_count": 552
     },
     {
       "artist": "Organek",
@@ -352,11 +352,11 @@
     },
     {
       "artist": "Dezerter",
-      "play_count": 539
+      "play_count": 540
     },
     {
       "artist": "Hozier",
-      "play_count": 539
+      "play_count": 540
     },
     {
       "artist": "Kaśka Sochacka",
@@ -364,11 +364,11 @@
     },
     {
       "artist": "The National",
-      "play_count": 534
+      "play_count": 537
     },
     {
       "artist": "Alabama Shakes",
-      "play_count": 532
+      "play_count": 536
     },
     {
       "artist": "Curtis Harding",
@@ -376,31 +376,31 @@
     },
     {
       "artist": "Lana Del Rey",
-      "play_count": 516
+      "play_count": 519
     },
     {
       "artist": "Elton John",
-      "play_count": 514
+      "play_count": 515
     },
     {
       "artist": "Chris Stapleton",
-      "play_count": 513
+      "play_count": 514
     },
     {
       "artist": "John Lennon",
-      "play_count": 511
+      "play_count": 512
     },
     {
       "artist": "Guns N' Roses",
-      "play_count": 508
+      "play_count": 511
     },
     {
       "artist": "Oasis",
-      "play_count": 500
+      "play_count": 503
     },
     {
       "artist": "Radiohead",
-      "play_count": 500
+      "play_count": 503
     },
     {
       "artist": "Nina Simone",
@@ -408,7 +408,11 @@
     },
     {
       "artist": "The White Stripes",
-      "play_count": 497
+      "play_count": 498
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "play_count": 496
     },
     {
       "artist": "Pink Floyd",
@@ -416,35 +420,31 @@
     },
     {
       "artist": "Rival Sons",
-      "play_count": 491
+      "play_count": 492
     },
     {
       "artist": "The Record Company",
-      "play_count": 490
+      "play_count": 491
     },
     {
-      "artist": "Fontaines D.C.",
-      "play_count": 485
+      "artist": "The Bamboos",
+      "play_count": 486
+    },
+    {
+      "artist": "The Heavy",
+      "play_count": 486
     },
     {
       "artist": "Sault",
       "play_count": 485
     },
     {
-      "artist": "The Heavy",
-      "play_count": 484
-    },
-    {
-      "artist": "The Bamboos",
+      "artist": "Black Pistol Fire",
       "play_count": 483
     },
     {
-      "artist": "Black Pistol Fire",
-      "play_count": 482
-    },
-    {
       "artist": "IDLES",
-      "play_count": 481
+      "play_count": 482
     }
   ],
   "top_songs": [
@@ -461,12 +461,12 @@
     {
       "artist": "The Alan Parsons Project",
       "title": "Sirius",
-      "play_count": 244
+      "play_count": 245
     },
     {
       "artist": "Bruce Cockburn",
       "title": "The Blues Got the World...",
-      "play_count": 208
+      "play_count": 209
     },
     {
       "artist": "Earth",
@@ -476,7 +476,7 @@
     {
       "artist": "Voo Voo",
       "title": "Łajba",
-      "play_count": 190
+      "play_count": 191
     },
     {
       "artist": "Monika Borzym, Kuba Badach, Wojciech Waglewski, Zbigniew Zamachowski",
@@ -511,7 +511,7 @@
     {
       "artist": "Tame Impala",
       "title": "The Less I Know the Better",
-      "play_count": 142
+      "play_count": 143
     },
     {
       "artist": "The Redaktors",
@@ -551,7 +551,7 @@
     {
       "artist": "Sting",
       "title": "Rushing Water",
-      "play_count": 115
+      "play_count": 116
     },
     {
       "artist": "The Pretenders",
@@ -609,14 +609,14 @@
       "play_count": 101
     },
     {
-      "artist": "Primal Scream",
-      "title": "Movin' on Up",
+      "artist": "Peter Bjorn And John",
+      "title": "Young Folks",
       "play_count": 101
     },
     {
-      "artist": "Peter Bjorn And John",
-      "title": "Young Folks",
-      "play_count": 100
+      "artist": "Primal Scream",
+      "title": "Movin' on Up",
+      "play_count": 101
     },
     {
       "artist": "Brodka",
@@ -629,6 +629,11 @@
       "play_count": 98
     },
     {
+      "artist": "Benjamin Booker",
+      "title": "Believe",
+      "play_count": 97
+    },
+    {
       "artist": "The Avalanches",
       "title": "Since I Left You",
       "play_count": 97
@@ -639,8 +644,8 @@
       "play_count": 97
     },
     {
-      "artist": "Benjamin Booker",
-      "title": "Believe",
+      "artist": "TOTO",
+      "title": "Hold the Line",
       "play_count": 96
     },
     {
@@ -651,11 +656,6 @@
     {
       "artist": "Lianne La Havas",
       "title": "Can't Fight",
-      "play_count": 95
-    },
-    {
-      "artist": "TOTO",
-      "title": "Hold the Line",
       "play_count": 95
     },
     {
@@ -704,8 +704,23 @@
       "play_count": 89
     },
     {
+      "artist": "Dolly Parton",
+      "title": "Jolene",
+      "play_count": 89
+    },
+    {
       "artist": "Faith No More",
       "title": "Midlife Crisis",
+      "play_count": 89
+    },
+    {
+      "artist": "Fleet Foxes",
+      "title": "Can I Believe You",
+      "play_count": 89
+    },
+    {
+      "artist": "Guns N' Roses",
+      "title": "Welcome To The Jungle",
       "play_count": 89
     },
     {
@@ -714,18 +729,8 @@
       "play_count": 88
     },
     {
-      "artist": "Dolly Parton",
-      "title": "Jolene",
-      "play_count": 88
-    },
-    {
-      "artist": "Fleet Foxes",
-      "title": "Can I Believe You",
-      "play_count": 88
-    },
-    {
-      "artist": "Guns N' Roses",
-      "title": "Welcome To The Jungle",
+      "artist": "Edwyn Collins",
+      "title": "A Girl Like You",
       "play_count": 88
     },
     {
@@ -749,8 +754,8 @@
       "play_count": 87
     },
     {
-      "artist": "Edwyn Collins",
-      "title": "A Girl Like You",
+      "artist": "Bobby Gillespie & Jehnny Beth",
+      "title": "Stones of Silence",
       "play_count": 87
     },
     {
@@ -769,9 +774,9 @@
       "play_count": 87
     },
     {
-      "artist": "Bobby Gillespie & Jehnny Beth",
-      "title": "Stones of Silence",
-      "play_count": 86
+      "artist": "The Redaktors",
+      "title": "Policzę do trzech",
+      "play_count": 87
     },
     {
       "artist": "Eva Cassidy",
@@ -796,11 +801,6 @@
     {
       "artist": "The Beatles",
       "title": "Something",
-      "play_count": 86
-    },
-    {
-      "artist": "The Redaktors",
-      "title": "Policzę do trzech",
       "play_count": 86
     },
     {
@@ -889,6 +889,16 @@
       "play_count": 82
     },
     {
+      "artist": "Beirut",
+      "title": "Perth",
+      "play_count": 81
+    },
+    {
+      "artist": "Bibio",
+      "title": "Old Graffiti",
+      "play_count": 81
+    },
+    {
       "artist": "Catfish and the Bottlemen",
       "title": "Basically",
       "play_count": 81
@@ -914,6 +924,11 @@
       "play_count": 81
     },
     {
+      "artist": "The Blue Stones",
+      "title": "One By One",
+      "play_count": 81
+    },
+    {
       "artist": "Twenty One Pilots",
       "title": "Stressed Out",
       "play_count": 81
@@ -929,23 +944,8 @@
       "play_count": 80
     },
     {
-      "artist": "Beirut",
-      "title": "Perth",
-      "play_count": 80
-    },
-    {
-      "artist": "Bibio",
-      "title": "Old Graffiti",
-      "play_count": 80
-    },
-    {
       "artist": "Biffy Clyro",
       "title": "Black Chandelier",
-      "play_count": 80
-    },
-    {
-      "artist": "Goldfrapp",
-      "title": "Happiness",
       "play_count": 80
     }
   ],
@@ -976,7 +976,7 @@
     },
     {
       "year": "2026",
-      "song_count": 71711
+      "song_count": 73507
     }
   ],
   "top_artists_by_year": {
@@ -1475,83 +1475,83 @@
     "2026": [
       {
         "artist": "The Rolling Stones",
-        "play_count": 295
+        "play_count": 303
       },
       {
         "artist": "Peter Gabriel",
-        "play_count": 189
+        "play_count": 193
       },
       {
         "artist": "Jungle",
-        "play_count": 188
-      },
-      {
-        "artist": "Arlo Parks",
-        "play_count": 170
+        "play_count": 191
       },
       {
         "artist": "Jessie Ware",
-        "play_count": 170
+        "play_count": 172
+      },
+      {
+        "artist": "Arlo Parks",
+        "play_count": 171
       },
       {
         "artist": "Antony Szmierek",
-        "play_count": 161
-      },
-      {
-        "artist": "Florence + the Machine",
-        "play_count": 157
+        "play_count": 162
       },
       {
         "artist": "Voo Voo",
-        "play_count": 156
+        "play_count": 159
+      },
+      {
+        "artist": "Florence + the Machine",
+        "play_count": 158
       },
       {
         "artist": "Queens of the Stone Age",
-        "play_count": 135
+        "play_count": 138
       },
       {
         "artist": "David Bowie",
-        "play_count": 127
+        "play_count": 128
       },
       {
         "artist": "The Beatles",
-        "play_count": 124
-      },
-      {
-        "artist": "Foo Fighters",
-        "play_count": 119
-      },
-      {
-        "artist": "Queen",
-        "play_count": 116
-      },
-      {
-        "artist": "Archive",
-        "play_count": 113
-      },
-      {
-        "artist": "Dezerter",
-        "play_count": 113
-      },
-      {
-        "artist": "Future Islands",
-        "play_count": 113
+        "play_count": 126
       },
       {
         "artist": "U2",
-        "play_count": 113
+        "play_count": 122
+      },
+      {
+        "artist": "Foo Fighters",
+        "play_count": 121
+      },
+      {
+        "artist": "Queen",
+        "play_count": 118
+      },
+      {
+        "artist": "Future Islands",
+        "play_count": 115
       },
       {
         "artist": "Natalia Przybysz",
-        "play_count": 112
+        "play_count": 115
+      },
+      {
+        "artist": "Archive",
+        "play_count": 114
+      },
+      {
+        "artist": "Dezerter",
+        "play_count": 114
+      },
+      {
+        "artist": "Fontaines D.C.",
+        "play_count": 113
       },
       {
         "artist": "Harry Styles",
-        "play_count": 111
-      },
-      {
-        "artist": "Jack White",
-        "play_count": 110
+        "play_count": 113
       }
     ]
   },
@@ -2175,13 +2175,23 @@
         "play_count": 45
       },
       {
+        "artist": "Gary Jules & Michael Andrews",
+        "title": "Mad World",
+        "play_count": 41
+      },
+      {
         "artist": "Selah Sue & The Gallands & Stéphane Galland & Elvin Galland",
         "title": "Movin'",
         "play_count": 41
       },
       {
-        "artist": "Gary Jules & Michael Andrews",
-        "title": "Mad World",
+        "artist": "The Alan Parsons Project",
+        "title": "Sirius",
+        "play_count": 41
+      },
+      {
+        "artist": "Fontaines D.C.",
+        "title": "Marianne",
         "play_count": 40
       },
       {
@@ -2190,9 +2200,9 @@
         "play_count": 40
       },
       {
-        "artist": "The Alan Parsons Project",
-        "title": "Sirius",
-        "play_count": 40
+        "artist": "Bruce Cockburn",
+        "title": "The Blues Got the World...",
+        "play_count": 39
       },
       {
         "artist": "Cigarettes After Sex",
@@ -2200,18 +2210,13 @@
         "play_count": 39
       },
       {
-        "artist": "Fontaines D.C.",
-        "title": "Marianne",
-        "play_count": 39
-      },
-      {
-        "artist": "Bruce Cockburn",
-        "title": "The Blues Got the World...",
-        "play_count": 38
-      },
-      {
         "artist": "Anna Calvi & Iggy Pop",
         "title": "God's Lonely Man",
+        "play_count": 36
+      },
+      {
+        "artist": "Kuba Folwarczny",
+        "title": "Małym palcem o próg",
         "play_count": 36
       },
       {
@@ -2230,8 +2235,8 @@
         "play_count": 35
       },
       {
-        "artist": "Kuba Folwarczny",
-        "title": "Małym palcem o próg",
+        "artist": "Voo Voo & Daria ze Śląska",
+        "title": "Na moment",
         "play_count": 35
       },
       {
@@ -2247,11 +2252,6 @@
       {
         "artist": "Jessie Ware",
         "title": "Ride",
-        "play_count": 34
-      },
-      {
-        "artist": "Voo Voo & Daria ze Śląska",
-        "title": "Na moment",
         "play_count": 34
       },
       {
@@ -2587,7 +2587,7 @@
       },
       {
         "month": "10",
-        "song_count": 804
+        "song_count": 2600
       }
     ]
   },
@@ -2907,548 +2907,46 @@
       },
       {
         "month": "10",
-        "new_song_count": 234
+        "new_song_count": 723
       }
     ]
   },
   "artist_rank_timeline": {
-    "Michael Kiwanuka": [
+    "Lenny Kravitz": [
       {
         "year": "2020",
-        "rank": 77,
-        "play_count": 60
-      },
-      {
-        "year": "2021",
-        "rank": 11,
-        "play_count": 216
-      },
-      {
-        "year": "2022",
-        "rank": 22,
-        "play_count": 145
-      },
-      {
-        "year": "2023",
-        "rank": 36,
-        "play_count": 138
-      },
-      {
-        "year": "2024",
-        "rank": 15,
-        "play_count": 142
-      },
-      {
-        "year": "2025",
-        "rank": 414,
-        "play_count": 36
-      }
-    ],
-    "Iggy Pop": [
-      {
-        "year": "2021",
-        "rank": 90,
-        "play_count": 94
-      },
-      {
-        "year": "2022",
-        "rank": 64,
-        "play_count": 102
-      },
-      {
-        "year": "2023",
-        "rank": 5,
-        "play_count": 219
-      },
-      {
-        "year": "2024",
-        "rank": 14,
-        "play_count": 142
-      },
-      {
-        "year": "2025",
-        "rank": 27,
-        "play_count": 112
-      },
-      {
-        "year": "2026",
-        "rank": 64,
-        "play_count": 79
-      }
-    ],
-    "Little Simz": [
-      {
-        "year": "2021",
-        "rank": 58,
-        "play_count": 110
-      },
-      {
-        "year": "2022",
-        "rank": 86,
-        "play_count": 93
-      },
-      {
-        "year": "2023",
-        "rank": 60,
-        "play_count": 111
-      },
-      {
-        "year": "2024",
-        "rank": 66,
-        "play_count": 94
-      },
-      {
-        "year": "2025",
-        "rank": 6,
-        "play_count": 157
-      },
-      {
-        "year": "2026",
-        "rank": 65,
-        "play_count": 79
-      }
-    ],
-    "Jessie Ware": [
-      {
-        "year": "2020",
-        "rank": 43,
-        "play_count": 70
-      },
-      {
-        "year": "2021",
-        "rank": 94,
-        "play_count": 91
-      },
-      {
-        "year": "2022",
-        "rank": 304,
-        "play_count": 45
-      },
-      {
-        "year": "2023",
-        "rank": 61,
-        "play_count": 109
-      },
-      {
-        "year": "2024",
-        "rank": 75,
-        "play_count": 90
-      },
-      {
-        "year": "2025",
-        "rank": 74,
-        "play_count": 83
-      },
-      {
-        "year": "2026",
-        "rank": 5,
-        "play_count": 170
-      }
-    ],
-    "Florence + the Machine": [
-      {
-        "year": "2022",
-        "rank": 8,
-        "play_count": 213
-      },
-      {
-        "year": "2023",
-        "rank": 40,
-        "play_count": 133
-      },
-      {
-        "year": "2024",
-        "rank": 41,
-        "play_count": 113
-      },
-      {
-        "year": "2025",
-        "rank": 15,
-        "play_count": 130
-      },
-      {
-        "year": "2026",
-        "rank": 7,
-        "play_count": 157
-      }
-    ],
-    "Brodka": [
-      {
-        "year": "2021",
         "rank": 26,
-        "play_count": 156
-      },
-      {
-        "year": "2022",
-        "rank": 39,
-        "play_count": 127
-      },
-      {
-        "year": "2023",
-        "rank": 50,
-        "play_count": 123
-      },
-      {
-        "year": "2024",
-        "rank": 63,
-        "play_count": 96
-      },
-      {
-        "year": "2025",
-        "rank": 172,
-        "play_count": 59
-      },
-      {
-        "year": "2026",
-        "rank": 74,
-        "play_count": 74
-      }
-    ],
-    "Pearl Jam": [
-      {
-        "year": "2020",
-        "rank": 14,
-        "play_count": 96
+        "play_count": 82
       },
       {
         "year": "2021",
+        "rank": 8,
+        "play_count": 243
+      },
+      {
+        "year": "2022",
         "rank": 19,
-        "play_count": 183
-      },
-      {
-        "year": "2022",
-        "rank": 31,
-        "play_count": 133
+        "play_count": 154
       },
       {
         "year": "2023",
-        "rank": 45,
-        "play_count": 127
-      },
-      {
-        "year": "2024",
-        "rank": 33,
-        "play_count": 122
-      },
-      {
-        "year": "2025",
-        "rank": 273,
-        "play_count": 47
-      }
-    ],
-    "Foo Fighters": [
-      {
-        "year": "2021",
-        "rank": 14,
-        "play_count": 199
-      },
-      {
-        "year": "2022",
-        "rank": 37,
-        "play_count": 128
-      },
-      {
-        "year": "2023",
-        "rank": 20,
-        "play_count": 152
-      },
-      {
-        "year": "2024",
-        "rank": 40,
-        "play_count": 115
-      },
-      {
-        "year": "2025",
-        "rank": 10,
+        "rank": 29,
         "play_count": 143
       },
       {
-        "year": "2026",
-        "rank": 12,
-        "play_count": 119
-      }
-    ],
-    "The Cure": [
-      {
-        "year": "2020",
-        "rank": 18,
-        "play_count": 89
-      },
-      {
-        "year": "2021",
-        "rank": 15,
-        "play_count": 199
-      },
-      {
-        "year": "2022",
-        "rank": 9,
-        "play_count": 212
-      },
-      {
-        "year": "2023",
-        "rank": 31,
-        "play_count": 141
-      },
-      {
         "year": "2024",
-        "rank": 4,
-        "play_count": 187
-      },
-      {
-        "year": "2025",
-        "rank": 13,
-        "play_count": 142
-      },
-      {
-        "year": "2026",
-        "rank": 68,
-        "play_count": 78
-      }
-    ],
-    "Krzysztof Zalewski": [
-      {
-        "year": "2020",
-        "rank": 9,
-        "play_count": 102
-      },
-      {
-        "year": "2021",
-        "rank": 56,
-        "play_count": 113
-      },
-      {
-        "year": "2022",
-        "rank": 75,
-        "play_count": 98
-      },
-      {
-        "year": "2023",
-        "rank": 131,
-        "play_count": 81
-      },
-      {
-        "year": "2024",
-        "rank": 7,
-        "play_count": 169
-      },
-      {
-        "year": "2025",
-        "rank": 346,
-        "play_count": 40
-      }
-    ],
-    "Fisz Emade Tworzywo": [
-      {
-        "year": "2020",
-        "rank": 41,
-        "play_count": 72
-      },
-      {
-        "year": "2021",
-        "rank": 5,
-        "play_count": 252
-      },
-      {
-        "year": "2022",
-        "rank": 6,
-        "play_count": 231
-      },
-      {
-        "year": "2023",
-        "rank": 15,
-        "play_count": 169
-      },
-      {
-        "year": "2024",
-        "rank": 24,
-        "play_count": 129
-      },
-      {
-        "year": "2025",
-        "rank": 2,
-        "play_count": 183
-      },
-      {
-        "year": "2026",
-        "rank": 55,
-        "play_count": 84
-      }
-    ],
-    "Kings of Leon": [
-      {
-        "year": "2021",
-        "rank": 98,
-        "play_count": 90
-      },
-      {
-        "year": "2022",
-        "rank": 65,
-        "play_count": 101
-      },
-      {
-        "year": "2023",
-        "rank": 57,
-        "play_count": 113
-      },
-      {
-        "year": "2024",
-        "rank": 6,
-        "play_count": 183
-      },
-      {
-        "year": "2025",
-        "rank": 14,
-        "play_count": 139
-      },
-      {
-        "year": "2026",
-        "rank": 36,
-        "play_count": 95
-      }
-    ],
-    "David Bowie": [
-      {
-        "year": "2020",
-        "rank": 12,
-        "play_count": 98
-      },
-      {
-        "year": "2021",
-        "rank": 1,
-        "play_count": 333
-      },
-      {
-        "year": "2022",
-        "rank": 3,
-        "play_count": 292
-      },
-      {
-        "year": "2023",
-        "rank": 9,
-        "play_count": 190
-      },
-      {
-        "year": "2024",
-        "rank": 5,
-        "play_count": 183
-      },
-      {
-        "year": "2025",
-        "rank": 12,
-        "play_count": 142
-      },
-      {
-        "year": "2026",
         "rank": 10,
-        "play_count": 127
-      }
-    ],
-    "Maanam": [
-      {
-        "year": "2020",
-        "rank": 6,
-        "play_count": 140
-      },
-      {
-        "year": "2021",
-        "rank": 12,
-        "play_count": 214
-      },
-      {
-        "year": "2022",
-        "rank": 46,
-        "play_count": 117
-      },
-      {
-        "year": "2023",
-        "rank": 33,
-        "play_count": 140
-      },
-      {
-        "year": "2024",
-        "rank": 62,
-        "play_count": 97
+        "play_count": 162
       },
       {
         "year": "2025",
-        "rank": 49,
-        "play_count": 91
+        "rank": 38,
+        "play_count": 100
       },
       {
         "year": "2026",
-        "rank": 32,
-        "play_count": 97
-      }
-    ],
-    "Sting": [
-      {
-        "year": "2020",
-        "rank": 13,
-        "play_count": 98
-      },
-      {
-        "year": "2021",
-        "rank": 3,
-        "play_count": 300
-      },
-      {
-        "year": "2022",
-        "rank": 7,
-        "play_count": 214
-      },
-      {
-        "year": "2023",
-        "rank": 86,
-        "play_count": 98
-      },
-      {
-        "year": "2024",
-        "rank": 42,
-        "play_count": 113
-      },
-      {
-        "year": "2025",
-        "rank": 36,
-        "play_count": 101
-      },
-      {
-        "year": "2026",
-        "rank": 80,
-        "play_count": 72
-      }
-    ],
-    "Chumbawamba": [
-      {
-        "year": "2020",
-        "rank": 7,
-        "play_count": 108
-      },
-      {
-        "year": "2021",
-        "rank": 13,
-        "play_count": 202
-      },
-      {
-        "year": "2022",
-        "rank": 21,
-        "play_count": 145
-      },
-      {
-        "year": "2023",
-        "rank": 88,
-        "play_count": 96
-      },
-      {
-        "year": "2024",
-        "rank": 471,
-        "play_count": 32
-      }
-    ],
-    "Daria Zawiałow": [
-      {
-        "year": "2020",
-        "rank": 8,
-        "play_count": 108
+        "rank": 78,
+        "play_count": 74
       }
     ],
     "Arctic Monkeys": [
@@ -3483,624 +2981,6 @@
         "play_count": 65
       }
     ],
-    "U2": [
-      {
-        "year": "2020",
-        "rank": 5,
-        "play_count": 143
-      },
-      {
-        "year": "2021",
-        "rank": 9,
-        "play_count": 242
-      },
-      {
-        "year": "2022",
-        "rank": 11,
-        "play_count": 197
-      },
-      {
-        "year": "2023",
-        "rank": 2,
-        "play_count": 245
-      },
-      {
-        "year": "2024",
-        "rank": 12,
-        "play_count": 150
-      },
-      {
-        "year": "2025",
-        "rank": 285,
-        "play_count": 46
-      },
-      {
-        "year": "2026",
-        "rank": 17,
-        "play_count": 113
-      }
-    ],
-    "Billie Eilish": [
-      {
-        "year": "2020",
-        "rank": 22,
-        "play_count": 86
-      },
-      {
-        "year": "2021",
-        "rank": 24,
-        "play_count": 159
-      },
-      {
-        "year": "2022",
-        "rank": 60,
-        "play_count": 107
-      },
-      {
-        "year": "2023",
-        "rank": 53,
-        "play_count": 122
-      },
-      {
-        "year": "2024",
-        "rank": 31,
-        "play_count": 123
-      },
-      {
-        "year": "2025",
-        "rank": 295,
-        "play_count": 45
-      }
-    ],
-    "Bruce Springsteen": [
-      {
-        "year": "2020",
-        "rank": 1,
-        "play_count": 164
-      },
-      {
-        "year": "2021",
-        "rank": 21,
-        "play_count": 179
-      },
-      {
-        "year": "2022",
-        "rank": 28,
-        "play_count": 135
-      },
-      {
-        "year": "2023",
-        "rank": 72,
-        "play_count": 105
-      },
-      {
-        "year": "2024",
-        "rank": 67,
-        "play_count": 93
-      },
-      {
-        "year": "2025",
-        "rank": 7,
-        "play_count": 153
-      },
-      {
-        "year": "2026",
-        "rank": 30,
-        "play_count": 99
-      }
-    ],
-    "Peter Gabriel": [
-      {
-        "year": "2021",
-        "rank": 85,
-        "play_count": 96
-      },
-      {
-        "year": "2022",
-        "rank": 206,
-        "play_count": 59
-      },
-      {
-        "year": "2023",
-        "rank": 6,
-        "play_count": 195
-      },
-      {
-        "year": "2024",
-        "rank": 54,
-        "play_count": 106
-      },
-      {
-        "year": "2025",
-        "rank": 24,
-        "play_count": 116
-      },
-      {
-        "year": "2026",
-        "rank": 2,
-        "play_count": 189
-      }
-    ],
-    "Prince": [
-      {
-        "year": "2020",
-        "rank": 19,
-        "play_count": 88
-      },
-      {
-        "year": "2021",
-        "rank": 16,
-        "play_count": 195
-      },
-      {
-        "year": "2022",
-        "rank": 51,
-        "play_count": 116
-      },
-      {
-        "year": "2023",
-        "rank": 55,
-        "play_count": 118
-      },
-      {
-        "year": "2024",
-        "rank": 61,
-        "play_count": 98
-      },
-      {
-        "year": "2025",
-        "rank": 69,
-        "play_count": 85
-      },
-      {
-        "year": "2026",
-        "rank": 79,
-        "play_count": 72
-      }
-    ],
-    "Elvis Presley": [
-      {
-        "year": "2020",
-        "rank": 10,
-        "play_count": 101
-      },
-      {
-        "year": "2021",
-        "rank": 65,
-        "play_count": 106
-      },
-      {
-        "year": "2022",
-        "rank": 35,
-        "play_count": 130
-      },
-      {
-        "year": "2023",
-        "rank": 93,
-        "play_count": 94
-      },
-      {
-        "year": "2024",
-        "rank": 73,
-        "play_count": 90
-      },
-      {
-        "year": "2025",
-        "rank": 93,
-        "play_count": 77
-      },
-      {
-        "year": "2026",
-        "rank": 71,
-        "play_count": 75
-      }
-    ],
-    "John Mayer": [
-      {
-        "year": "2021",
-        "rank": 6,
-        "play_count": 252
-      },
-      {
-        "year": "2022",
-        "rank": 12,
-        "play_count": 186
-      },
-      {
-        "year": "2023",
-        "rank": 14,
-        "play_count": 172
-      },
-      {
-        "year": "2024",
-        "rank": 20,
-        "play_count": 133
-      },
-      {
-        "year": "2025",
-        "rank": 106,
-        "play_count": 73
-      }
-    ],
-    "Royal Blood": [
-      {
-        "year": "2021",
-        "rank": 38,
-        "play_count": 136
-      },
-      {
-        "year": "2022",
-        "rank": 87,
-        "play_count": 93
-      },
-      {
-        "year": "2023",
-        "rank": 16,
-        "play_count": 163
-      },
-      {
-        "year": "2024",
-        "rank": 56,
-        "play_count": 103
-      },
-      {
-        "year": "2025",
-        "rank": 63,
-        "play_count": 86
-      },
-      {
-        "year": "2026",
-        "rank": 67,
-        "play_count": 78
-      }
-    ],
-    "The Rolling Stones": [
-      {
-        "year": "2020",
-        "rank": 4,
-        "play_count": 148
-      },
-      {
-        "year": "2021",
-        "rank": 2,
-        "play_count": 301
-      },
-      {
-        "year": "2022",
-        "rank": 2,
-        "play_count": 298
-      },
-      {
-        "year": "2023",
-        "rank": 1,
-        "play_count": 353
-      },
-      {
-        "year": "2024",
-        "rank": 1,
-        "play_count": 265
-      },
-      {
-        "year": "2025",
-        "rank": 1,
-        "play_count": 193
-      },
-      {
-        "year": "2026",
-        "rank": 1,
-        "play_count": 295
-      }
-    ],
-    "Pablopavo i Ludziki": [
-      {
-        "year": "2025",
-        "rank": 8,
-        "play_count": 150
-      },
-      {
-        "year": "2026",
-        "rank": 94,
-        "play_count": 67
-      }
-    ],
-    "Kasia Lins": [
-      {
-        "year": "2023",
-        "rank": 85,
-        "play_count": 98
-      },
-      {
-        "year": "2024",
-        "rank": 143,
-        "play_count": 70
-      },
-      {
-        "year": "2025",
-        "rank": 5,
-        "play_count": 159
-      },
-      {
-        "year": "2026",
-        "rank": 21,
-        "play_count": 108
-      }
-    ],
-    "Voo Voo": [
-      {
-        "year": "2020",
-        "rank": 60,
-        "play_count": 64
-      },
-      {
-        "year": "2021",
-        "rank": 51,
-        "play_count": 118
-      },
-      {
-        "year": "2022",
-        "rank": 10,
-        "play_count": 202
-      },
-      {
-        "year": "2023",
-        "rank": 110,
-        "play_count": 90
-      },
-      {
-        "year": "2024",
-        "rank": 92,
-        "play_count": 83
-      },
-      {
-        "year": "2025",
-        "rank": 34,
-        "play_count": 102
-      },
-      {
-        "year": "2026",
-        "rank": 8,
-        "play_count": 156
-      }
-    ],
-    "Natalia Przybysz": [
-      {
-        "year": "2020",
-        "rank": 51,
-        "play_count": 68
-      },
-      {
-        "year": "2021",
-        "rank": 30,
-        "play_count": 146
-      },
-      {
-        "year": "2022",
-        "rank": 15,
-        "play_count": 165
-      },
-      {
-        "year": "2023",
-        "rank": 11,
-        "play_count": 187
-      },
-      {
-        "year": "2024",
-        "rank": 22,
-        "play_count": 130
-      },
-      {
-        "year": "2025",
-        "rank": 9,
-        "play_count": 146
-      },
-      {
-        "year": "2026",
-        "rank": 18,
-        "play_count": 112
-      }
-    ],
-    "Foals": [
-      {
-        "year": "2022",
-        "rank": 56,
-        "play_count": 109
-      },
-      {
-        "year": "2023",
-        "rank": 19,
-        "play_count": 152
-      },
-      {
-        "year": "2024",
-        "rank": 27,
-        "play_count": 125
-      },
-      {
-        "year": "2025",
-        "rank": 16,
-        "play_count": 130
-      },
-      {
-        "year": "2026",
-        "rank": 26,
-        "play_count": 102
-      }
-    ],
-    "Depeche Mode": [
-      {
-        "year": "2020",
-        "rank": 27,
-        "play_count": 80
-      },
-      {
-        "year": "2021",
-        "rank": 10,
-        "play_count": 228
-      },
-      {
-        "year": "2022",
-        "rank": 20,
-        "play_count": 150
-      },
-      {
-        "year": "2023",
-        "rank": 3,
-        "play_count": 239
-      },
-      {
-        "year": "2024",
-        "rank": 39,
-        "play_count": 115
-      },
-      {
-        "year": "2025",
-        "rank": 35,
-        "play_count": 101
-      },
-      {
-        "year": "2026",
-        "rank": 25,
-        "play_count": 102
-      }
-    ],
-    "Coldplay": [
-      {
-        "year": "2020",
-        "rank": 35,
-        "play_count": 75
-      },
-      {
-        "year": "2021",
-        "rank": 33,
-        "play_count": 141
-      },
-      {
-        "year": "2022",
-        "rank": 58,
-        "play_count": 108
-      },
-      {
-        "year": "2023",
-        "rank": 27,
-        "play_count": 144
-      },
-      {
-        "year": "2024",
-        "rank": 25,
-        "play_count": 126
-      },
-      {
-        "year": "2025",
-        "rank": 100,
-        "play_count": 76
-      },
-      {
-        "year": "2026",
-        "rank": 85,
-        "play_count": 70
-      }
-    ],
-    "Jungle": [
-      {
-        "year": "2021",
-        "rank": 25,
-        "play_count": 159
-      },
-      {
-        "year": "2022",
-        "rank": 52,
-        "play_count": 114
-      },
-      {
-        "year": "2023",
-        "rank": 13,
-        "play_count": 174
-      },
-      {
-        "year": "2024",
-        "rank": 8,
-        "play_count": 168
-      },
-      {
-        "year": "2025",
-        "rank": 3,
-        "play_count": 162
-      },
-      {
-        "year": "2026",
-        "rank": 3,
-        "play_count": 188
-      }
-    ],
-    "The Black Keys": [
-      {
-        "year": "2020",
-        "rank": 32,
-        "play_count": 77
-      },
-      {
-        "year": "2021",
-        "rank": 7,
-        "play_count": 246
-      },
-      {
-        "year": "2022",
-        "rank": 5,
-        "play_count": 232
-      },
-      {
-        "year": "2023",
-        "rank": 8,
-        "play_count": 192
-      },
-      {
-        "year": "2024",
-        "rank": 3,
-        "play_count": 207
-      },
-      {
-        "year": "2025",
-        "rank": 42,
-        "play_count": 98
-      },
-      {
-        "year": "2026",
-        "rank": 37,
-        "play_count": 95
-      }
-    ],
-    "Black Pumas": [
-      {
-        "year": "2021",
-        "rank": 93,
-        "play_count": 92
-      },
-      {
-        "year": "2022",
-        "rank": 54,
-        "play_count": 113
-      },
-      {
-        "year": "2023",
-        "rank": 10,
-        "play_count": 187
-      },
-      {
-        "year": "2024",
-        "rank": 17,
-        "play_count": 134
-      },
-      {
-        "year": "2025",
-        "rank": 17,
-        "play_count": 128
-      },
-      {
-        "year": "2026",
-        "rank": 63,
-        "play_count": 79
-      }
-    ],
     "Amy Winehouse": [
       {
         "year": "2020",
@@ -4131,107 +3011,6 @@
         "year": "2025",
         "rank": 593,
         "play_count": 28
-      }
-    ],
-    "Nick Cave & The Bad Seeds": [
-      {
-        "year": "2021",
-        "rank": 43,
-        "play_count": 129
-      },
-      {
-        "year": "2022",
-        "rank": 25,
-        "play_count": 138
-      },
-      {
-        "year": "2023",
-        "rank": 30,
-        "play_count": 142
-      },
-      {
-        "year": "2024",
-        "rank": 2,
-        "play_count": 223
-      },
-      {
-        "year": "2025",
-        "rank": 26,
-        "play_count": 113
-      },
-      {
-        "year": "2026",
-        "rank": 22,
-        "play_count": 108
-      }
-    ],
-    "Moby": [
-      {
-        "year": "2021",
-        "rank": 32,
-        "play_count": 142
-      },
-      {
-        "year": "2022",
-        "rank": 102,
-        "play_count": 88
-      },
-      {
-        "year": "2023",
-        "rank": 12,
-        "play_count": 184
-      },
-      {
-        "year": "2024",
-        "rank": 26,
-        "play_count": 126
-      },
-      {
-        "year": "2025",
-        "rank": 20,
-        "play_count": 124
-      },
-      {
-        "year": "2026",
-        "rank": 28,
-        "play_count": 100
-      }
-    ],
-    "Queen": [
-      {
-        "year": "2020",
-        "rank": 2,
-        "play_count": 155
-      },
-      {
-        "year": "2021",
-        "rank": 22,
-        "play_count": 176
-      },
-      {
-        "year": "2022",
-        "rank": 48,
-        "play_count": 117
-      },
-      {
-        "year": "2023",
-        "rank": 49,
-        "play_count": 124
-      },
-      {
-        "year": "2024",
-        "rank": 133,
-        "play_count": 72
-      },
-      {
-        "year": "2025",
-        "rank": 31,
-        "play_count": 108
-      },
-      {
-        "year": "2026",
-        "rank": 13,
-        "play_count": 116
       }
     ],
     "The Beatles": [
@@ -4268,39 +3047,474 @@
       {
         "year": "2026",
         "rank": 11,
-        "play_count": 124
+        "play_count": 126
       }
     ],
-    "Arlo Parks": [
+    "Fisz Emade Tworzywo": [
+      {
+        "year": "2020",
+        "rank": 41,
+        "play_count": 72
+      },
       {
         "year": "2021",
-        "rank": 18,
-        "play_count": 184
+        "rank": 5,
+        "play_count": 252
       },
       {
         "year": "2022",
-        "rank": 68,
-        "play_count": 100
+        "rank": 6,
+        "play_count": 231
       },
       {
         "year": "2023",
-        "rank": 37,
-        "play_count": 136
+        "rank": 15,
+        "play_count": 169
       },
       {
         "year": "2024",
-        "rank": 72,
+        "rank": 24,
+        "play_count": 129
+      },
+      {
+        "year": "2025",
+        "rank": 2,
+        "play_count": 183
+      },
+      {
+        "year": "2026",
+        "rank": 51,
+        "play_count": 87
+      }
+    ],
+    "Iggy Pop": [
+      {
+        "year": "2021",
+        "rank": 90,
+        "play_count": 94
+      },
+      {
+        "year": "2022",
+        "rank": 64,
+        "play_count": 102
+      },
+      {
+        "year": "2023",
+        "rank": 5,
+        "play_count": 219
+      },
+      {
+        "year": "2024",
+        "rank": 14,
+        "play_count": 142
+      },
+      {
+        "year": "2025",
+        "rank": 27,
+        "play_count": 112
+      },
+      {
+        "year": "2026",
+        "rank": 68,
+        "play_count": 79
+      }
+    ],
+    "Elvis Presley": [
+      {
+        "year": "2020",
+        "rank": 10,
+        "play_count": 101
+      },
+      {
+        "year": "2021",
+        "rank": 65,
+        "play_count": 106
+      },
+      {
+        "year": "2022",
+        "rank": 35,
+        "play_count": 130
+      },
+      {
+        "year": "2023",
+        "rank": 93,
+        "play_count": 94
+      },
+      {
+        "year": "2024",
+        "rank": 73,
         "play_count": 90
       },
       {
         "year": "2025",
-        "rank": 101,
+        "rank": 93,
+        "play_count": 77
+      },
+      {
+        "year": "2026",
+        "rank": 72,
+        "play_count": 77
+      }
+    ],
+    "Daria Zawiałow": [
+      {
+        "year": "2020",
+        "rank": 8,
+        "play_count": 108
+      }
+    ],
+    "Bruce Springsteen": [
+      {
+        "year": "2020",
+        "rank": 1,
+        "play_count": 164
+      },
+      {
+        "year": "2021",
+        "rank": 21,
+        "play_count": 179
+      },
+      {
+        "year": "2022",
+        "rank": 28,
+        "play_count": 135
+      },
+      {
+        "year": "2023",
+        "rank": 72,
+        "play_count": 105
+      },
+      {
+        "year": "2024",
+        "rank": 67,
+        "play_count": 93
+      },
+      {
+        "year": "2025",
+        "rank": 7,
+        "play_count": 153
+      },
+      {
+        "year": "2026",
+        "rank": 33,
+        "play_count": 99
+      }
+    ],
+    "Krzysztof Zalewski": [
+      {
+        "year": "2020",
+        "rank": 9,
+        "play_count": 102
+      },
+      {
+        "year": "2021",
+        "rank": 56,
+        "play_count": 113
+      },
+      {
+        "year": "2022",
+        "rank": 75,
+        "play_count": 98
+      },
+      {
+        "year": "2023",
+        "rank": 131,
+        "play_count": 81
+      },
+      {
+        "year": "2024",
+        "rank": 7,
+        "play_count": 169
+      },
+      {
+        "year": "2025",
+        "rank": 346,
+        "play_count": 40
+      }
+    ],
+    "Antony Szmierek": [
+      {
+        "year": "2025",
+        "rank": 32,
+        "play_count": 106
+      },
+      {
+        "year": "2026",
+        "rank": 6,
+        "play_count": 162
+      }
+    ],
+    "Maanam": [
+      {
+        "year": "2020",
+        "rank": 6,
+        "play_count": 140
+      },
+      {
+        "year": "2021",
+        "rank": 12,
+        "play_count": 214
+      },
+      {
+        "year": "2022",
+        "rank": 46,
+        "play_count": 117
+      },
+      {
+        "year": "2023",
+        "rank": 33,
+        "play_count": 140
+      },
+      {
+        "year": "2024",
+        "rank": 62,
+        "play_count": 97
+      },
+      {
+        "year": "2025",
+        "rank": 49,
+        "play_count": 91
+      },
+      {
+        "year": "2026",
+        "rank": 34,
+        "play_count": 99
+      }
+    ],
+    "Florence + the Machine": [
+      {
+        "year": "2022",
+        "rank": 8,
+        "play_count": 213
+      },
+      {
+        "year": "2023",
+        "rank": 40,
+        "play_count": 133
+      },
+      {
+        "year": "2024",
+        "rank": 41,
+        "play_count": 113
+      },
+      {
+        "year": "2025",
+        "rank": 15,
+        "play_count": 130
+      },
+      {
+        "year": "2026",
+        "rank": 8,
+        "play_count": 158
+      }
+    ],
+    "Coldplay": [
+      {
+        "year": "2020",
+        "rank": 35,
         "play_count": 75
+      },
+      {
+        "year": "2021",
+        "rank": 33,
+        "play_count": 141
+      },
+      {
+        "year": "2022",
+        "rank": 58,
+        "play_count": 108
+      },
+      {
+        "year": "2023",
+        "rank": 27,
+        "play_count": 144
+      },
+      {
+        "year": "2024",
+        "rank": 25,
+        "play_count": 126
+      },
+      {
+        "year": "2025",
+        "rank": 100,
+        "play_count": 76
+      },
+      {
+        "year": "2026",
+        "rank": 82,
+        "play_count": 72
+      }
+    ],
+    "Chumbawamba": [
+      {
+        "year": "2020",
+        "rank": 7,
+        "play_count": 108
+      },
+      {
+        "year": "2021",
+        "rank": 13,
+        "play_count": 202
+      },
+      {
+        "year": "2022",
+        "rank": 21,
+        "play_count": 145
+      },
+      {
+        "year": "2023",
+        "rank": 88,
+        "play_count": 96
+      },
+      {
+        "year": "2024",
+        "rank": 471,
+        "play_count": 32
+      }
+    ],
+    "Jessie Ware": [
+      {
+        "year": "2020",
+        "rank": 43,
+        "play_count": 70
+      },
+      {
+        "year": "2021",
+        "rank": 94,
+        "play_count": 91
+      },
+      {
+        "year": "2022",
+        "rank": 304,
+        "play_count": 45
+      },
+      {
+        "year": "2023",
+        "rank": 61,
+        "play_count": 109
+      },
+      {
+        "year": "2024",
+        "rank": 75,
+        "play_count": 90
+      },
+      {
+        "year": "2025",
+        "rank": 74,
+        "play_count": 83
       },
       {
         "year": "2026",
         "rank": 4,
-        "play_count": 170
+        "play_count": 172
+      }
+    ],
+    "Pablopavo i Ludziki": [
+      {
+        "year": "2025",
+        "rank": 8,
+        "play_count": 150
+      },
+      {
+        "year": "2026",
+        "rank": 94,
+        "play_count": 68
+      }
+    ],
+    "Depeche Mode": [
+      {
+        "year": "2020",
+        "rank": 27,
+        "play_count": 80
+      },
+      {
+        "year": "2021",
+        "rank": 10,
+        "play_count": 228
+      },
+      {
+        "year": "2022",
+        "rank": 20,
+        "play_count": 150
+      },
+      {
+        "year": "2023",
+        "rank": 3,
+        "play_count": 239
+      },
+      {
+        "year": "2024",
+        "rank": 39,
+        "play_count": 115
+      },
+      {
+        "year": "2025",
+        "rank": 35,
+        "play_count": 101
+      },
+      {
+        "year": "2026",
+        "rank": 25,
+        "play_count": 106
+      }
+    ],
+    "Jungle": [
+      {
+        "year": "2021",
+        "rank": 25,
+        "play_count": 159
+      },
+      {
+        "year": "2022",
+        "rank": 52,
+        "play_count": 114
+      },
+      {
+        "year": "2023",
+        "rank": 13,
+        "play_count": 174
+      },
+      {
+        "year": "2024",
+        "rank": 8,
+        "play_count": 168
+      },
+      {
+        "year": "2025",
+        "rank": 3,
+        "play_count": 162
+      },
+      {
+        "year": "2026",
+        "rank": 3,
+        "play_count": 191
+      }
+    ],
+    "John Mayer": [
+      {
+        "year": "2021",
+        "rank": 6,
+        "play_count": 252
+      },
+      {
+        "year": "2022",
+        "rank": 12,
+        "play_count": 186
+      },
+      {
+        "year": "2023",
+        "rank": 14,
+        "play_count": 172
+      },
+      {
+        "year": "2024",
+        "rank": 20,
+        "play_count": 133
+      },
+      {
+        "year": "2025",
+        "rank": 106,
+        "play_count": 73
       }
     ],
     "Metallica": [
@@ -4336,8 +3550,45 @@
       },
       {
         "year": "2026",
-        "rank": 47,
+        "rank": 48,
+        "play_count": 90
+      }
+    ],
+    "Prince": [
+      {
+        "year": "2020",
+        "rank": 19,
         "play_count": 88
+      },
+      {
+        "year": "2021",
+        "rank": 16,
+        "play_count": 195
+      },
+      {
+        "year": "2022",
+        "rank": 51,
+        "play_count": 116
+      },
+      {
+        "year": "2023",
+        "rank": 55,
+        "play_count": 118
+      },
+      {
+        "year": "2024",
+        "rank": 61,
+        "play_count": 98
+      },
+      {
+        "year": "2025",
+        "rank": 69,
+        "play_count": 85
+      },
+      {
+        "year": "2026",
+        "rank": 79,
+        "play_count": 74
       }
     ],
     "Miles Kane": [
@@ -4363,8 +3614,641 @@
       },
       {
         "year": "2026",
-        "rank": 41,
+        "rank": 43,
+        "play_count": 94
+      }
+    ],
+    "Moby": [
+      {
+        "year": "2021",
+        "rank": 32,
+        "play_count": 142
+      },
+      {
+        "year": "2022",
+        "rank": 102,
+        "play_count": 88
+      },
+      {
+        "year": "2023",
+        "rank": 12,
+        "play_count": 184
+      },
+      {
+        "year": "2024",
+        "rank": 26,
+        "play_count": 126
+      },
+      {
+        "year": "2025",
+        "rank": 20,
+        "play_count": 124
+      },
+      {
+        "year": "2026",
+        "rank": 30,
+        "play_count": 102
+      }
+    ],
+    "Royal Blood": [
+      {
+        "year": "2021",
+        "rank": 38,
+        "play_count": 136
+      },
+      {
+        "year": "2022",
+        "rank": 87,
         "play_count": 93
+      },
+      {
+        "year": "2023",
+        "rank": 16,
+        "play_count": 163
+      },
+      {
+        "year": "2024",
+        "rank": 56,
+        "play_count": 103
+      },
+      {
+        "year": "2025",
+        "rank": 63,
+        "play_count": 86
+      },
+      {
+        "year": "2026",
+        "rank": 66,
+        "play_count": 81
+      }
+    ],
+    "U2": [
+      {
+        "year": "2020",
+        "rank": 5,
+        "play_count": 143
+      },
+      {
+        "year": "2021",
+        "rank": 9,
+        "play_count": 242
+      },
+      {
+        "year": "2022",
+        "rank": 11,
+        "play_count": 197
+      },
+      {
+        "year": "2023",
+        "rank": 2,
+        "play_count": 245
+      },
+      {
+        "year": "2024",
+        "rank": 12,
+        "play_count": 150
+      },
+      {
+        "year": "2025",
+        "rank": 285,
+        "play_count": 46
+      },
+      {
+        "year": "2026",
+        "rank": 12,
+        "play_count": 122
+      }
+    ],
+    "Foo Fighters": [
+      {
+        "year": "2021",
+        "rank": 14,
+        "play_count": 199
+      },
+      {
+        "year": "2022",
+        "rank": 37,
+        "play_count": 128
+      },
+      {
+        "year": "2023",
+        "rank": 20,
+        "play_count": 152
+      },
+      {
+        "year": "2024",
+        "rank": 40,
+        "play_count": 115
+      },
+      {
+        "year": "2025",
+        "rank": 10,
+        "play_count": 143
+      },
+      {
+        "year": "2026",
+        "rank": 13,
+        "play_count": 121
+      }
+    ],
+    "The Cure": [
+      {
+        "year": "2020",
+        "rank": 18,
+        "play_count": 89
+      },
+      {
+        "year": "2021",
+        "rank": 15,
+        "play_count": 199
+      },
+      {
+        "year": "2022",
+        "rank": 9,
+        "play_count": 212
+      },
+      {
+        "year": "2023",
+        "rank": 31,
+        "play_count": 141
+      },
+      {
+        "year": "2024",
+        "rank": 4,
+        "play_count": 187
+      },
+      {
+        "year": "2025",
+        "rank": 13,
+        "play_count": 142
+      },
+      {
+        "year": "2026",
+        "rank": 69,
+        "play_count": 79
+      }
+    ],
+    "Pearl Jam": [
+      {
+        "year": "2020",
+        "rank": 14,
+        "play_count": 96
+      },
+      {
+        "year": "2021",
+        "rank": 19,
+        "play_count": 183
+      },
+      {
+        "year": "2022",
+        "rank": 31,
+        "play_count": 133
+      },
+      {
+        "year": "2023",
+        "rank": 45,
+        "play_count": 127
+      },
+      {
+        "year": "2024",
+        "rank": 33,
+        "play_count": 122
+      },
+      {
+        "year": "2025",
+        "rank": 273,
+        "play_count": 47
+      }
+    ],
+    "Billie Eilish": [
+      {
+        "year": "2020",
+        "rank": 22,
+        "play_count": 86
+      },
+      {
+        "year": "2021",
+        "rank": 24,
+        "play_count": 159
+      },
+      {
+        "year": "2022",
+        "rank": 60,
+        "play_count": 107
+      },
+      {
+        "year": "2023",
+        "rank": 53,
+        "play_count": 122
+      },
+      {
+        "year": "2024",
+        "rank": 31,
+        "play_count": 123
+      },
+      {
+        "year": "2025",
+        "rank": 295,
+        "play_count": 45
+      }
+    ],
+    "Brodka": [
+      {
+        "year": "2021",
+        "rank": 26,
+        "play_count": 156
+      },
+      {
+        "year": "2022",
+        "rank": 39,
+        "play_count": 127
+      },
+      {
+        "year": "2023",
+        "rank": 50,
+        "play_count": 123
+      },
+      {
+        "year": "2024",
+        "rank": 63,
+        "play_count": 96
+      },
+      {
+        "year": "2025",
+        "rank": 172,
+        "play_count": 59
+      },
+      {
+        "year": "2026",
+        "rank": 76,
+        "play_count": 75
+      }
+    ],
+    "Sting": [
+      {
+        "year": "2020",
+        "rank": 13,
+        "play_count": 98
+      },
+      {
+        "year": "2021",
+        "rank": 3,
+        "play_count": 300
+      },
+      {
+        "year": "2022",
+        "rank": 7,
+        "play_count": 214
+      },
+      {
+        "year": "2023",
+        "rank": 86,
+        "play_count": 98
+      },
+      {
+        "year": "2024",
+        "rank": 42,
+        "play_count": 113
+      },
+      {
+        "year": "2025",
+        "rank": 36,
+        "play_count": 101
+      },
+      {
+        "year": "2026",
+        "rank": 60,
+        "play_count": 84
+      }
+    ],
+    "Michael Kiwanuka": [
+      {
+        "year": "2020",
+        "rank": 77,
+        "play_count": 60
+      },
+      {
+        "year": "2021",
+        "rank": 11,
+        "play_count": 216
+      },
+      {
+        "year": "2022",
+        "rank": 22,
+        "play_count": 145
+      },
+      {
+        "year": "2023",
+        "rank": 36,
+        "play_count": 138
+      },
+      {
+        "year": "2024",
+        "rank": 15,
+        "play_count": 142
+      },
+      {
+        "year": "2025",
+        "rank": 414,
+        "play_count": 36
+      }
+    ],
+    "The Black Keys": [
+      {
+        "year": "2020",
+        "rank": 32,
+        "play_count": 77
+      },
+      {
+        "year": "2021",
+        "rank": 7,
+        "play_count": 246
+      },
+      {
+        "year": "2022",
+        "rank": 5,
+        "play_count": 232
+      },
+      {
+        "year": "2023",
+        "rank": 8,
+        "play_count": 192
+      },
+      {
+        "year": "2024",
+        "rank": 3,
+        "play_count": 207
+      },
+      {
+        "year": "2025",
+        "rank": 42,
+        "play_count": 98
+      },
+      {
+        "year": "2026",
+        "rank": 40,
+        "play_count": 96
+      }
+    ],
+    "Red Hot Chili Peppers": [
+      {
+        "year": "2021",
+        "rank": 27,
+        "play_count": 156
+      },
+      {
+        "year": "2022",
+        "rank": 4,
+        "play_count": 286
+      },
+      {
+        "year": "2023",
+        "rank": 25,
+        "play_count": 146
+      },
+      {
+        "year": "2024",
+        "rank": 47,
+        "play_count": 111
+      },
+      {
+        "year": "2025",
+        "rank": 101,
+        "play_count": 75
+      }
+    ],
+    "David Bowie": [
+      {
+        "year": "2020",
+        "rank": 12,
+        "play_count": 98
+      },
+      {
+        "year": "2021",
+        "rank": 1,
+        "play_count": 333
+      },
+      {
+        "year": "2022",
+        "rank": 3,
+        "play_count": 292
+      },
+      {
+        "year": "2023",
+        "rank": 9,
+        "play_count": 190
+      },
+      {
+        "year": "2024",
+        "rank": 5,
+        "play_count": 183
+      },
+      {
+        "year": "2025",
+        "rank": 12,
+        "play_count": 142
+      },
+      {
+        "year": "2026",
+        "rank": 10,
+        "play_count": 128
+      }
+    ],
+    "Queen": [
+      {
+        "year": "2020",
+        "rank": 2,
+        "play_count": 155
+      },
+      {
+        "year": "2021",
+        "rank": 22,
+        "play_count": 176
+      },
+      {
+        "year": "2022",
+        "rank": 48,
+        "play_count": 117
+      },
+      {
+        "year": "2023",
+        "rank": 49,
+        "play_count": 124
+      },
+      {
+        "year": "2024",
+        "rank": 133,
+        "play_count": 72
+      },
+      {
+        "year": "2025",
+        "rank": 31,
+        "play_count": 108
+      },
+      {
+        "year": "2026",
+        "rank": 14,
+        "play_count": 118
+      }
+    ],
+    "Voo Voo": [
+      {
+        "year": "2020",
+        "rank": 60,
+        "play_count": 64
+      },
+      {
+        "year": "2021",
+        "rank": 51,
+        "play_count": 118
+      },
+      {
+        "year": "2022",
+        "rank": 10,
+        "play_count": 202
+      },
+      {
+        "year": "2023",
+        "rank": 110,
+        "play_count": 90
+      },
+      {
+        "year": "2024",
+        "rank": 92,
+        "play_count": 83
+      },
+      {
+        "year": "2025",
+        "rank": 34,
+        "play_count": 102
+      },
+      {
+        "year": "2026",
+        "rank": 7,
+        "play_count": 159
+      }
+    ],
+    "Nick Cave & The Bad Seeds": [
+      {
+        "year": "2021",
+        "rank": 43,
+        "play_count": 129
+      },
+      {
+        "year": "2022",
+        "rank": 25,
+        "play_count": 138
+      },
+      {
+        "year": "2023",
+        "rank": 30,
+        "play_count": 142
+      },
+      {
+        "year": "2024",
+        "rank": 2,
+        "play_count": 223
+      },
+      {
+        "year": "2025",
+        "rank": 26,
+        "play_count": 113
+      },
+      {
+        "year": "2026",
+        "rank": 23,
+        "play_count": 110
+      }
+    ],
+    "Kasia Lins": [
+      {
+        "year": "2023",
+        "rank": 85,
+        "play_count": 98
+      },
+      {
+        "year": "2024",
+        "rank": 143,
+        "play_count": 70
+      },
+      {
+        "year": "2025",
+        "rank": 5,
+        "play_count": 159
+      },
+      {
+        "year": "2026",
+        "rank": 22,
+        "play_count": 110
+      }
+    ],
+    "Arlo Parks": [
+      {
+        "year": "2021",
+        "rank": 18,
+        "play_count": 184
+      },
+      {
+        "year": "2022",
+        "rank": 68,
+        "play_count": 100
+      },
+      {
+        "year": "2023",
+        "rank": 37,
+        "play_count": 136
+      },
+      {
+        "year": "2024",
+        "rank": 72,
+        "play_count": 90
+      },
+      {
+        "year": "2025",
+        "rank": 101,
+        "play_count": 75
+      },
+      {
+        "year": "2026",
+        "rank": 5,
+        "play_count": 171
+      }
+    ],
+    "The Rolling Stones": [
+      {
+        "year": "2020",
+        "rank": 4,
+        "play_count": 148
+      },
+      {
+        "year": "2021",
+        "rank": 2,
+        "play_count": 301
+      },
+      {
+        "year": "2022",
+        "rank": 2,
+        "play_count": 298
+      },
+      {
+        "year": "2023",
+        "rank": 1,
+        "play_count": 353
+      },
+      {
+        "year": "2024",
+        "rank": 1,
+        "play_count": 265
+      },
+      {
+        "year": "2025",
+        "rank": 1,
+        "play_count": 193
+      },
+      {
+        "year": "2026",
+        "rank": 1,
+        "play_count": 303
       }
     ],
     "Queens of the Stone Age": [
@@ -4396,83 +4280,199 @@
       {
         "year": "2026",
         "rank": 9,
-        "play_count": 135
+        "play_count": 138
       }
     ],
-    "Antony Szmierek": [
-      {
-        "year": "2025",
-        "rank": 32,
-        "play_count": 106
-      },
-      {
-        "year": "2026",
-        "rank": 6,
-        "play_count": 161
-      }
-    ],
-    "Lenny Kravitz": [
-      {
-        "year": "2020",
-        "rank": 26,
-        "play_count": 82
-      },
-      {
-        "year": "2021",
-        "rank": 8,
-        "play_count": 243
-      },
+    "Foals": [
       {
         "year": "2022",
+        "rank": 56,
+        "play_count": 109
+      },
+      {
+        "year": "2023",
         "rank": 19,
-        "play_count": 154
-      },
-      {
-        "year": "2023",
-        "rank": 29,
-        "play_count": 143
+        "play_count": 152
       },
       {
         "year": "2024",
-        "rank": 10,
-        "play_count": 162
+        "rank": 27,
+        "play_count": 125
       },
       {
         "year": "2025",
-        "rank": 38,
-        "play_count": 100
+        "rank": 16,
+        "play_count": 130
       },
       {
         "year": "2026",
-        "rank": 82,
-        "play_count": 71
+        "rank": 26,
+        "play_count": 105
       }
     ],
-    "Red Hot Chili Peppers": [
+    "Kings of Leon": [
       {
         "year": "2021",
-        "rank": 27,
-        "play_count": 156
+        "rank": 98,
+        "play_count": 90
       },
       {
         "year": "2022",
-        "rank": 4,
-        "play_count": 286
+        "rank": 65,
+        "play_count": 101
       },
       {
         "year": "2023",
-        "rank": 25,
-        "play_count": 146
+        "rank": 57,
+        "play_count": 113
       },
       {
         "year": "2024",
-        "rank": 47,
+        "rank": 6,
+        "play_count": 183
+      },
+      {
+        "year": "2025",
+        "rank": 14,
+        "play_count": 139
+      },
+      {
+        "year": "2026",
+        "rank": 32,
+        "play_count": 100
+      }
+    ],
+    "Little Simz": [
+      {
+        "year": "2021",
+        "rank": 58,
+        "play_count": 110
+      },
+      {
+        "year": "2022",
+        "rank": 86,
+        "play_count": 93
+      },
+      {
+        "year": "2023",
+        "rank": 60,
         "play_count": 111
       },
       {
+        "year": "2024",
+        "rank": 66,
+        "play_count": 94
+      },
+      {
         "year": "2025",
-        "rank": 101,
-        "play_count": 75
+        "rank": 6,
+        "play_count": 157
+      },
+      {
+        "year": "2026",
+        "rank": 64,
+        "play_count": 81
+      }
+    ],
+    "Natalia Przybysz": [
+      {
+        "year": "2020",
+        "rank": 51,
+        "play_count": 68
+      },
+      {
+        "year": "2021",
+        "rank": 30,
+        "play_count": 146
+      },
+      {
+        "year": "2022",
+        "rank": 15,
+        "play_count": 165
+      },
+      {
+        "year": "2023",
+        "rank": 11,
+        "play_count": 187
+      },
+      {
+        "year": "2024",
+        "rank": 22,
+        "play_count": 130
+      },
+      {
+        "year": "2025",
+        "rank": 9,
+        "play_count": 146
+      },
+      {
+        "year": "2026",
+        "rank": 16,
+        "play_count": 115
+      }
+    ],
+    "Peter Gabriel": [
+      {
+        "year": "2021",
+        "rank": 85,
+        "play_count": 96
+      },
+      {
+        "year": "2022",
+        "rank": 206,
+        "play_count": 59
+      },
+      {
+        "year": "2023",
+        "rank": 6,
+        "play_count": 195
+      },
+      {
+        "year": "2024",
+        "rank": 54,
+        "play_count": 106
+      },
+      {
+        "year": "2025",
+        "rank": 24,
+        "play_count": 116
+      },
+      {
+        "year": "2026",
+        "rank": 2,
+        "play_count": 193
+      }
+    ],
+    "Black Pumas": [
+      {
+        "year": "2021",
+        "rank": 93,
+        "play_count": 92
+      },
+      {
+        "year": "2022",
+        "rank": 54,
+        "play_count": 113
+      },
+      {
+        "year": "2023",
+        "rank": 10,
+        "play_count": 187
+      },
+      {
+        "year": "2024",
+        "rank": 17,
+        "play_count": 134
+      },
+      {
+        "year": "2025",
+        "rank": 17,
+        "play_count": 128
+      },
+      {
+        "year": "2026",
+        "rank": 67,
+        "play_count": 79
       }
     ]
   },
@@ -1158201,25 +1158201,25 @@
       "sr": 4
     },
     "2026": {
-      "en-US": 15480,
-      "en-GB": 10044,
-      "pl": 4292,
-      "en-CA": 841,
-      "en-AU": 712,
-      "fr": 619,
-      "en-IE": 536,
-      "de": 530,
-      "sv": 453,
-      "nl": 318,
+      "en-US": 15841,
+      "en-GB": 10297,
+      "pl": 4414,
+      "en-CA": 860,
+      "en-AU": 724,
+      "fr": 633,
+      "en-IE": 553,
+      "de": 542,
+      "sv": 462,
+      "nl": 332,
       "it": 237,
-      "es": 163,
-      "no": 162,
-      "en-NZ": 150,
-      "pt": 130,
-      "ja": 101,
-      "da": 58,
-      "uk": 56,
-      "hi": 39,
+      "no": 166,
+      "es": 166,
+      "en-NZ": 153,
+      "pt": 136,
+      "ja": 103,
+      "da": 61,
+      "uk": 58,
+      "hi": 41,
       "ru": 30,
       "fi": 29,
       "el": 26,
