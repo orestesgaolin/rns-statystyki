@@ -1,0 +1,100 @@
+{
+    "playlist": [
+        {
+            "id": 153057,
+            "date_play": "2026-11-01 01:49:10",
+            "artist": "Sufjan Stevens",
+            "title": "Will Anybody Ever Love Me?",
+            "img": "https://nowyswiat.online/playlists/efccdf94c2b2521dfc360e08044ff869_153057rns_thumb_100x100.jpg?ts=1694772710"
+        },
+        {
+            "id": 131569,
+            "date_play": "2026-11-01 01:45:19",
+            "artist": "Bush",
+            "title": "Human Sand",
+            "img": "https://nowyswiat.online/playlists/b10709215f9de428527e2ebe8aa0fed9_131569rns_thumb_100x100.jpg?ts=1667888712"
+        },
+        {
+            "id": 134497,
+            "date_play": "2026-11-01 01:42:54",
+            "artist": "Zella Day",
+            "title": "Sunday In Heaven",
+            "img": "https://nowyswiat.online/playlists/9c7c376c243edaca90b1dd7923c072e6_134497rns_thumb_100x100.jpg?ts=1671123442"
+        },
+        {
+            "id": 134263,
+            "date_play": "2026-11-01 01:39:24",
+            "artist": "Little Simz",
+            "title": "Heart on Fire",
+            "img": "https://nowyswiat.online/playlists/a5790c3ff6043af5f6b86385594dbac7_134263rns_thumb_100x100.jpg?ts=1670833574"
+        },
+        {
+            "id": 156525,
+            "date_play": "2026-11-01 01:34:50",
+            "artist": "Kasia Lins",
+            "title": "Sto żyć",
+            "img": "https://nowyswiat.online/playlists/1c2073abd52dcc8d31d09eba03e7b50c_156525rns_thumb_100x100.jpg?ts=1698660820"
+        },
+        {
+            "id": 141232,
+            "date_play": "2026-11-01 01:31:33",
+            "artist": "Hozier",
+            "title": "Eat Your Young",
+            "img": "https://nowyswiat.online/playlists/5f3214d85bbd97a995e2c514f8c96feb_141232rns_thumb_100x100.jpg?ts=1679052019"
+        },
+        {
+            "id": 162891,
+            "date_play": "2026-11-01 01:27:19",
+            "artist": "Gary Clark Jr.",
+            "title": "Hyperwave",
+            "img": "https://nowyswiat.online/playlists/d3d194eb8fa67e5d52f43320a808b5aa_162891rns_thumb_100x100.jpg?ts=1706270818"
+        },
+        {
+            "id": 166065,
+            "date_play": "2026-11-01 01:23:53",
+            "artist": "Norah Jones",
+            "title": "All This Time",
+            "img": "https://nowyswiat.online/playlists/5969995abcb849a450bfa24b5b67c6c9_166065rns_thumb_100x100.jpg?ts=1709987456"
+        },
+        {
+            "id": 236878,
+            "date_play": "2026-11-01 01:19:42",
+            "artist": "Art d'Ecco",
+            "title": "How Real is Real?",
+            "img": "https://nowyswiat.online/playlists/ba89c6a095ce27e6efe118a6b4929fad_236878rns_thumb_100x100.jpg?ts=1791801041"
+        },
+        {
+            "id": 238228,
+            "date_play": "2026-11-01 00:12:36",
+            "artist": "Judyta Pisarczyk Quartet",
+            "title": "Jazz po polsku: koncert",
+            "img": ""
+        },
+        {
+            "id": 67925,
+            "date_play": "2026-11-01 00:08:43",
+            "artist": "The Lumineers",
+            "title": "Sleep On The Floor",
+            "img": "https://nowyswiat.online/playlists/5f2739cd0b74b2a63e18bb6959fc4c30_67925rns_thumb_100x100.jpg?ts=1651352361"
+        },
+        {
+            "id": 81754,
+            "date_play": "2026-11-01 00:04:48",
+            "artist": "Henry Green",
+            "title": "Electric Feel",
+            "img": "https://nowyswiat.online/playlists/a7e17d5c30c8bfc6f0b247dc00e34605_81754rns_thumb_100x100.jpg?ts=1679177088"
+        },
+        {
+            "id": 238227,
+            "date_play": "2026-11-01 00:00:01",
+            "artist": "Brooke Annibale",
+            "title": "Collided",
+            "img": "https://nowyswiat.online/playlists/a06f0bb0314cfe229a18fce97d58f1be_238227rns_thumb_100x100.jpg?ts=1793487603"
+        }
+    ],
+    "current_page": 1,
+    "last_page": 1,
+    "perpage": 300,
+    "total_elements": 13,
+    "status": "OK"
+}
